@@ -54,8 +54,6 @@ The most important feature of FakeNewsNet is that it also downloads tweets and r
 
 ## Preliminary Analysis of users
 
-### General statistics
-
 **Total number of verified users as of Oct 2019:** 335018
  
 
@@ -67,18 +65,6 @@ The most important feature of FakeNewsNet is that it also downloads tweets and r
 | max    | 4494592.00 | 108831215.00 | 3177668.00 | 50437226.00 |
 
 
-### Charts
-A plot of top user locations and the number of accounts created by year yeilds some interesting results.
-
-- #### Top 50 user locations
-
-<img src="https://github.com/Aveek-Saha/TwitterFakeNet/blob/master/figures/location.png">
-	 Because of the abscence of auto-complete, a lot of the same places have different spellings, and the same cities are abrieviated in some instances but not in others. Still this chart is useful identifying some of the major cities and countries that verified users commonly reside in.
-
-- #### Number of accounts created by year
-
-<img src="https://github.com/Aveek-Saha/TwitterFakeNet/blob/master/figures/by_year.png">
-	 A big chunk verified accounts were created in 2009, which was when Twitter was most popular. Since then there has been a steady decline, and in the last two years, this may be party due to the fact that Twitter has paused public submissions for verification since early 2018.
 
 
 
