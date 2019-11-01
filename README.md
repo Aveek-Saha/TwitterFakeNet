@@ -23,18 +23,18 @@ There is an official Twitter Verified account, [@verified](https://twitter.com/v
 
 
 ## Dataset
-To build a classification model that would find patterns in ego networks to detect verified users that share predominantly fake news, a dataset containing edges between users and a database of tweets and retweets that have been manually classifed as real or fake is required. Such a dataset does not exist already, but using two tools, it can be generated.
+To build a classification model that would find patterns in ego networks to detect verified users that share predominantly fake news, a dataset containing edges between users and a database of tweets and retweets that have been manually classifed as real or fake is required. Such a dataset does not exist already, but it can be generated.
 
-### Twecoll
+### 1. Twecoll
 [Twecoll](https://github.com/jdevoo/twecoll) is a command line tool used to retrieve data from Twitter. Using twecoll, we can generate a list of all users that a user follows, and then generate a follower graph from this data.
 
-### FakeNewsNet
+### 2. FakeNewsNet
 [FakeNewsNet](https://github.com/KaiDMML/FakeNewsNet) is a fake news data repository, which contains two comprehensive datasets that includes news content, social context, and dynamic information. The news is obtained from fact-checking websites to obtain news withground truth labels for fake news and true news. 
 
-The Two sources are-
-#### 1. PolitiFact
+There are two sources-
+- #### PolitiFact
 In PolitiFact, journalists and domain experts review the political news and provide fact-checking evaluation results to claim news articles as fake or real.
-#### 2. GossipCop
+- #### GossipCop
 GossipCop is a website for fact-checking entertainment stories aggregated from various media outlets. GossipCop provides rating scores on the
 scale of 0 to 10 to classify a news story as the degree from fake to real.
 
