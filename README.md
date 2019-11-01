@@ -21,7 +21,7 @@ When you go to a users profile, if they have a small blue/white icon next to the
 
 There is an official Twitter Verified account, [@verified](https://twitter.com/verified), and if you look closely at all the accounts it follows, it's easy to see it follows every verified account on Twitter. A few people might have blocked @verified but we can assume that the number is small and can be ignored. 
 
-I picked up this method and some ideas for preliminary user analysis from an article by [Luca Hammer](https://medium.com/startup-grind/analyzing-205-718-verified-twitter-users-cf0811781ac8).
+I picked up this method and some ideas for analysis from an article by [Luca Hammer](https://medium.com/startup-grind/analyzing-205-718-verified-twitter-users-cf0811781ac8).
 
 
 ## Dataset
@@ -33,10 +33,7 @@ To build a classification model that would find patterns in ego networks to dete
 Once `twecoll` is done getting the list of users that @verified follows, it generates a `<username>.dat` file containing information about every user in that list. The important information downloaded is-
 - User ID- an unique identifier for the user
 - Name- the display name of the user
-- Friends count- number of friends a user has
-- Followers count- number of followers a user has
-- Listed count- number of lists a user is included in
-- Statuses count- number of statuses(tweets) a user has made
+- Friends, Followers, Listed, Statuses count- number of: friends, followers a user has, lists a user is included in, statuses(tweets) a user has made
 - Date created- the date the account was created
 - Location- where the user is located, this location is self reported, and Twitter has no autocomplete for this location, so spelling mistakes are common and the data isnt very reliable
 
@@ -52,7 +49,7 @@ scale of 0 to 10 to classify a news story as the degree from fake to real.
 The most important feature of FakeNewsNet is that it also downloads tweets and retweets sharing the news articles from Twitter. This means that we can get the profile of users that shared the tweets from Twitter, and then combine it with our list of verified users to see how many fake/real news articles every verified user shared.
 
 
-## Preliminary Analysis of users
+### Stats
 
 **Total number of verified users as of Oct 2019:** 335018
  
@@ -65,8 +62,10 @@ The most important feature of FakeNewsNet is that it also downloads tweets and r
 | max    | 4494592.00 | 108831215.00 | 3177668.00 | 50437226.00 |
 
 
+### Final dataset
 
 
 
+## Classification
 
 
