@@ -17,7 +17,7 @@ The verified status does not make the account any more credible than it was befo
 Because of the nature of accounts that get the verified status, they generally have a large following, average: 117k, median: 10k. So they're crutial in the dissemination and propogation of information. This is why it's worthwhile exploring how reliable or trustworthy these users are as news sources.
 
 ### How to tell if a user is verified?
-When you go to a users profile, if they have a small blue icon next to their username with a tick, that looks something like this <img src="https://github.com/Aveek-Saha/TwitterFakeNet/blob/master/figures/verified.png" width="10" title="verified icon">, then that user is verified but there is no obvious way to write a script to collect details of all such users.
+When you go to a users profile, if they have a small blue icon next to their username with a tick, that looks something like this <img src="https://github.com/Aveek-Saha/TwitterFakeNet/blob/master/figures/verified.png" width="20" title="verified icon">, then that user is verified but there is no obvious way to write a script to collect details of all such users.
 
 ## Dataset
 To build a classification model that would find patterns in ego networks to detect verified users that share predominantly fake news, a dataset containing edges between users and a database of tweets and retweets that have been manually classifed as real or fake is required. Such a dataset does not exist already, but using two tools, it can be generated.
