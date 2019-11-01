@@ -13,3 +13,4 @@ So accounts are generally verified if they belong to public figures, like politi
 
 ### Why verified users?
 Due to the social significance of verified users they're crutial in the dissemination and propogation of information and it's worthwhile exploring how reliable or trustworthy these users are as news sources.
+The verified status does not make the account any more credible than it was before verification and from this recent paper- [Does Being Verified Make You More Credible? Account Verification’s Effect on Tweet Credibility](https://security.cs.georgetown.edu/~tavish/twitter-credibility-chi2019.pdf) we can see that most users understand this.
