@@ -55,6 +55,10 @@ The most important feature of FakeNewsNet is that it also downloads tweets and r
 ## Preliminary Analysis of users
 
 ### General statistics
+
+**Total number of verified users:** 335018
+ 
+
 |        | Friends    | Followers    | Listed     | Statuses    |
 |--------|------------|--------------|------------|-------------|
 | mean   | 2074.95    | 116570.99    | 510.01     | 16671.92    |
@@ -69,32 +73,32 @@ Some of the charts shown below had their x axis clipped beyond a certain value t
 #### Number of followers
 Clipped at 1,000,000 followers
 
-<img src="https://github.com/Aveek-Saha/TwitterFakeNet/blob/master/figures/followers.png" >
+<img src="https://github.com/Aveek-Saha/TwitterFakeNet/blob/master/figures/followers.png" width="50%">
 
 #### Number of friends
 Clipped at 10,000 friends(following)
 
-<img src="https://github.com/Aveek-Saha/TwitterFakeNet/blob/master/figures/friends.png" >
+<img src="https://github.com/Aveek-Saha/TwitterFakeNet/blob/master/figures/friends.png" width="50%">
 
 
 #### Number of statuses
 Clipped at 100,000 statuses
 
-<img src="https://github.com/Aveek-Saha/TwitterFakeNet/blob/master/figures/status.png" >
+<img src="https://github.com/Aveek-Saha/TwitterFakeNet/blob/master/figures/status.png" width="50%">
 
 
 #### Number of lists
 Clipped at 5,000 lists
 
-<img src="https://github.com/Aveek-Saha/TwitterFakeNet/blob/master/figures/listed.png" >
+<img src="https://github.com/Aveek-Saha/TwitterFakeNet/blob/master/figures/listed.png" width="50%">
 
 #### Top 50 user locations
 
-<img src="https://github.com/Aveek-Saha/TwitterFakeNet/blob/master/figures/location.png" >
+<img src="https://github.com/Aveek-Saha/TwitterFakeNet/blob/master/figures/location.png" width="50%">
 
 #### Number of accounts created by year
 
-<img src="https://github.com/Aveek-Saha/TwitterFakeNet/blob/master/figures/by_year.png" >
+<img src="https://github.com/Aveek-Saha/TwitterFakeNet/blob/master/figures/by_year.png" width="50%">
 
 
 
