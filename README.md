@@ -73,7 +73,6 @@ A plot of top user locations and the number of accounts created by year yeilds s
 - #### Top 50 user locations
 
 <img src="https://github.com/Aveek-Saha/TwitterFakeNet/blob/master/figures/location.png">
-
 	 Because of the abscence of auto-complete, a lot of the same places have different spellings, and the same cities are abrieviated in some instances but not in others. Still this chart is useful identifying some of the major cities and countries that verified users commonly reside in.
 
 - #### Number of accounts created by year
