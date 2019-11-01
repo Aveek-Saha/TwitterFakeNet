@@ -30,21 +30,18 @@ To build a classification model that would find patterns in ego networks to dete
 ### 1. Twecoll
 [Twecoll](https://github.com/jdevoo/twecoll) is a command line tool used to retrieve data from Twitter. Using twecoll, we can generate a list of all users that a user follows, and then generate a follower graph from this data.
 
-Once `twecoll` is done getting the list of users that @verified follows, it generates a `<username>.dat` file containing the following columns for every user in that list-
+Once `twecoll` is done getting the list of users that @verified follows, it generates a `<username>.dat` file containing information about every user in that list. The important information downloaded is-
 - User ID- an unique identifier for the user
 - Name- the display name of the user
-- Relation- the relation between the user and the account whose friends(people a user follows) we're retrieving. In this case all users in the list are friends of @verified, so all entries in this column will be 'friends'.
 - Friends count- number of friends a user has
 - Followers count- number of followers a user has
 - Listed count- number of lists a user is included in
 - Statuses count- number of statuses(tweets) a user has made
 - Date created- the date the account was created
-- URL- the profile URL of the user
-- Avatar- profile picture URL
 - Location- where the user is located, this location is self reported, and Twitter has no autocomplete for this location, so spelling mistakes are common and the data isnt very reliable
 
 ### 2. FakeNewsNet
-[FakeNewsNet](https://github.com/KaiDMML/FakeNewsNet) is a fake news data repository, which contains two comprehensive datasets that includes news content, social context, and dynamic information. The full paper can be found [here](https://arxiv.org/pdf/1809.01286.pdf). The news is obtained from *two* fact-checking websites to obtain news with ground truth labels for fake news and true news.
+[FakeNewsNet](https://github.com/KaiDMML/FakeNewsNet) is a fake news data repository, which contains two comprehensive datasets that includes news content, social context, and dynamic information. The full paper can be found [here](https://arxiv.org/pdf/1809.01286.pdf). The news is obtained from *two* fact-checking websites to obtain news with ground truth labels for fake news and true news, these websites are-
 
 - #### PolitiFact
 	 In PolitiFact, journalists and domain experts review the political news and provide fact-checking evaluation results to claim news articles as fake or real.
@@ -57,6 +54,47 @@ The most important feature of FakeNewsNet is that it also downloads tweets and r
 
 ## Preliminary Analysis of users
 
+### General statistics
+|        | Friends    | Followers    | Listed     | Statuses    |
+|--------|------------|--------------|------------|-------------|
+| mean   | 2074.95    | 116570.99    | 510.01     | 16671.92    |
+| median | 532.00     | 10152.00     | 122.00     | 5366.00     |
+| min    | 0.0        | 0.0          | 0.0        | 0.0         |
+| max    | 4494592.00 | 108831215.00 | 3177668.00 | 50437226.00 |
+
+
+### Charts
+Some of the charts shown below had their x axis clipped beyond a certain value to make them more readable.
+
+#### Number of followers
+Clipped at 1,000,000 followers
+
+<img src="https://github.com/Aveek-Saha/TwitterFakeNet/blob/master/figures/followers.png" >
+
+#### Number of friends
+Clipped at 10,000 friends(following)
+
+<img src="https://github.com/Aveek-Saha/TwitterFakeNet/blob/master/figures/friends.png" >
+
+
+#### Number of statuses
+Clipped at 100,000 statuses
+
+<img src="https://github.com/Aveek-Saha/TwitterFakeNet/blob/master/figures/status.png" >
+
+
+#### Number of lists
+Clipped at 5,000 lists
+
+<img src="https://github.com/Aveek-Saha/TwitterFakeNet/blob/master/figures/listed.png" >
+
+#### Top 50 user locations
+
+<img src="https://github.com/Aveek-Saha/TwitterFakeNet/blob/master/figures/location.png" >
+
+#### Number of accounts created by year
+
+<img src="https://github.com/Aveek-Saha/TwitterFakeNet/blob/master/figures/by_year.png" >
 
 
 
