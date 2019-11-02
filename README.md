@@ -62,10 +62,33 @@ The most important feature of FakeNewsNet is that it also downloads tweets and r
 | max    | 4494592.00 | 108831215.00 | 3177668.00 | 50437226.00 |
 
 
-### Final dataset
+## Creating Labels
 
+To create the labels, the ratio of fake news shared to total number of articles shared is considered. The FakeNewsNet dataset contains real and fake news for both Politifact and GossipCop. So first the total number of fake/real news articles a user has shared is calculated by checking how many times their display name or id matches the id or display name of the user sharing a tweet. From this we can get the total number of fake and real news articles a user has shared from both sources(Politifact and GossipCop) and then find the ratio of fake to total news shared.
 
+If more than half the news articles a user has tweeted are fake, then that user is assigned a label of 1, and if less than half are fake, they are given a label of 0. So a label of 1 means the account shares mostly fake news, and a label of 0 means the news shared is mostly real.
+
+## Creating Features
+
+Apart from the the number of friends, followers, lists and statuses, we need some more meaningful features for classification. There is no point in adding any manually engineered graph features since the graph neural networks and node2vec algorithms used for classification will automatically determine the best features to use during training.
+
+So instead features generated from the text from both user bio descriptions and tweets will be used. The features we'll be generating are-
+
+1. ### Sentiment analysis
+	 Using the [TextBlob](https://textblob.readthedocs.io/en/dev/quickstart.html#sentiment-analysis) library, we can get the average polarity and subjectivity of their description and all tweets a user has made 
+	 
+- ### Empath
+	 [Empath](https://github.com/Ejhfast/empath-client) is a tool for analyzing text across lexical categories. The idea here is that some topics may be more likely to generate fake news, and users whose tweets frequently contain certain controvertial or polar topics may be more likely to share fake news, while other who tweet about relatively safe topics may be less likey to share fake news articles.
+	 
+	 The empath tool anaylses text and counts words that fall into around 200 predefined categories like envy, family, crime, masculine, health, dispute and many more.
 
 ## Classification
+
+1. ### Node2vec
+
+
+- ### Graph neural networks
+
+																										
 
 
