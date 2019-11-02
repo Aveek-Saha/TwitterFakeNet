@@ -19,7 +19,7 @@ Because of the nature of accounts that get the verified status, they generally h
 ### How to tell if a user is verified?
 When you go to a users profile, if they have a small blue/white icon next to their username with a tick, that looks something like this <img src="https://github.com/Aveek-Saha/TwitterFakeNet/blob/master/figures/verified.png" width="20" title="verified icon">, then that user is verified but there is no obvious way to write a script to collect details of all such users.
 
-There is an official Twitter Verified account, [@verified](https://twitter.com/verified), and if you look closely at all the accounts it follows, it's easy to see it follows every verified account on Twitter. A few people might have blocked @verified but we can assume that the number is small and can be ignored. 
+There is an official Twitter Verified account [@verified](https://twitter.com/verified), and if you look closely at all the accounts it follows, it's easy to see it follows every verified account on Twitter. A few people might have blocked @verified but we can assume that the number is small and can be ignored. 
 
 I picked up this method and some ideas for analysis from an article by [Luca Hammer](https://medium.com/startup-grind/analyzing-205-718-verified-twitter-users-cf0811781ac8).
 
@@ -31,11 +31,11 @@ To build a classification model that would find patterns in ego networks to dete
 [Twecoll](https://github.com/jdevoo/twecoll) is a command line tool used to retrieve data from Twitter. Using twecoll, we can generate a list of all users that a user follows, and then generate a follower graph from this data.
 
 Once `twecoll` is done getting the list of users that @verified follows, it generates a `<username>.dat` file containing information about every user in that list. The important information downloaded is-
-- User ID- an unique identifier for the user
+- User ID- a unique identifier for the user
 - Name- the display name of the user
 - Friends, Followers, Listed, Statuses count- number of: friends, followers a user has, lists a user is included in, statuses(tweets) a user has made
 - Date created- the date the account was created
-- Location- where the user is located, this location is self reported, and Twitter has no autocomplete for this location, so spelling mistakes are common and the data isnt very reliable
+- Location- where the user is located, this location is self reported, and Twitter has no autocomplete for this location, so spelling mistakes are common and the data is not very reliable
 
 ### 2. FakeNewsNet
 [FakeNewsNet](https://github.com/KaiDMML/FakeNewsNet) is a fake news data repository, which contains two comprehensive datasets that includes news content, social context, and dynamic information. The full paper can be found [here](https://arxiv.org/pdf/1809.01286.pdf). The news is obtained from *two* fact-checking websites to obtain news with ground truth labels for fake news and true news, these websites are-
@@ -70,7 +70,7 @@ If more than half the news articles a user has tweeted are fake, then that user 
 
 ## Creating Features
 
-Apart from the the number of friends, followers, lists and statuses, we need some more meaningful features for classification. There is no point in adding any manually engineered graph features since the graph neural networks and node2vec algorithms used for classification will automatically determine the best features to use during training.
+Apart from the number of friends, followers, lists and statuses, we need some more meaningful features for classification. There is no point in adding any manually engineered graph features since the graph neural networks and node2vec algorithms used for classification will automatically determine the best features to use during training.
 
 So instead features generated from the text from both user bio descriptions and tweets will be used. The features we'll be generating are from-
 
@@ -80,17 +80,17 @@ So instead features generated from the text from both user bio descriptions and 
 2. ### Empath
 	 [Empath](https://github.com/Ejhfast/empath-client) is a tool for analyzing text across lexical categories. The idea here is that some topics may be more likely to generate fake news, and users whose tweets frequently contain these topics may be more likely to share fake news.
 	 
-	 The empath tool anaylses text and counts words that fall into around 200 predefined categories like envy, family, crime, masculine, health, dispute and many more.
+	 The empath tool analyzes text and counts words that fall into around 200 predefined categories like envy, family, crime, masculine, health, dispute and many more.
 	 
 ## Edgelist
-Using twecoll it is possible to generate a GML file of your first and second degree relationships on Twitter. In order to generate the graph, twecoll retrieves the handle's friends (or followers) and all friends-of-friends (2nd degree relationships). It then looks for friend relationships among the friends/followers of the handle.
+Using twecoll it is possible to generate a GML file of a users first and second degree relationships on Twitter. In order to generate the graph, twecoll retrieves the handle's friends (or followers) and all friends-of-friends (2nd degree relationships). It then looks for friend relationships among the friends/followers of the handle.
 
 In this case the handle we supply to twecoll is @verified, and a file with all the 1st and 2nd degree relationships of users that are friends of @verified is generated.
 
-Because of Twitter's very restrictive API rate limits, generating the edgelist of all 330k+ verified users is not feasible, so the users are filtered. The following restrictions were applied-
+Because of Twitter's very restrictive API rate limits, generating the edge list of all 330k+ verified users is not feasible, so the users are filtered. The following restrictions were applied-
 
 1. The user must have at least two tweets, sharing at least one real, and one fake article
-* The user must be following less than 10k people. The reason for this is, it's highly unlikely that a user with more than 10000 friends manually followed so many accounts and they probably used bots.
+2. The user must be following less than 10k people. The reason for this is, it's highly unlikely that a user with more than 10000 friends manually followed so many accounts and they probably used bots.
 
 ## Classification
 
@@ -100,5 +100,7 @@ Because of Twitter's very restrictive API rate limits, generating the edgelist o
 2. ### Graph neural networks
 
 																										
+
+
 
 
