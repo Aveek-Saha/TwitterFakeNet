@@ -72,22 +72,32 @@ If more than half the news articles a user has tweeted are fake, then that user 
 
 Apart from the the number of friends, followers, lists and statuses, we need some more meaningful features for classification. There is no point in adding any manually engineered graph features since the graph neural networks and node2vec algorithms used for classification will automatically determine the best features to use during training.
 
-So instead features generated from the text from both user bio descriptions and tweets will be used. The features we'll be generating are-
+So instead features generated from the text from both user bio descriptions and tweets will be used. The features we'll be generating are from-
 
 1. ### Sentiment analysis
-	 Using the [TextBlob](https://textblob.readthedocs.io/en/dev/quickstart.html#sentiment-analysis) library, we can get the average polarity and subjectivity of their description and all tweets a user has made 
+	 Using the [TextBlob](https://textblob.readthedocs.io/en/dev/quickstart.html#sentiment-analysis) library, we can get the average polarity and subjectivity of their profile description and all tweets they have made 
 	 
-- ### Empath
-	 [Empath](https://github.com/Ejhfast/empath-client) is a tool for analyzing text across lexical categories. The idea here is that some topics may be more likely to generate fake news, and users whose tweets frequently contain certain controvertial or polar topics may be more likely to share fake news, while other who tweet about relatively safe topics may be less likey to share fake news articles.
+2. ### Empath
+	 [Empath](https://github.com/Ejhfast/empath-client) is a tool for analyzing text across lexical categories. The idea here is that some topics may be more likely to generate fake news, and users whose tweets frequently contain these topics may be more likely to share fake news.
 	 
 	 The empath tool anaylses text and counts words that fall into around 200 predefined categories like envy, family, crime, masculine, health, dispute and many more.
+	 
+## Edgelist
+Using twecoll it is possible to generate a GML file of your first and second degree relationships on Twitter. In order to generate the graph, twecoll retrieves the handle's friends (or followers) and all friends-of-friends (2nd degree relationships). It then looks for friend relationships among the friends/followers of the handle.
+
+In this case the handle we supply to twecoll is @verified, and a file with all the 1st and 2nd degree relationships of users that are friends of @verified is generated.
+
+Because of Twitter's very restrictive API rate limits, generating the edgelist of all 330k+ verified users is not feasible, so the users are filtered. The following restrictions were applied-
+
+1. The user must have at least two tweets, sharing at least one real, and one fake article
+* The user must be following less than 10k people. The reason for this is, it's highly unlikely that a user with more than 10000 friends manually followed so many accounts and they probably used bots.
 
 ## Classification
 
 1. ### Node2vec
 
 
-- ### Graph neural networks
+2. ### Graph neural networks
 
 																										
 
