@@ -89,8 +89,10 @@ In this case the handle we supply to twecoll is @verified, and a file with all t
 
 Because of Twitter's very restrictive API rate limits, generating the edge list of all 330k+ verified users is not feasible, so the users are filtered. The following restrictions were applied-
 
-1. The user must have at least two tweets, sharing at least one real, and one fake article
+1. The user must have shared at least one real, and one fake article
 2. The user must be following less than 10k people. The reason for this is, it's highly unlikely that a user with more than 10000 friends manually followed so many accounts and they probably used bots.
+
+When these constraints are applied, around 3000 users are left. The edge list for these users is stored in a `.gml` file, which can be imported to create a networkx graph.
 
 ## Classification
 
