@@ -2,6 +2,16 @@
 An exploration of Twitter's Verified users and the news articles they tweet. Specifically looking into how likely is it that an article shared by the user is fake.
 
 ## How to run
+
+This repository is meant to be cloned inside `FakeNewsNet/code`.
+
+Purpose of each notebook-
+* **user_data -** Collect all the user tweets, retweets, descriptions collected from FakeNewsNet and count the number of fake and real news articles
+* **extract_features -** Create the features for all 300k+ verified users 
+* **user_analysis -** Some basic analysis on the verified accounts
+* **GNN -** Use different Graph Neural Networks to classify fake and real users
+* **node2vec -** Use node2vec combined with different ML models to classify fake and real users
+
 1. Get FakeNewsNet
 2. Clone this repository in the `FakeNewsNet/code` folder
 3. For a new list of verified users run the `twecoll` tool, copy the `verified.dat` file to the datasets folder
