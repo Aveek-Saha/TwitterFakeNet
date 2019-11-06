@@ -1,6 +1,19 @@
 # Twitter Fake News Network
 An exploration of Twitter's Verified users and the news articles they tweet. Specifically looking into how likely is it that an article shared by the user is fake.
 
+## How to run
+1. Get FakeNewsNet
+2. Clone this repository in the `FakeNewsNet/code` folder
+3. For a new list of verified users run the `twecoll` tool, copy the verified.dat file to the datasets folder
+4. Run the Jupyter Notebooks in the following order
+	* user_data
+	* extract_features
+	* user_analysis(optional)
+5. Rename `verified_3k.dat` in `datasets` to `verified.dat` and replace the file in the `twecoll` folder
+6. Run the twecoll fetch command
+7. Run the edgelist command
+
+
 ## Background
 ### What is a verified user?
 Every user that is verified is given a blue badge and this lets people know that an account of public interest is authentic.
