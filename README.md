@@ -4,19 +4,22 @@ An exploration of Twitter's Verified users and the news articles they tweet. Spe
 ## How to run
 1. Get FakeNewsNet
 2. Clone this repository in the `FakeNewsNet/code` folder
-3. For a new list of verified users run the `twecoll` tool, copy the verified.dat file to the datasets folder
+3. For a new list of verified users run the `twecoll` tool, copy the `verified.dat` file to the datasets folder
 4. Run the Jupyter Notebooks in the following order
 	* user_data
 	* extract_features
 	* user_analysis(optional)
-5. Rename `verified_3k.dat` in `datasets` to `verified.dat` and replace the file in the `twecoll` folder
+5. Rename `datasets/verified_3k.dat` to `verified.dat` and replace the file in the `twecoll` folder
 6. Run the twecoll fetch command
-7. Run the edgelist command
+7. Run the edgelist command and put the resulting `verified.gml` file in the `datasets` folder
+8. Run the classification files in any order
+	* GNN
+	* node2vec
 
 
 ## Background
 ### What is a verified user?
-Every user that is verified is given a blue badge and this lets people know that an account of public interest is authentic.
+Every user that is verified is given a blue/white badge and this lets people know that an account of public interest is authentic.
 
 According to Twitter-
 > An account may be verified if it is determined to be an account of public interest. Typically this includes accounts maintained by users in music, acting, fashion, government, politics, religion, journalism, media, sports, business, and other key interest areas. A verified badge does not imply an endorsement by Twitter.
@@ -30,7 +33,7 @@ The verified status does not make the account any more credible than it was befo
 Because of the nature of accounts that get the verified status, they generally have a large following, average: 117k, median: 10k. So they're crucial in the dissemination and propagation of information. This is why it's worthwhile exploring how reliable or trustworthy these users are as news sources.
 
 ### How to tell if a user is verified?
-When you go to a users profile, if they have a small blue/white icon next to their username with a tick, that looks something like this <img src="https://github.com/Aveek-Saha/TwitterFakeNet/blob/master/figures/verified.png" width="20" title="verified icon">, then that user is verified but there is no obvious way to write a script to collect details of all such users.
+When you go to a users profile, if they have a small blue/white icon next to their username with a tick, that looks like this <img src="https://github.com/Aveek-Saha/TwitterFakeNet/blob/master/figures/verified.png" width="20" title="verified icon">, then that user is verified but there is no obvious way to write a script to collect details of all such users.
 
 There is an official Twitter Verified account [@verified](https://twitter.com/verified), and if you look closely at all the accounts it follows, it's easy to see it follows every verified account on Twitter. A few people might have blocked @verified but we can assume that the number is small and can be ignored. 
 
