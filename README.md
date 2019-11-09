@@ -121,10 +121,10 @@ Because of Twitter's very restrictive API rate limits, generating the edge list 
 When these constraints are applied, around 3000 users are left. The edge list for these users is stored in a `.gml` file, which can be imported to create a networkx graph.
 
 ## Classification
-Two different aproaches are taken to build a classification model.
+Two different approaches are taken to build a classification model.
 
 1. ### Node2vec
-	 Node2vec learns continuous representations for nodes in a graph. The implimentation of node2vec used can be found [here](https://github.com/eliorc/node2vec). 
+	 Node2vec learns continuous representations for nodes in a graph. The implementation of node2vec used can be found [here](https://github.com/eliorc/node2vec). 
 	 
 	 After combining node2vec with the node features, the classifiers trained are-
 	 * **Random forest**
@@ -137,6 +137,8 @@ Two different aproaches are taken to build a classification model.
 	GNNs directly operate on the graph structure
 	* **GraphSAGE -** Learns the embedding for each node in an inductive way. Each node is represented by the aggregation of its neighborhood. Thus, even if a new node unseen during training time appears in the graph, it can still be properly represented by its neighboring nodes.
 	* **Graph Convolutional Networks -** A neural network, designed to work on graphs
+
+
 
 
 
