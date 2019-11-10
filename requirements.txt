@@ -1,6 +1,7 @@
 empath==0.89
 Keras==2.2.4
 matplotlib==3.1.1
+mlxtend==0.17.0
 networkx==2.3
 nltk==3.2.5
 node2vec==0.3.1
