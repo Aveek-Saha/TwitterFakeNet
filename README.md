@@ -146,8 +146,8 @@ For a baseline, the performance of classifiers on just the sentiment and empath 
 |               | Accuracy | Precision | Recall | f1 Score |
 |:-------------:|:--------:|:---------:|:------:|:--------:|
 |      SVM      |   71.55  |   72.00   |  72.00 |   71.00  |
-|    XGBoost    |   72.06  |   72.00   |  72.00 |   72.00  |
-| Random Forest |   73.27  |   74.00   |  73.00 |   73.00  |
+|    XGBoost    |   71.03  |   71.00   |  71.00 |   71.00  |
+| Random Forest |   68.79  |   69.00   |  69.00 |   69.00  |
 |  Logistic Reg |   68.62  |   69.00   |  69.00 |   68.00  |
 
 
@@ -155,7 +155,7 @@ For a baseline, the performance of classifiers on just the sentiment and empath 
 
 |           | Accuracy | Precision | Recall | f1 Score |
 |:---------:|:--------:|:---------:|:------:|:--------:|
-| GraphSage |   72.24  |   74.00   |  72.00 |   72.00  |
+| GraphSage |   73.10  |   74.00   |  73.00 |   73.00  |
 |    GCN    |   68.96  |   70.00   |  69.00 |   68.00  |
 
 
@@ -173,13 +173,14 @@ For a baseline, the performance of classifiers on just the sentiment and empath 
 
 ### Learnt embeddings
 The classifiers are trained on the embeddings learnt by the GraphSAGE and GCN models
+**GraphSAGE**
 
 |               | Accuracy | Precision | Recall | f1 Score |
 |:-------------:|:--------:|:---------:|:------:|:--------:|
-|      SVM      |   72.24  |   73.00   |  72.00 |   72.00  |
-|  Logistic Reg |   69.65  |   70.00   |  70.00 |   70.00  |
-| Random Forest |   00.00  |   00.00   |  00.00 |   00.00  |
-|    XGBoost    |   00.00  |   00.00   |  00.00 |   00.00  |
+|      SVM      |   72.06  |   73.00   |  72.00 |   72.00  |
+|  Logistic Reg |   71.03  |   71.00   |  71.00 |   71.00  |
+| Random Forest |   68.79  |   69.00   |  69.00 |   69.00  |
+|    XGBoost    |   69.82  |   70.00   |  70.00 |   70.00  |
 
 **GCN**
 
