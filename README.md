@@ -151,8 +151,28 @@ For a baseline, the performance of classifiers on just the sentiment and empath 
 |    XGBoost    |   00.00  |   00.00   |  00.00 |   00.00  |
 
 
+### GNNs
+
+|           | Accuracy | Precision | Recall | f1 Score |
+|:---------:|:--------:|:---------:|:------:|:--------:|
+| GraphSage |   72.24  |   74.00   |  72.00 |   72.00  |
+|    GCN    |   68.96  |   70.00   |  69.00 |   68.00  |
+
+
+
+### Node2vec
+
+|               | Accuracy | Precision | Recall | f1 Score |
+|:-------------:|:--------:|:---------:|:------:|:--------:|
+|      SVM      |   00.00  |   00.00   |  00.00 |   00.00  |
+|  Logistic Reg |   00.00  |   00.00   |  00.00 |   00.00  |
+| Random Forest |   00.00  |   00.00   |  00.00 |   00.00  |
+|    XGBoost    |   00.00  |   00.00   |  00.00 |   00.00  |
+
+
+
 ### Learnt embeddings
-The classifiers are trained on the embeddings learnt by the GraphSAGE Model
+The classifiers are trained on the embeddings learnt by the GraphSAGE Model. Only the GraphSAGE model is used because it clearly performs better than the GCN.
 
 |               | Accuracy | Precision | Recall | f1 Score |
 |:-------------:|:--------:|:---------:|:------:|:--------:|
