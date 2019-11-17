@@ -186,10 +186,10 @@ The classifiers are trained on the embeddings learnt by the GraphSAGE and GCN mo
 
 |               | Accuracy | Precision | Recall | f1 Score |
 |:-------------:|:--------:|:---------:|:------:|:--------:|
-|      SVM      |   71.89  |   73.00   |  72.00 |   72.00  |
-|  Logistic Reg |   71.03  |   72.00   |  71.00 |   71.00  |
-| Random Forest |   73.44  |   74.00   |  73.00 |   73.00  |
-|    XGBoost    |   73.10  |   74.00   |  73.00 |   73.00  |
+|      SVM      |   72.24  |   73.00   |  72.00 |   72.00  |
+|  Logistic Reg |   71.37  |   73.00   |  71.00 |   71.00  |
+| Random Forest |   67.58  |   68.00   |  68.00 |   68.00  |
+|    XGBoost    |   71.20  |   72.00   |  71.00 |   71.00  |
 
 
 
