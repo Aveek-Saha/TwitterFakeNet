@@ -129,14 +129,43 @@ Two different approaches are taken to build a classification model.
 	 After combining node2vec with the node features, the classifiers trained are-
 	 * **Random forest**
 	 * **SVM**
+	 * **Logistic regression**
 	 * **XGBoost**
-
-
 
 2. ### Graph neural networks
 	GNNs directly operate on the graph structure
 	* **GraphSAGE -** Learns the embedding for each node in an inductive way. Each node is represented by the aggregation of its neighborhood. Thus, even if a new node unseen during training time appears in the graph, it can still be properly represented by its neighboring nodes.
 	* **Graph Convolutional Networks -** A neural network, designed to work on graphs
+
+
+## Analysis
+
+### Baseline
+For a baseline, the performance of classifiers on just the sentiment and empath features without any network information is taken.
+
+|               | Accuracy | Precision | Recall | f1 Score |
+|:-------------:|:--------:|:---------:|:------:|:--------:|
+|      SVM      |   71.55  |   72.00   |  72.00 |   71.00  |
+|  Logistic Reg |   68.62  |   69.00   |  69.00 |   68.00  |
+| Random Forest |   00.00  |   00.00   |  00.00 |   00.00  |
+|    XGBoost    |   00.00  |   00.00   |  00.00 |   00.00  |
+
+
+### Learnt embeddings
+The classifiers are trained on the embeddings learnt by the GraphSAGE Model
+
+|               | Accuracy | Precision | Recall | f1 Score |
+|:-------------:|:--------:|:---------:|:------:|:--------:|
+|      SVM      |   72.24  |   73.00   |  72.00 |   72.00  |
+|  Logistic Reg |   69.65  |   70.00   |  70.00 |   70.00  |
+| Random Forest |   00.00  |   00.00   |  00.00 |   00.00  |
+|    XGBoost    |   00.00  |   00.00   |  00.00 |   00.00  |
+
+
+
+
+
+
 
 
 
