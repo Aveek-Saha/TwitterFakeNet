@@ -145,10 +145,11 @@ For a baseline, the performance of classifiers on just the sentiment and empath 
 
 |               | Accuracy | Precision | Recall | f1 Score |
 |:-------------:|:--------:|:---------:|:------:|:--------:|
+|  Logistic Reg |   68.62  |   69.00   |  69.00 |   68.00  |
 |      SVM      |   71.55  |   72.00   |  72.00 |   71.00  |
 |    XGBoost    |   71.03  |   71.00   |  71.00 |   71.00  |
 | Random Forest |   68.79  |   69.00   |  69.00 |   69.00  |
-|  Logistic Reg |   68.62  |   69.00   |  69.00 |   68.00  |
+
 
 
 ### GNNs
@@ -164,32 +165,34 @@ For a baseline, the performance of classifiers on just the sentiment and empath 
 
 |               | Accuracy | Precision | Recall | f1 Score |
 |:-------------:|:--------:|:---------:|:------:|:--------:|
-|      SVM      |   00.00  |   00.00   |  00.00 |   00.00  |
 |  Logistic Reg |   00.00  |   00.00   |  00.00 |   00.00  |
-| Random Forest |   00.00  |   00.00   |  00.00 |   00.00  |
+|      SVM      |   00.00  |   00.00   |  00.00 |   00.00  |
 |    XGBoost    |   00.00  |   00.00   |  00.00 |   00.00  |
+| Random Forest |   00.00  |   00.00   |  00.00 |   00.00  |
+
 
 
 
 ### Learnt embeddings
 The classifiers are trained on the embeddings learnt by the GraphSAGE and GCN models
-**GraphSAGE**
 
-|               | Accuracy | Precision | Recall | f1 Score |
-|:-------------:|:--------:|:---------:|:------:|:--------:|
-|      SVM      |   72.06  |   73.00   |  72.00 |   72.00  |
-|  Logistic Reg |   71.03  |   71.00   |  71.00 |   71.00  |
-| Random Forest |   68.79  |   69.00   |  69.00 |   69.00  |
-|    XGBoost    |   69.82  |   70.00   |  70.00 |   70.00  |
+* **GraphSAGE**
 
-**GCN**
+	|               | Accuracy | Precision | Recall | f1 Score |
+	|:-------------:|:--------:|:---------:|:------:|:--------:|
+	|  Logistic Reg |   71.03  |   71.00   |  71.00 |   71.00  |
+	|      SVM      |   72.06  |   73.00   |  72.00 |   72.00  |
+	|    XGBoost    |   69.82  |   70.00   |  70.00 |   70.00  |
+	| Random Forest |   68.79  |   69.00   |  69.00 |   69.00  |
 
-|               | Accuracy | Precision | Recall | f1 Score |
-|:-------------:|:--------:|:---------:|:------:|:--------:|
-|      SVM      |   72.24  |   73.00   |  72.00 |   72.00  |
-|  Logistic Reg |   71.37  |   73.00   |  71.00 |   71.00  |
-| Random Forest |   67.58  |   68.00   |  68.00 |   68.00  |
-|    XGBoost    |   71.20  |   72.00   |  71.00 |   71.00  |
+* **GCN**
+
+	|               | Accuracy | Precision | Recall | f1 Score |
+	|:-------------:|:--------:|:---------:|:------:|:--------:|
+	|  Logistic Reg |   71.37  |   73.00   |  71.00 |   71.00  |
+	|      SVM      |   72.24  |   73.00   |  72.00 |   72.00  |
+	|    XGBoost    |   71.20  |   72.00   |  71.00 |   71.00  |
+	| Random Forest |   67.58  |   68.00   |  68.00 |   68.00  |
 
 
 
