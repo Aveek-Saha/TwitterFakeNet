@@ -160,7 +160,7 @@ For a baseline, the performance of classifiers on just the sentiment and empath 
 |:---------:|:--------:|:---------:|:------:|:--------:|
 | GraphSage |   0.724  |   0.696   |  0.797 |   0.742  |
 |    GCN    |   0.684  |   0.655   |  0.779 |   0.712  |
-
+|    GAT    |   0.684  |   0.655   |  0.779 |   0.712  |
 
 
 ### Node2vec
