@@ -159,7 +159,7 @@ For a baseline, the performance of classifiers on just the sentiment and empath 
 |           | Accuracy | Precision | Recall | f1 Score |
 |:---------:|:--------:|:---------:|:------:|:--------:|
 | GraphSage |   0.724  |   0.696   |  0.797 |   0.742  |
-|    GCN    |   68.96  |   70.00   |  69.00 |   68.00  |
+|    GCN    |   0.684  |   0.655   |  0.779 |   0.712  |
 
 
 
@@ -194,11 +194,12 @@ The classifiers are trained on the embeddings learnt by the GraphSAGE and GCN mo
 
 	|               | Accuracy | Precision | Recall | f1 Score |
 	|:-------------:|:--------:|:---------:|:------:|:--------:|
-	|  Logistic Reg |   71.37  |   73.00   |  71.00 |   71.00  |
-	|      SVM      |   72.24  |   73.00   |  72.00 |   72.00  |
-	|    XGBoost    |   71.20  |   72.00   |  71.00 |   71.00  |
-	| Random Forest |   67.58  |   68.00   |  68.00 |   68.00  |
-
+	|  Naive Bayes  |   0.702  |   0.700   |  0.700 |   0.700  |
+	|      KNN      |   0.621  |   0.670   |  0.620 |   0.520  |
+	|  Logistic Reg |   0.716  |   0.730   |  0.720 |   0.710  |
+	|      SVM      |   0.725  |   0.740   |  0.730 |   0.720  |
+	|    XGBoost    |   0.729  |   0.730   |  0.730 |   0.730  |
+	| Random Forest |   0.695  |   0.690   |  0.690 |   0.690  |
 
 
 
