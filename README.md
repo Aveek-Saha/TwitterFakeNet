@@ -160,7 +160,7 @@ For a baseline, the performance of classifiers on just the sentiment and empath 
 |:---------:|:--------:|:---------:|:------:|:--------:|
 | GraphSage |   0.724  |   0.696   |  0.797 |   0.742  |
 |    GCN    |   0.684  |   0.655   |  0.779 |   0.712  |
-|    GAT    |   0.684  |   0.655   |  0.779 |   0.712  |
+|    GAT    |   0.512  |   0.750   |  0.510 |   0.360  |
 
 
 ### Node2vec
@@ -200,6 +200,17 @@ The classifiers are trained on the embeddings learnt by the GraphSAGE and GCN mo
 	|      SVM      |   0.725  |   0.740   |  0.730 |   0.720  |
 	|    XGBoost    |   0.729  |   0.730   |  0.730 |   0.730  |
 	| Random Forest |   0.695  |   0.690   |  0.690 |   0.690  |
+
+* **GAT**
+
+	|               | Accuracy | Precision | Recall | f1 Score |
+	|:-------------:|:--------:|:---------:|:------:|:--------:|
+	|  Naive Bayes  |   0.662  |   0.670   |  0.660 |   0.660  |
+	|      KNN      |   0.646  |   0.670   |  0.650 |   0.530  |
+	|  Logistic Reg |   0.717  |   0.730   |  0.720 |   0.710  |
+	|      SVM      |   0.719  |   0.740   |  0.720 |   0.710  |
+	|    XGBoost    |   0.724  |   0.730   |  0.720 |   0.720  |
+	| Random Forest |   0.595  |   0.600   |  0.600 |   0.090  |
 
 
 
