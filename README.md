@@ -167,12 +167,12 @@ For a baseline, the performance of classifiers on just the sentiment and empath 
 
 |               | Accuracy | Precision | Recall | f1 Score |
 |:-------------:|:--------:|:---------:|:------:|:--------:|
-|  Naive Bayes  |   0.000  |   0.000   |  0.000 |   0.000  |
-|      KNN      |   0.000  |   0.000   |  0.000 |   0.000  |
-|  Logistic Reg |   0.000  |   0.000   |  0.000 |   0.000  |
-|      SVM      |   0.000  |   0.000   |  0.000 |   0.000  |
-|    XGBoost    |   0.000  |   0.000   |  0.000 |   0.000  |
-| Random Forest |   0.000  |   0.000   |  0.000 |   0.000  |
+|  Naive Bayes  |   0.610  |   0.630   |  0.620 |   0.610  |
+|      KNN      |   0.671  |   0.670   |  0.670 |   0.670  |
+|  Logistic Reg |   0.678  |   0.680   |  0.680 |   0.670  |
+|      SVM      |   0.728  |   0.730   |  0.730 |   0.720  |
+|    XGBoost    |   0.728  |   0.730   |  0.730 |   0.720  |
+| Random Forest |   0.659  |   0.670   |  0.660 |   0.660  |
 
 
 
