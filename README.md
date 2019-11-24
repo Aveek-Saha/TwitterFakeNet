@@ -158,7 +158,7 @@ For a baseline, the performance of classifiers on just the sentiment and empath 
 
 |           | Accuracy | Precision | Recall | f1 Score |
 |:---------:|:--------:|:---------:|:------:|:--------:|
-| GraphSage |   0.724  |   0.696   |  0.797 |   0.742  |
+| GraphSage |   0.730  |   0.710   |  0.850 |   0.773  |
 |    GCN    |   0.684  |   0.655   |  0.779 |   0.712  |
 |    GAT    |   0.512  |   0.750   |  0.510 |   0.360  |
 
