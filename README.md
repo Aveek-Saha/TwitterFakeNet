@@ -213,6 +213,22 @@ The classifiers are trained on the embeddings learnt by the GraphSAGE and GCN mo
 	| Random Forest |   0.595  |   0.600   |  0.600 |   0.090  |
 
 
+## Results
+
+**Accuracy**
+
+|           | Naive Bayes |  KNN  | Logistic Reg |  SVM  | XGBoost | Random Forest |
+|:---------:|:-----------:|:-----:|:------------:|:-----:|:-------:|:-------------:|
+|  Baseline |    0.659    | 0.628 |     0.686    | 0.716 |  0.710  |     0.662     |
+| GraphSAGE |    0.724    | 0.691 |     0.700    | 0.719 |  0.713  |     0.679     |
+|    GCN    |    0.702    | 0.621 |     0.716    | 0.725 |  0.729  |     0.695     |
+|  Node2vec |    0.610    | 0.671 |     0.678    | 0.728 |  0.728  |     0.659     |
+|    GAT    |    0.662    | 0.646 |     0.717    | 0.719 |  0.724  |     0.595     |
+
+
+From the table above, it is evident that for classifying users as fake news sources, the structure of the network helps increase the accuracy of classification
+
+
 
 
 
