@@ -104,4 +104,4 @@ venv.bak/
 .mypy_cache/
 
 # Twecoll data
-.twecoll/fdat/
+twecoll/fdat/
