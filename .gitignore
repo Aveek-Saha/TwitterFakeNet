@@ -105,3 +105,6 @@ venv.bak/
 
 # Twecoll data
 twecoll/fdat/
+
+# Large datasets
+datasets/unverified_features_500k.csv
