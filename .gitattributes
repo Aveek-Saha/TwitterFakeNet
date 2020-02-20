@@ -1,1 +1,2 @@
 datasets/unverified_features_300k.csv filter=lfs diff=lfs merge=lfs -text
+unverified_features_500k.csv filter=lfs diff=lfs merge=lfs -text
