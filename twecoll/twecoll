@@ -583,9 +583,9 @@ def fetch(args):
   while len(dat) > 0:
     if cursor is None:
       item = dat.pop()
-    if int(item[3]) > args.count:
-      sys.stdout.write('Skipping %s (%s %s)\n' % (item[1], item[3], 'friends'))
-      continue
+    #if int(item[3]) > args.count:
+     # sys.stdout.write('Skipping %s (%s %s)\n' % (item[1], item[3], 'friends'))
+      #continue
     filename = FDAT_DIR+'/'+str(item[0])+FDAT_EXT
     if args.force or not os.path.isfile(filename):
       sys.stdout.write('Processing %s...\n' % item[0])
