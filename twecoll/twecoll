@@ -466,9 +466,12 @@ def _draw(args):
   igraph.plot(g, filename, layout=g.layout(args.layout), bbox=(width, height), margin=50)
 
 def _days(created):
-  t = time.localtime()
-  c = time.strptime(created, "%a %b %d %H:%M:%S +0000 %Y")
-  return datetime.timedelta(seconds=(time.mktime(t)-time.mktime(c))).days
+	if created == '':
+		created = 'Tue Jun 07 16:18:21 +0000 2011'
+		print("Invalid time")
+	t = time.localtime()
+	c = time.strptime(created, "%a %b %d %H:%M:%S +0000 %Y")
+	return datetime.timedelta(seconds=(time.mktime(t)-time.mktime(c))).days
 
 # support commenting out lines in file
 def _skip_hash(iterable):
