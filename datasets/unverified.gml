@@ -334,7 +334,7 @@ graph [
     id 685
     userid "23152434"
     file "unverified.dat"
-    label "Vishma Rai (ϑ ℛai)"
+    label "Vishma Rai ( ai)"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1042227912206802955/BXUcyt8n_normal.jpg"
     type "friends"
     statuses 1265487
@@ -529,7 +529,7 @@ graph [
     id 1849
     userid "3227447682"
     file "unverified.dat"
-    label "🆅🅸🆃🌌🅻🌌🅽🌌🅽 ℠"
+    label " "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1020006166061985793/CRL5QtqE_normal.jpg"
     type "friends"
     statuses 120943
@@ -604,7 +604,7 @@ graph [
     id 3330
     userid "2546331511"
     file "unverified.dat"
-    label "FansnStars↩"
+    label "FansnStars"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/829903032372621312/00HEtSln_normal.jpg"
     type "friends"
     statuses 215531
@@ -649,7 +649,7 @@ graph [
     id 2587
     userid "217649062"
     file "unverified.dat"
-    label "▶️ ZestyGardenGnome 🍀"
+    label " ZestyGardenGnome "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1148659083395969024/YeByFE42_normal.jpg"
     type "friends"
     statuses 96220
@@ -679,7 +679,7 @@ graph [
     id 886
     userid "130760193"
     file "unverified.dat"
-    label "Vishal Shah ®"
+    label "Vishal Shah "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1178756774431604736/AKt1A04v_normal.jpg"
     type "friends"
     statuses 428756
@@ -709,7 +709,7 @@ graph [
     id 2721
     userid "2933793124"
     file "unverified.dat"
-    label "Party of One  💔 🐱 🛶 🚭 🌊"
+    label "Party of One      "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1137908754928848897/SbH_QVjt_normal.jpg"
     type "friends"
     statuses 612215
@@ -739,7 +739,7 @@ graph [
     id 3281
     userid "221161898"
     file "unverified.dat"
-    label "Merchfinders ™"
+    label "Merchfinders "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/760476560352829440/4yfkNF-F_normal.jpg"
     type "friends"
     statuses 12636
@@ -829,7 +829,7 @@ graph [
     id 644
     userid "705228193318318081"
     file "unverified.dat"
-    label "❌Shauna❌"
+    label "Shauna"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1182865572687568896/oFhhn0Dv_normal.jpg"
     type "friends"
     statuses 101710
@@ -859,7 +859,7 @@ graph [
     id 333
     userid "44345420"
     file "unverified.dat"
-    label "François & Pascal"
+    label "Franois & Pascal"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/828955264053284865/MtAsR4V8_normal.jpg"
     type "friends"
     statuses 150516
@@ -919,7 +919,7 @@ graph [
     id 1915
     userid "208638241"
     file "unverified.dat"
-    label "Veronica McDonald🗣"
+    label "Veronica McDonald"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1146973480933609477/i96Pf6yO_normal.png"
     type "friends"
     statuses 184350
@@ -1114,7 +1114,7 @@ graph [
     id 2739
     userid "2284421479"
     file "unverified.dat"
-    label "360WISE NEWS ®"
+    label "360WISE NEWS "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1012062939086499841/ebywW6C2_normal.jpg"
     type "friends"
     statuses 137160
@@ -1174,7 +1174,7 @@ graph [
     id 1909
     userid "445015186"
     file "unverified.dat"
-    label "ONYOUR(6)🇺🇸"
+    label "ONYOUR(6)"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1182807102340898817/mPm7k_An_normal.jpg"
     type "friends"
     statuses 70170
@@ -1189,7 +1189,7 @@ graph [
     id 656
     userid "948513529111474181"
     file "unverified.dat"
-    label "⭐ScoobyQ⭐Mighty200⭐"
+    label "ScoobyQMighty200"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1042478687323602945/aeOySPn9_normal.jpg"
     type "friends"
     statuses 117725
@@ -1339,7 +1339,7 @@ graph [
     id 1513
     userid "476811284"
     file "unverified.dat"
-    label "LindaCSherrin ✝️"
+    label "LindaCSherrin "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/895036355461427201/wv1vL9mR_normal.jpg"
     type "friends"
     statuses 248695
@@ -1414,7 +1414,7 @@ graph [
     id 131
     userid "46987735"
     file "unverified.dat"
-    label "Matthias S. Mende 🛑"
+    label "Matthias S. Mende "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1045101893142417409/KpMbdqDK_normal.jpg"
     type "friends"
     statuses 23575
@@ -1699,7 +1699,7 @@ graph [
     id 1966
     userid "987647083644575744"
     file "unverified.dat"
-    label "सैनी Shivraj Bhati.100% follow Back"
+    label " Shivraj Bhati.100% follow Back"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1036112548855144448/hnwcFg5U_normal.jpg"
     type "friends"
     statuses 2590
@@ -2029,7 +2029,7 @@ graph [
     id 1135
     userid "433801252"
     file "unverified.dat"
-    label "360WISE MEDIA ®"
+    label "360WISE MEDIA "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1097135609146195974/kmJ_ZWsE_normal.jpg"
     type "friends"
     statuses 199042
@@ -2224,7 +2224,7 @@ graph [
     id 1240
     userid "1394578368"
     file "unverified.dat"
-    label "ᏚᏟᎾᎾᏢᎬᏚᏚ"
+    label ""
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/969668060431855616/vWxVINQx_normal.jpg"
     type "friends"
     statuses 7530
@@ -2299,7 +2299,7 @@ graph [
     id 1695
     userid "720709015425011712"
     file "unverified.dat"
-    label "Le Chanel 💜🙏 [Rest]"
+    label "Le Chanel  [Rest]"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1177104163454377984/V7HrYuP1_normal.jpg"
     type "friends"
     statuses 97998
@@ -2314,7 +2314,7 @@ graph [
     id 1239
     userid "2925978011"
     file "unverified.dat"
-    label "Linda Dudek 🍑"
+    label "Linda Dudek "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/847137237162590208/mR-_t70b_normal.jpg"
     type "friends"
     statuses 137011
@@ -2629,7 +2629,7 @@ graph [
     id 288
     userid "295163619"
     file "unverified.dat"
-    label "💕🌼 Jan ♐💕"
+    label " Jan "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1078435500061614085/1n4742T6_normal.jpg"
     type "friends"
     statuses 92347
@@ -2689,7 +2689,7 @@ graph [
     id 2322
     userid "137145035"
     file "unverified.dat"
-    label "🔶Aᴍʏ🔶"
+    label "A"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1179030287818211329/dY7qkHGt_normal.png"
     type "friends"
     statuses 165496
@@ -2764,7 +2764,7 @@ graph [
     id 1928
     userid "904847262"
     file "unverified.dat"
-    label "CW🥁🎻☯🏝🦈"
+    label "CW"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/912822898343034880/ca07m4th_normal.jpg"
     type "friends"
     statuses 25592
@@ -2779,7 +2779,7 @@ graph [
     id 707
     userid "20016443"
     file "unverified.dat"
-    label "Chicago News Bench™"
+    label "Chicago News Bench"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1172184106349858817/O7MmLMTe_normal.jpg"
     type "friends"
     statuses 183763
@@ -2989,7 +2989,7 @@ graph [
     id 3461
     userid "16141591"
     file "unverified.dat"
-    label "André Levy"
+    label "Andr Levy"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1112891542220488708/ufKN8EBS_normal.jpg"
     type "friends"
     statuses 48408
@@ -3214,7 +3214,7 @@ graph [
     id 2294
     userid "735890817949138944"
     file "unverified.dat"
-    label "ดีงามพระราม8"
+    label "8"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/736033389187203080/tD0TsMWK_normal.jpg"
     type "friends"
     statuses 156456
@@ -3409,7 +3409,7 @@ graph [
     id 3190
     userid "875742038"
     file "unverified.dat"
-    label "RatchetFridayMedia.com®"
+    label "RatchetFridayMedia.com"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/691000633017683968/d3sTumOc_normal.png"
     type "friends"
     statuses 81691
@@ -3439,7 +3439,7 @@ graph [
     id 1644
     userid "3780892932"
     file "unverified.dat"
-    label "HIDE ღ❤ღ(╹◡╹)"
+    label "HIDE ()"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1131327174831509505/cEVDJmwo_normal.png"
     type "friends"
     statuses 375467
@@ -3499,7 +3499,7 @@ graph [
     id 1806
     userid "14811111"
     file "unverified.dat"
-    label "icey ❤️ 💯🇺🇸"
+    label "icey  "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/868429673008693248/yLh-Kr-Y_normal.jpg"
     type "friends"
     statuses 105179
@@ -3589,7 +3589,7 @@ graph [
     id 802
     userid "221826320"
     file "unverified.dat"
-    label "johndolph 🇺🇸"
+    label "johndolph "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/770767203163475968/s3qBYpnY_normal.jpg"
     type "friends"
     statuses 67224
@@ -3694,7 +3694,7 @@ graph [
     id 1074
     userid "2797331893"
     file "unverified.dat"
-    label "話題の動画 by エンタメウィーク"
+    label " by "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/875176750434537472/uiFQaChq_normal.jpg"
     type "friends"
     statuses 14660
@@ -3769,7 +3769,7 @@ graph [
     id 493
     userid "717045936"
     file "unverified.dat"
-    label "Ricky Roberts ❌"
+    label "Ricky Roberts "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/2433434421/image_normal.jpg"
     type "friends"
     statuses 122431
@@ -3964,7 +3964,7 @@ graph [
     id 2212
     userid "3994861756"
     file "unverified.dat"
-    label "Omar Vera 🍩🇺🇸🇵🇷🇬🇧🇬🇮🇨🇦🇮🇪🇦🇺🇳🇿"
+    label "Omar Vera "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1141017286935027712/-qOLq0CG_normal.jpg"
     type "friends"
     statuses 115798
@@ -4399,7 +4399,7 @@ graph [
     id 2908
     userid "2822593816"
     file "unverified.dat"
-    label "😜fine"
+    label "fine"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1180378681837064192/_DIdq4-1_normal.jpg"
     type "friends"
     statuses 69973
@@ -4444,7 +4444,7 @@ graph [
     id 465
     userid "365256150"
     file "unverified.dat"
-    label "REALJimTuscaloosa 🇺🇸⭐️⭐️⭐️"
+    label "REALJimTuscaloosa "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/484068480161837057/56SJxI_0_normal.jpeg"
     type "friends"
     statuses 83595
@@ -4474,7 +4474,7 @@ graph [
     id 1370
     userid "145942291"
     file "unverified.dat"
-    label "☆ PJ_Steiner ☆"
+    label " PJ_Steiner "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/3277404928/0d863767c9bb7c68ca3019e08b169487_normal.jpeg"
     type "friends"
     statuses 47026
@@ -4489,7 +4489,7 @@ graph [
     id 792
     userid "2865763619"
     file "unverified.dat"
-    label "Paul Campbell Haider🌹"
+    label "Paul Campbell Haider"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/746611313384660992/kEus8cCe_normal.jpg"
     type "friends"
     statuses 210212
@@ -4534,7 +4534,7 @@ graph [
     id 363
     userid "16080891"
     file "unverified.dat"
-    label "🇮🇱🇺🇸nightingalern 🇺🇸🇮🇱⭐⭐⭐"
+    label "nightingalern "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1074706155941830656/mkCX3OL6_normal.jpg"
     type "friends"
     statuses 501684
@@ -4714,7 +4714,7 @@ graph [
     id 271
     userid "180317088"
     file "unverified.dat"
-    label "Roberto Re   🇮🇹  🇪🇺"
+    label "Roberto Re     "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/886159127935930369/wVqSOuN5_normal.jpg"
     type "friends"
     statuses 1206535
@@ -4774,7 +4774,7 @@ graph [
     id 952
     userid "801809201735536640"
     file "unverified.dat"
-    label "Lina♥"
+    label "Lina"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/801812235945394176/C8ybwkyS_normal.jpg"
     type "friends"
     statuses 25090
@@ -4804,7 +4804,7 @@ graph [
     id 813
     userid "296753880"
     file "unverified.dat"
-    label "St Kitts & Nevis News🇰🇳"
+    label "St Kitts & Nevis News"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1407470552/St-Kitts-marriot_Beach-Club-2_normal.jpg"
     type "friends"
     statuses 23763
@@ -4834,7 +4834,7 @@ graph [
     id 3489
     userid "3089307895"
     file "unverified.dat"
-    label "Dean S Oshiro ™"
+    label "Dean S Oshiro "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/577491525396869120/A3VkpkAC_normal.jpeg"
     type "friends"
     statuses 159986
@@ -4894,7 +4894,7 @@ graph [
     id 770
     userid "15182798"
     file "unverified.dat"
-    label "joshua epstein🏳️‍🌈🖖🏼🗽👨🏼‍💻🇺🇸"
+    label "joshua epstein"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/850040675261403136/vdWGhg3K_normal.jpg"
     type "friends"
     statuses 431496
@@ -4999,7 +4999,7 @@ graph [
     id 2416
     userid "2493960362"
     file "unverified.dat"
-    label "جوليا عبدالله"
+    label " "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/466518108849455104/JnRR7OTu_normal.jpeg"
     type "friends"
     statuses 90490
@@ -5059,7 +5059,7 @@ graph [
     id 2138
     userid "1201657058"
     file "unverified.dat"
-    label "Ginger Sanders 👊🏻"
+    label "Ginger Sanders "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1157791216211304448/ExdqfZ_-_normal.jpg"
     type "friends"
     statuses 122824
@@ -5344,7 +5344,7 @@ graph [
     id 195
     userid "4541449892"
     file "unverified.dat"
-    label "referringothers❤️🌊"
+    label "referringothers"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/960791176482664449/Loqdckru_normal.jpg"
     type "friends"
     statuses 36099
@@ -5449,7 +5449,7 @@ graph [
     id 3460
     userid "3020115666"
     file "unverified.dat"
-    label "Opine⚕️HEALTH"
+    label "OpineHEALTH"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/721121213859307521/TqeG9q9g_normal.jpg"
     type "friends"
     statuses 271834
@@ -5464,7 +5464,7 @@ graph [
     id 3122
     userid "14412224"
     file "unverified.dat"
-    label "🍎agquarx♀️🏳️‍🌈🦄"
+    label "agquarx"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1173139069586563072/iTuDxR6y_normal.jpg"
     type "friends"
     statuses 182237
@@ -5554,7 +5554,7 @@ graph [
     id 2009
     userid "2235593285"
     file "unverified.dat"
-    label "Candy Queen 🍭💋"
+    label "Candy Queen "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/897767522996551680/MqzuPPt8_normal.jpg"
     type "friends"
     statuses 326280
@@ -5749,7 +5749,7 @@ graph [
     id 24
     userid "156563457"
     file "unverified.dat"
-    label "Dami’ Adenuga"
+    label "Dami Adenuga"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1029077036961345536/oa9meAex_normal.jpg"
     type "friends"
     statuses 196199
@@ -5839,7 +5839,7 @@ graph [
     id 84
     userid "628367263"
     file "unverified.dat"
-    label "🆃🅷🅴 🆂🆃🆄🅳🅸🅾 🅴🆇🅴🅲"
+    label "  "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/687570057673703424/oNIY5oVC_normal.jpg"
     type "friends"
     statuses 85011
@@ -5854,7 +5854,7 @@ graph [
     id 1267
     userid "132303312"
     file "unverified.dat"
-    label "⚜️ Tipsy Hussle ⚜️"
+    label " Tipsy Hussle "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1180100897902387205/3v51lN-3_normal.jpg"
     type "friends"
     statuses 93223
@@ -5884,7 +5884,7 @@ graph [
     id 1164
     userid "384852760"
     file "unverified.dat"
-    label "Hikyuu Mikado🍑🍵🍂"
+    label "Hikyuu Mikado"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1025555860125147141/RF1we_aU_normal.jpg"
     type "friends"
     statuses 162188
@@ -5914,7 +5914,7 @@ graph [
     id 581
     userid "938925002"
     file "unverified.dat"
-    label "Slàinte ☘️"
+    label "Slinte "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/794997957183422466/fyLMuOrn_normal.jpg"
     type "friends"
     statuses 159080
@@ -6019,7 +6019,7 @@ graph [
     id 2366
     userid "274730101"
     file "unverified.dat"
-    label "ClankDotCom ( Ki 気 ) 🌊.🌊 ‏"
+    label "ClankDotCom ( Ki  ) . "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1059659979957751808/rp-x_uqf_normal.jpg"
     type "friends"
     statuses 417969
@@ -6169,7 +6169,7 @@ graph [
     id 1529
     userid "3154733167"
     file "unverified.dat"
-    label "💋CougarBelieber💜"
+    label "CougarBelieber"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/587846950457778178/Zm7Mata9_normal.jpg"
     type "friends"
     statuses 8547
@@ -6244,7 +6244,7 @@ graph [
     id 3332
     userid "3093951950"
     file "unverified.dat"
-    label "〽️"
+    label ""
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/653013795309268992/T8TvQuAN_normal.jpg"
     type "friends"
     statuses 36008
@@ -6304,7 +6304,7 @@ graph [
     id 1481
     userid "335107618"
     file "unverified.dat"
-    label "速報.in(Breaking News)"
+    label ".in(Breaking News)"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1441868602/icon1_normal.png"
     type "friends"
     statuses 54479
@@ -6379,7 +6379,7 @@ graph [
     id 440
     userid "102066800"
     file "unverified.dat"
-    label "MTG 🆘 🌊 🇺🇸 💙"
+    label "MTG    "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1840233595/Diamond_Heart_normal.gif"
     type "friends"
     statuses 37706
@@ -6394,7 +6394,7 @@ graph [
     id 2273
     userid "14377023"
     file "unverified.dat"
-    label "Norm Gregory "
+    label "Norm Gregory "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/477198524266713088/jfDQubL6_normal.png"
     type "friends"
     statuses 155821
@@ -6529,7 +6529,7 @@ graph [
     id 1263
     userid "3015450400"
     file "unverified.dat"
-    label "Hiring Remote Workers 🖥️"
+    label "Hiring Remote Workers "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1126491771733671939/3LWY95zP_normal.png"
     type "friends"
     statuses 107300
@@ -6574,7 +6574,7 @@ graph [
     id 556
     userid "17643749"
     file "unverified.dat"
-    label "ცཞɛɬ ʄųƙıɬơƖ"
+    label " "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1165702490240602112/UGt2vc6r_normal.jpg"
     type "friends"
     statuses 1050630
@@ -6739,7 +6739,7 @@ graph [
     id 3501
     userid "1241870148"
     file "unverified.dat"
-    label "草吾"
+    label ""
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/468415112336797697/Q7l5BCro_normal.jpeg"
     type "friends"
     statuses 56172
@@ -6979,7 +6979,7 @@ graph [
     id 1076
     userid "35856659"
     file "unverified.dat"
-    label "João Paulo SB"
+    label "Joo Paulo SB"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1180972904458133504/2kTy0THB_normal.jpg"
     type "friends"
     statuses 180594
@@ -7144,7 +7144,7 @@ graph [
     id 1918
     userid "43581617"
     file "unverified.dat"
-    label "Societal Metamorphosis ⚕🏳️‍🌈🏳️‍🌈⚕"
+    label "Societal Metamorphosis "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1066090803225919488/oXLHxXmA_normal.jpg"
     type "friends"
     statuses 1757
@@ -7159,7 +7159,7 @@ graph [
     id 2940
     userid "82350646"
     file "unverified.dat"
-    label "Márcio M. Silva"
+    label "Mrcio M. Silva"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/470392656/0869_normal.jpg"
     type "friends"
     statuses 920497
@@ -7204,7 +7204,7 @@ graph [
     id 542
     userid "22984928"
     file "unverified.dat"
-    label "Scott Fulkerson 🤬Ragen Vaper😡"
+    label "Scott Fulkerson Ragen Vaper"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/3016740103/858d6a1730a536b33275bf1a543da4a5_normal.jpeg"
     type "friends"
     statuses 136897
@@ -7294,7 +7294,7 @@ graph [
     id 2730
     userid "28137738"
     file "unverified.dat"
-    label "Deb Meissner ♥️☮♥️"
+    label "Deb Meissner "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1165069982184722432/Ilx3v3Nu_normal.jpg"
     type "friends"
     statuses 78855
@@ -7354,7 +7354,7 @@ graph [
     id 1597
     userid "152866400"
     file "unverified.dat"
-    label "†avistock Reeves"
+    label "avistock Reeves"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1192888687/IMG_0246_normal.JPG"
     type "friends"
     statuses 262758
@@ -7474,7 +7474,7 @@ graph [
     id 1194
     userid "2399391152"
     file "unverified.dat"
-    label "MaLiк̲̣̣a Nυ̲̣я̩a"
+    label "MaLia Na"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1043779146533486593/zSHgNUm3_normal.jpg"
     type "friends"
     statuses 304735
@@ -7504,7 +7504,7 @@ graph [
     id 2270
     userid "248364820"
     file "unverified.dat"
-    label "Ope!™"
+    label "Ope!"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1139516319097937920/81YUFTQC_normal.jpg"
     type "friends"
     statuses 48249
@@ -7699,7 +7699,7 @@ graph [
     id 1203
     userid "1148372244"
     file "unverified.dat"
-    label "MAGA, Citizens First❌"
+    label "MAGA, Citizens First"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1146802830973526016/FXh8_dRv_normal.png"
     type "friends"
     statuses 214060
@@ -7729,7 +7729,7 @@ graph [
     id 1990
     userid "361104560"
     file "unverified.dat"
-    label "あっつん"
+    label ""
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1088714429712093184/wLREdAkH_normal.jpg"
     type "friends"
     statuses 472255
@@ -7789,7 +7789,7 @@ graph [
     id 3003
     userid "262150893"
     file "unverified.dat"
-    label "𝓔𝓷𝓰𝓻 𝓐𝓫𝓭𝓾𝓵𝓵𝓪𝓱𝓲 𝓑𝓮𝓮 𝓑𝓮𝓵𝓵𝓸"
+    label "   "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1176364327227527168/XXkelMN5_normal.jpg"
     type "friends"
     statuses 566938
@@ -7804,7 +7804,7 @@ graph [
     id 1466
     userid "467586819"
     file "unverified.dat"
-    label "Hey ✌️"
+    label "Hey "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1180045479536668672/YHIjigt0_normal.jpg"
     type "friends"
     statuses 426300
@@ -7864,7 +7864,7 @@ graph [
     id 2066
     userid "113897359"
     file "unverified.dat"
-    label "Himanish Prabhakar®"
+    label "Himanish Prabhakar"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1157736359160758272/qUAE_Ew5_normal.jpg"
     type "friends"
     statuses 672974
@@ -8044,7 +8044,7 @@ graph [
     id 2636
     userid "700163778"
     file "unverified.dat"
-    label "Shawn McKenzie 🇺🇸"
+    label "Shawn McKenzie "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/3398847629/e943510b46b76479d10814db2e697cfd_normal.jpeg"
     type "friends"
     statuses 154880
@@ -8269,7 +8269,7 @@ graph [
     id 650
     userid "2284614762"
     file "unverified.dat"
-    label "MSM is Pravda 🐻"
+    label "MSM is Pravda "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1143231225752096769/Sq1Qyf2U_normal.jpg"
     type "friends"
     statuses 256639
@@ -8479,7 +8479,7 @@ graph [
     id 2840
     userid "832816504118923265"
     file "unverified.dat"
-    label "Island Girl 🏝🌺🌼🌻"
+    label "Island Girl "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1002551914691747840/Ye4zPzhm_normal.jpg"
     type "friends"
     statuses 51189
@@ -8689,7 +8689,7 @@ graph [
     id 915
     userid "793102978802745344"
     file "unverified.dat"
-    label "Работа на Урале"
+    label "  "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/984688790135558144/GXO8reGv_normal.jpg"
     type "friends"
     statuses 93527
@@ -8719,7 +8719,7 @@ graph [
     id 1669
     userid "110199502"
     file "unverified.dat"
-    label "Karim Walker (Part of The Residue)🌹"
+    label "Karim Walker (Part of The Residue)"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1053119466924621824/8vIsBD1R_normal.jpg"
     type "friends"
     statuses 290333
@@ -8749,7 +8749,7 @@ graph [
     id 2849
     userid "581264686"
     file "unverified.dat"
-    label "CelebFollowBack™"
+    label "CelebFollowBack"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/2235364899/th_normal.jpg"
     type "friends"
     statuses 50474
@@ -9484,7 +9484,7 @@ graph [
     id 872
     userid "20980636"
     file "unverified.dat"
-    label "Andy Wilton ⚛️🎥"
+    label "Andy Wilton "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/719498072800235520/KM7eOcVQ_normal.jpg"
     type "friends"
     statuses 20932
@@ -9499,7 +9499,7 @@ graph [
     id 2620
     userid "564577739"
     file "unverified.dat"
-    label "𝓜𝓸𝓻𝓮𝓷𝓪 𝓟𝓸𝓶𝓹𝓲𝓰𝓷𝓸𝓵𝓲"
+    label " "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1073671412970328064/6bpVPzvO_normal.jpg"
     type "friends"
     statuses 126479
@@ -9604,7 +9604,7 @@ graph [
     id 1663
     userid "3438469581"
     file "unverified.dat"
-    label "🌹Aerin Cruz🌹"
+    label "Aerin Cruz"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1178514893479264256/ZwC1doHE_normal.jpg"
     type "friends"
     statuses 549470
@@ -9754,7 +9754,7 @@ graph [
     id 90
     userid "730510490"
     file "unverified.dat"
-    label "EDWARD ASHTON 🇺🇸"
+    label "EDWARD ASHTON "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/919691544302637058/0qF94UYE_normal.jpg"
     type "friends"
     statuses 175374
@@ -9829,7 +9829,7 @@ graph [
     id 283
     userid "209054410"
     file "unverified.dat"
-    label "🇩🇪 Hierkaufichein"
+    label " Hierkaufichein"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/681166997091135489/1smKCoBY_normal.jpg"
     type "friends"
     statuses 529157
@@ -10054,7 +10054,7 @@ graph [
     id 1685
     userid "42639323"
     file "unverified.dat"
-    label "DeShaunsMrk™"
+    label "DeShaunsMrk"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/900057324626206720/AI3IFUH4_normal.jpg"
     type "friends"
     statuses 182725
@@ -10099,7 +10099,7 @@ graph [
     id 1008
     userid "806675383013806080"
     file "unverified.dat"
-    label "Dennis Uribe 🌊🌎♿"
+    label "Dennis Uribe "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1165305034638266369/7yfPw5YN_normal.jpg"
     type "friends"
     statuses 114039
@@ -10294,7 +10294,7 @@ graph [
     id 2116
     userid "279270981"
     file "unverified.dat"
-    label "Loved & Imperfec†🇺🇸"
+    label "Loved & Imperfec"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/898421227357847552/LNxIGJu2_normal.jpg"
     type "friends"
     statuses 187123
@@ -10339,7 +10339,7 @@ graph [
     id 1000
     userid "18797518"
     file "unverified.dat"
-    label "GABBYiSACTiVE®"
+    label "GABBYiSACTiVE"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/528800489383936001/PGRusNiX_normal.jpeg"
     type "friends"
     statuses 241972
@@ -10444,7 +10444,7 @@ graph [
     id 1946
     userid "2422329920"
     file "unverified.dat"
-    label "❌❌ McFixit1 ❌❌"
+    label " McFixit1 "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/507895781248884736/cI42Sb1Y_normal.jpeg"
     type "friends"
     statuses 117171
@@ -10474,7 +10474,7 @@ graph [
     id 3449
     userid "81763584"
     file "unverified.dat"
-    label "Diana DiPacita💖"
+    label "Diana DiPacita"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/758759755095552001/T8d-TQOP_normal.jpg"
     type "friends"
     statuses 102617
@@ -10504,7 +10504,7 @@ graph [
     id 1167
     userid "20925446"
     file "unverified.dat"
-    label "Betty Howell    🇺🇸"
+    label "Betty Howell    "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/729322274973728768/wKpDwl0p_normal.jpg"
     type "friends"
     statuses 261353
@@ -11344,7 +11344,7 @@ graph [
     id 2634
     userid "26046091"
     file "unverified.dat"
-    label "🇨🇦Reel New Media🇨🇦"
+    label "Reel New Media"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1170259250922369025/b9hKqc2X_normal.jpg"
     type "friends"
     statuses 91895
@@ -11404,7 +11404,7 @@ graph [
     id 262
     userid "14270422"
     file "unverified.dat"
-    label "P A T • L E E"
+    label "P A T  L E E"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1155538317703880706/9nuvIILj_normal.jpg"
     type "friends"
     statuses 39885
@@ -11719,7 +11719,7 @@ graph [
     id 759
     userid "820187383"
     file "unverified.dat"
-    label "🦇🕸🕷𝔅𝔯𝔦𝔱𝔭𝔬𝔭𝔱𝔞𝔯𝔱𝔰🕷🕸🦇"
+    label ""
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/913835336190500864/6Im41aaD_normal.jpg"
     type "friends"
     statuses 700675
@@ -12019,7 +12019,7 @@ graph [
     id 2222
     userid "4259429560"
     file "unverified.dat"
-    label "ARIANA GRANDE ACTU 👼🏼"
+    label "ARIANA GRANDE ACTU "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1180140607160963072/cBlKpmeR_normal.jpg"
     type "friends"
     statuses 188854
@@ -12049,7 +12049,7 @@ graph [
     id 2504
     userid "2798758688"
     file "unverified.dat"
-    label "✨Laura Fernandez ✨"
+    label "Laura Fernandez "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/863966630828584960/LdVqiH-P_normal.jpg"
     type "friends"
     statuses 756176
@@ -12154,7 +12154,7 @@ graph [
     id 1150
     userid "246133609"
     file "unverified.dat"
-    label "LordWilsonVilla 🦁🇬🇧❌ UAI"
+    label "LordWilsonVilla  UAI"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/746130430420729856/pERLN94J_normal.jpg"
     type "friends"
     statuses 69648
@@ -12259,7 +12259,7 @@ graph [
     id 490
     userid "3193836186"
     file "unverified.dat"
-    label "Trump ATeam 🇺🇸"
+    label "Trump ATeam "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/598338906333917184/oqc4s-ZP_normal.jpg"
     type "friends"
     statuses 212556
@@ -12334,7 +12334,7 @@ graph [
     id 3229
     userid "953757131882168320"
     file "unverified.dat"
-    label "Trump is Going Down🌊❄️🏳️‍🌈🇺🇸"
+    label "Trump is Going Down"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1160655368466268160/NnwWbyW-_normal.jpg"
     type "friends"
     statuses 13614
@@ -12364,7 +12364,7 @@ graph [
     id 1187
     userid "98801999"
     file "unverified.dat"
-    label "NicoleReloaded🙋🏽‍♀"
+    label "NicoleReloaded"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/949775084004163584/o-4y0rtF_normal.jpg"
     type "friends"
     statuses 26017
@@ -12454,7 +12454,7 @@ graph [
     id 1709
     userid "580194482"
     file "unverified.dat"
-    label "J. V. Douglas🇺🇸No DMs"
+    label "J. V. DouglasNo DMs"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1094526213974941697/hkbZsLS2_normal.jpg"
     type "friends"
     statuses 167404
@@ -12589,7 +12589,7 @@ graph [
     id 2872
     userid "1304762178"
     file "unverified.dat"
-    label "Amel Benmann 🇩🇿"
+    label "Amel Benmann "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/798306872243748864/Y0sVmOES_normal.jpg"
     type "friends"
     statuses 624659
@@ -12619,7 +12619,7 @@ graph [
     id 1821
     userid "829150329543544832"
     file "unverified.dat"
-    label "Music News 360°"
+    label "Music News 360"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1163567850281287680/wL-MopMI_normal.jpg"
     type "friends"
     statuses 58474
@@ -12769,7 +12769,7 @@ graph [
     id 1595
     userid "104601778"
     file "unverified.dat"
-    label "Joanne Przybylowski🇺🇸🇺🇸MAGA"
+    label "Joanne PrzybylowskiMAGA"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/378800000066174156/eed295f581b9d967b508b164733f5c15_normal.jpeg"
     type "friends"
     statuses 57716
@@ -12904,7 +12904,7 @@ graph [
     id 546
     userid "718819021907456000"
     file "unverified.dat"
-    label "Shawn Graham - Chasing The Truth 🎙🇺🇸"
+    label "Shawn Graham - Chasing The Truth "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1164729916333666304/yya1ctFn_normal.jpg"
     type "friends"
     statuses 101286
@@ -13114,7 +13114,7 @@ graph [
     id 3551
     userid "814884224"
     file "unverified.dat"
-    label "WORLD ALERTS ²⁴/7"
+    label "WORLD ALERTS /7"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/378800000485759112/f320ea44888289b185da2230688d5d3d_normal.jpeg"
     type "friends"
     statuses 222057
@@ -13159,7 +13159,7 @@ graph [
     id 2815
     userid "19960217"
     file "unverified.dat"
-    label "Yusra Salim | يُسرى بِنْت سالم"
+    label "Yusra Salim |   "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1159603198098837504/OB0lGiP3_normal.jpg"
     type "friends"
     statuses 156407
@@ -13489,7 +13489,7 @@ graph [
     id 1969
     userid "23840242"
     file "unverified.dat"
-    label "Marcy aka Mel 🎚🇺🇸"
+    label "Marcy aka Mel "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1120171028993515521/vBqa091I_normal.jpg"
     type "friends"
     statuses 217831
@@ -13519,7 +13519,7 @@ graph [
     id 25
     userid "13986352"
     file "unverified.dat"
-    label "The Playlist 🎬"
+    label "The Playlist "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/725785378439987200/R8ynRNK8_normal.jpg"
     type "friends"
     statuses 183008
@@ -13564,7 +13564,7 @@ graph [
     id 1875
     userid "3766254975"
     file "unverified.dat"
-    label "👌🏻Elrond Adama❌"
+    label "Elrond Adama"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/800856081601687559/kowCn3pe_normal.jpg"
     type "friends"
     statuses 100908
@@ -13669,7 +13669,7 @@ graph [
     id 153
     userid "25488729"
     file "unverified.dat"
-    label "Francesc Riverola - FXStreet.com 🎗"
+    label "Francesc Riverola - FXStreet.com "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/942855590434496513/CEZG1Yvs_normal.jpg"
     type "friends"
     statuses 101970
@@ -13699,7 +13699,7 @@ graph [
     id 249
     userid "52230962"
     file "unverified.dat"
-    label "🌊PoliticalAnt🐜(a.k.a. @JazzLuvnAnt🎷)🔥"
+    label "PoliticalAnt(a.k.a. @JazzLuvnAnt)"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1170141765527048192/fhH7YqIE_normal.jpg"
     type "friends"
     statuses 394791
@@ -13774,7 +13774,7 @@ graph [
     id 1461
     userid "465894627"
     file "unverified.dat"
-    label "K U B I L I V E 🌟"
+    label "K U B I L I V E "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1069636584369258503/wxCk6GL2_normal.jpg"
     type "friends"
     statuses 59443
@@ -13834,7 +13834,7 @@ graph [
     id 2663
     userid "3243707748"
     file "unverified.dat"
-    label "Pattinson360 🌊 🦇"
+    label "Pattinson360  "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1003179403482824705/_ggA3RLl_normal.jpg"
     type "friends"
     statuses 73744
@@ -13999,7 +13999,7 @@ graph [
     id 574
     userid "3140945615"
     file "unverified.dat"
-    label "Susj Crusher🌀"
+    label "Susj Crusher"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/918941377639206912/N-TnGr28_normal.jpg"
     type "friends"
     statuses 50948
@@ -14044,7 +14044,7 @@ graph [
     id 3147
     userid "319540600"
     file "unverified.dat"
-    label "大崎エミシ【大崎市応援ご当地萌えキャラ（非公認）】"
+    label ""
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1140499050334044160/tzOIdcDz_normal.jpg"
     type "friends"
     statuses 99679
@@ -14239,7 +14239,7 @@ graph [
     id 1483
     userid "130361402"
     file "unverified.dat"
-    label "ٍ"
+    label ""
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1153778334268047360/GSrVF5hV_normal.jpg"
     type "friends"
     statuses 97598
@@ -14254,7 +14254,7 @@ graph [
     id 1568
     userid "334626794"
     file "unverified.dat"
-    label "Vincii Williams  ●"
+    label "Vincii Williams  "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1065751822638489601/lqqt2A15_normal.jpg"
     type "friends"
     statuses 1033352
@@ -14269,7 +14269,7 @@ graph [
     id 2370
     userid "72993422"
     file "unverified.dat"
-    label "🤴🏽/G\N a N a/G\🤴🏽"
+    label "/G\N a N a/G\"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1165926687428792320/I2IC-0c7_normal.jpg"
     type "friends"
     statuses 13148
@@ -14434,7 +14434,7 @@ graph [
     id 3457
     userid "54300359"
     file "unverified.dat"
-    label "#InternetBillOfRights❌"
+    label "#InternetBillOfRights"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/615335092987297792/vHYdT-PO_normal.jpg"
     type "friends"
     statuses 183312
@@ -14689,7 +14689,7 @@ graph [
     id 677
     userid "409665547"
     file "unverified.dat"
-    label "Clay Brice 🐲"
+    label "Clay Brice "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1151977378656202752/bjQeL7ud_normal.jpg"
     type "friends"
     statuses 179931
@@ -14869,7 +14869,7 @@ graph [
     id 1356
     userid "767346488519323648"
     file "unverified.dat"
-    label "Michelle Jailey 💋No Hate Only Love 🤟"
+    label "Michelle Jailey No Hate Only Love "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1170547061550399489/i15v_c_I_normal.png"
     type "friends"
     statuses 232914
@@ -14914,7 +14914,7 @@ graph [
     id 62
     userid "387450674"
     file "unverified.dat"
-    label "StarsMoonandSun ✨🌘🌞"
+    label "StarsMoonandSun "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1181600542965080064/mLz27XDM_normal.jpg"
     type "friends"
     statuses 257695
@@ -15004,7 +15004,7 @@ graph [
     id 2162
     userid "48347194"
     file "unverified.dat"
-    label "Mrs D says Common Sense tells you...🌊🌐🍃"
+    label "Mrs D says Common Sense tells you..."
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/912508902322847744/ou7SF_72_normal.jpg"
     type "friends"
     statuses 59498
@@ -15154,7 +15154,7 @@ graph [
     id 588
     userid "701253999228354560"
     file "unverified.dat"
-    label "-DJ-🖤❤ TRUMP🖤"
+    label "-DJ- TRUMP"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/817857688113512449/5ZUpB2Y1_normal.jpg"
     type "friends"
     statuses 455506
@@ -15364,7 +15364,7 @@ graph [
     id 2100
     userid "309963878"
     file "unverified.dat"
-    label "Marla in GA 🏳️‍🌈☮️🤦🏽‍♀️👩🏽‍💻🌊"
+    label "Marla in GA "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1379493990/p20110413-212414_normal.jpg"
     type "friends"
     statuses 26446
@@ -15499,7 +15499,7 @@ graph [
     id 300
     userid "143638043"
     file "unverified.dat"
-    label "Seanwillex 🇳🇬"
+    label "Seanwillex "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1139940489153732608/R7kK2XvM_normal.jpg"
     type "friends"
     statuses 156558
@@ -15514,7 +15514,7 @@ graph [
     id 718
     userid "333014276"
     file "unverified.dat"
-    label "Janice Jhana Eeeks🌊🍑"
+    label "Janice Jhana Eeeks"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1166553332418265089/poCg0iNO_normal.jpg"
     type "friends"
     statuses 230098
@@ -15604,7 +15604,7 @@ graph [
     id 1655
     userid "805191490968416256"
     file "unverified.dat"
-    label "Laura #Covfefe   ☘ 👠"
+    label "Laura #Covfefe    "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/838800989805293570/KpBiPw0Z_normal.jpg"
     type "friends"
     statuses 72047
@@ -15619,7 +15619,7 @@ graph [
     id 2990
     userid "209154269"
     file "unverified.dat"
-    label "Adeyinka Mufasa🔥"
+    label "Adeyinka Mufasa"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1169356153073127429/szgFW8q2_normal.jpg"
     type "friends"
     statuses 315509
@@ -15874,7 +15874,7 @@ graph [
     id 3490
     userid "4158319895"
     file "unverified.dat"
-    label "OmoCharlieChampagne💃🏽"
+    label "OmoCharlieChampagne"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1086038642034962433/ESTMpOkj_normal.jpg"
     type "friends"
     statuses 36977
@@ -16009,7 +16009,7 @@ graph [
     id 1300
     userid "708800580995522560"
     file "unverified.dat"
-    label "Rachel Maria 🇺🇸💙🇺🇸"
+    label "Rachel Maria "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/908700969675890689/QP5RDOmI_normal.jpg"
     type "friends"
     statuses 234601
@@ -16159,7 +16159,7 @@ graph [
     id 1064
     userid "535639721"
     file "unverified.dat"
-    label "❌ L-DplorablHarrison❌"
+    label " L-DplorablHarrison"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1957856019/american_patriot_card-p137082517385869271z85cd_400_normal.jpg"
     type "friends"
     statuses 43335
@@ -16189,7 +16189,7 @@ graph [
     id 433
     userid "813162341269471232"
     file "unverified.dat"
-    label "Archangel Michael   🇺🇸"
+    label "Archangel Michael   "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1079728403958386689/oDorweBG_normal.jpg"
     type "friends"
     statuses 126589
@@ -16219,7 +16219,7 @@ graph [
     id 1332
     userid "959553806601216000"
     file "unverified.dat"
-    label "Weed Mafia Club™"
+    label "Weed Mafia Club"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1001303841927843840/NOCLfAWz_normal.jpg"
     type "friends"
     statuses 13706
@@ -16399,7 +16399,7 @@ graph [
     id 1575
     userid "2384261730"
     file "unverified.dat"
-    label "One Direction News🎤"
+    label "One Direction News"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/507916545691889664/Q4LEhnsL_normal.png"
     type "friends"
     statuses 166835
@@ -16804,7 +16804,7 @@ graph [
     id 3483
     userid "700661449769644032"
     file "unverified.dat"
-    label "脱毛MAX山口店"
+    label "MAX"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1078567412700667904/HFT4WVZu_normal.jpg"
     type "friends"
     statuses 11855
@@ -16999,7 +16999,7 @@ graph [
     id 255
     userid "102758473"
     file "unverified.dat"
-    label "Brad  🎶 📰 📍 🙃"
+    label "Brad     "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/870529556708380672/4ov62ajw_normal.jpg"
     type "friends"
     statuses 202126
@@ -17089,7 +17089,7 @@ graph [
     id 640
     userid "2172753872"
     file "unverified.dat"
-    label "🇺🇸(((WHITE ROSE)))🇮🇱"
+    label "(((WHITE ROSE)))"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1141181175572193285/uTkdRkoM_normal.png"
     type "friends"
     statuses 250322
@@ -17134,7 +17134,7 @@ graph [
     id 549
     userid "775958570"
     file "unverified.dat"
-    label "Ramos Artículos Piel"
+    label "Ramos Artculos Piel"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/727853364369829889/9FImMo7w_normal.jpg"
     type "friends"
     statuses 36528
@@ -17269,7 +17269,7 @@ graph [
     id 765
     userid "430177825"
     file "unverified.dat"
-    label "Aamir Javed 🇵🇰"
+    label "Aamir Javed "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1085060995771453440/6IdA2tCs_normal.jpg"
     type "friends"
     statuses 6250
@@ -17629,7 +17629,7 @@ graph [
     id 698
     userid "723326540"
     file "unverified.dat"
-    label "↗ChampagnePapi ↖"
+    label "ChampagnePapi "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1022667508652941312/Juz776se_normal.jpg"
     type "friends"
     statuses 118336
@@ -17689,7 +17689,7 @@ graph [
     id 1073
     userid "221658128"
     file "unverified.dat"
-    label "Natalia Carter 🌮"
+    label "Natalia Carter "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1047811257472958465/MOIPJBdo_normal.jpg"
     type "friends"
     statuses 108193
@@ -17734,7 +17734,7 @@ graph [
     id 1273
     userid "1164428065"
     file "unverified.dat"
-    label "Winter is 🔥🔥Berning🔥🔥"
+    label "Winter is Berning"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1152686444504240133/Qg-iD29M_normal.jpg"
     type "friends"
     statuses 123365
@@ -17959,7 +17959,7 @@ graph [
     id 2697
     userid "393975448"
     file "unverified.dat"
-    label "Zèé SH"
+    label "Z SH"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1018167454118367232/Pz2DdYUh_normal.jpg"
     type "friends"
     statuses 532543
@@ -18064,7 +18064,7 @@ graph [
     id 2674
     userid "19065676"
     file "unverified.dat"
-    label "Víctor R. Villar"
+    label "Vctor R. Villar"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1102306931442626563/7eemjl78_normal.png"
     type "friends"
     statuses 101594
@@ -18169,7 +18169,7 @@ graph [
     id 1387
     userid "48714547"
     file "unverified.dat"
-    label "Samuel™"
+    label "Samuel"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1146030916994834433/aQfV9Dra_normal.jpg"
     type "friends"
     statuses 134499
@@ -18214,7 +18214,7 @@ graph [
     id 284
     userid "3947091915"
     file "unverified.dat"
-    label "NewportFound5⭐️"
+    label "NewportFound5"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1041456884862144513/-5xGGwjq_normal.jpg"
     type "friends"
     statuses 325484
@@ -18229,7 +18229,7 @@ graph [
     id 885
     userid "761725622603411456"
     file "unverified.dat"
-    label "Impressions🐾"
+    label "Impressions"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1096900966098571264/6g51acGd_normal.jpg"
     type "friends"
     statuses 91629
@@ -18244,7 +18244,7 @@ graph [
     id 1328
     userid "841691667602255872"
     file "unverified.dat"
-    label "🌊❄Fight Against Fake News And Propagandist ❄🌊"
+    label "Fight Against Fake News And Propagandist "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1083834924753395713/yJaHNmRJ_normal.jpg"
     type "friends"
     statuses 64484
@@ -18259,7 +18259,7 @@ graph [
     id 2418
     userid "438948447"
     file "unverified.dat"
-    label "Dengiyefa Malik☯"
+    label "Dengiyefa Malik"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1109696768227315712/34ok6vke_normal.jpg"
     type "friends"
     statuses 116762
@@ -18274,7 +18274,7 @@ graph [
     id 3386
     userid "277658474"
     file "unverified.dat"
-    label "★♪☆ ♥♬♔MJMAGIC♔♬♥☆♪★"
+    label " MJMAGIC"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1143531873861296128/wqGC8Bus_normal.jpg"
     type "friends"
     statuses 40744
@@ -18289,7 +18289,7 @@ graph [
     id 3335
     userid "2240774123"
     file "unverified.dat"
-    label "Denis Vézina"
+    label "Denis Vzina"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/425810544948285440/40ldPjMb_normal.jpeg"
     type "friends"
     statuses 153843
@@ -18799,7 +18799,7 @@ graph [
     id 1395
     userid "94109964"
     file "unverified.dat"
-    label "العلاجات - alealajat"
+    label " - alealajat"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
     type "friends"
     statuses 300314
@@ -19369,7 +19369,7 @@ graph [
     id 181
     userid "604532930"
     file "unverified.dat"
-    label "_( :3」∠)_"
+    label "_( :3)_"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/911275518976180224/4MDetf12_normal.jpg"
     type "friends"
     statuses 374290
@@ -19594,7 +19594,7 @@ graph [
     id 1919
     userid "180818664"
     file "unverified.dat"
-    label "ℓσя∂ ♍αуσя 💯"
+    label "  "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1159704067054145537/_FJbRd3p_normal.jpg"
     type "friends"
     statuses 362682
@@ -19639,7 +19639,7 @@ graph [
     id 3327
     userid "940315693"
     file "unverified.dat"
-    label "♥Produced Music♥"
+    label "Produced Music"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/513138737576828928/_paajUis_normal.jpeg"
     type "friends"
     statuses 67425
@@ -19669,7 +19669,7 @@ graph [
     id 1235
     userid "375977279"
     file "unverified.dat"
-    label "㍿ぶーちゃん™"
+    label ""
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1093829244365369345/EG_e2D9m_normal.jpg"
     type "friends"
     statuses 229157
@@ -19684,7 +19684,7 @@ graph [
     id 1486
     userid "61081477"
     file "unverified.dat"
-    label "Bali Promotion Center   ⭐️⭐️❤️⭐️⭐️"
+    label "Bali Promotion Center   "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1112447242302951424/wmK35Byf_normal.png"
     type "friends"
     statuses 193737
@@ -19804,7 +19804,7 @@ graph [
     id 713
     userid "846183679630049280"
     file "unverified.dat"
-    label "TRUMP IS A PIECE OF SHIT💩SAVE OUR DEMOCRACY!!💥"
+    label "TRUMP IS A PIECE OF SHITSAVE OUR DEMOCRACY!!"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1096808843885965312/ymEspA3K_normal.jpg"
     type "friends"
     statuses 159954
@@ -20104,7 +20104,7 @@ graph [
     id 2049
     userid "112732163"
     file "unverified.dat"
-    label "Eduardo E. Rodríguez"
+    label "Eduardo E. Rodrguez"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1134234367797223425/8jdClhsb_normal.jpg"
     type "friends"
     statuses 145591
@@ -20134,7 +20134,7 @@ graph [
     id 2735
     userid "2328462162"
     file "unverified.dat"
-    label "TOKYOお買い物メモ"
+    label "TOKYO"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1082475826078085120/dZtsdbjc_normal.jpg"
     type "friends"
     statuses 28105
@@ -20299,7 +20299,7 @@ graph [
     id 2527
     userid "176981352"
     file "unverified.dat"
-    label "🇺🇸U.S. Flash Feed🇺🇸"
+    label "U.S. Flash Feed"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/871321190077390848/mySN2FAq_normal.jpg"
     type "friends"
     statuses 226582
@@ -20404,7 +20404,7 @@ graph [
     id 927
     userid "152762478"
     file "unverified.dat"
-    label "Ángeles Lagos"
+    label "ngeles Lagos"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/700155533978828800/OvhIOnlJ_normal.jpg"
     type "friends"
     statuses 193311
@@ -20704,7 +20704,7 @@ graph [
     id 3347
     userid "166667365"
     file "unverified.dat"
-    label "Tina Curno Fougere🇨🇦"
+    label "Tina Curno Fougere"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1062178003763965952/zj_DSHUG_normal.jpg"
     type "friends"
     statuses 21496
@@ -20764,7 +20764,7 @@ graph [
     id 2619
     userid "3303006567"
     file "unverified.dat"
-    label "ＴＵ ★ ＭＵＳＩＣ★"
+    label "  "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/605544335761895424/x3OjS7Bj_normal.jpg"
     type "friends"
     statuses 56677
@@ -20854,7 +20854,7 @@ graph [
     id 3316
     userid "2216662325"
     file "unverified.dat"
-    label "BERNIE 2020 😎🔥🥂 #closetheCamps"
+    label "BERNIE 2020  #closetheCamps"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1072360331626860544/Y6Kr4Hl9_normal.jpg"
     type "friends"
     statuses 67794
@@ -21004,7 +21004,7 @@ graph [
     id 3284
     userid "54941475"
     file "unverified.dat"
-    label "Sara D'Ignoti ♉️"
+    label "Sara D'Ignoti "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/516637475947950080/u30_k2iL_normal.jpeg"
     type "friends"
     statuses 51898
@@ -21304,7 +21304,7 @@ graph [
     id 1703
     userid "23949782"
     file "unverified.dat"
-    label "Č๑яήĦѳĿīΘ"
+    label ""
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1159246472610816002/ePcjcIri_normal.jpg"
     type "friends"
     statuses 47309
@@ -21379,7 +21379,7 @@ graph [
     id 1614
     userid "358210018"
     file "unverified.dat"
-    label "Chatch.tv™"
+    label "Chatch.tv"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/378800000598579699/de10cf2202981726462772112952b9ee_normal.png"
     type "friends"
     statuses 73027
@@ -21529,7 +21529,7 @@ graph [
     id 797
     userid "137655302"
     file "unverified.dat"
-    label "⬇↘➡ ✊ = Hadouken"
+    label "  = Hadouken"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/814024730428768256/IHL6Mily_normal.jpg"
     type "friends"
     statuses 566990
@@ -21544,7 +21544,7 @@ graph [
     id 2359
     userid "37796602"
     file "unverified.dat"
-    label "Sheila💋"
+    label "Sheila"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/896029370850058241/7UbPy5or_normal.jpg"
     type "friends"
     statuses 91506
@@ -21574,7 +21574,7 @@ graph [
     id 2419
     userid "717151560"
     file "unverified.dat"
-    label "Celebrity News ★"
+    label "Celebrity News "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/892390507917324290/TGZFu4BP_normal.jpg"
     type "friends"
     statuses 59190
@@ -21844,7 +21844,7 @@ graph [
     id 2992
     userid "2755114248"
     file "unverified.dat"
-    label "@Isadora #BlakeSheltonLover ✌"
+    label "@Isadora #BlakeSheltonLover "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1127663367374671873/s78dSLPu_normal.jpg"
     type "friends"
     statuses 119020
@@ -22084,7 +22084,7 @@ graph [
     id 984
     userid "24282834"
     file "unverified.dat"
-    label "🖤íӏíղɑ🎃"
+    label ""
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1128052085847744512/kCrAbgpl_normal.jpg"
     type "friends"
     statuses 39893
@@ -22099,7 +22099,7 @@ graph [
     id 1816
     userid "1689770203"
     file "unverified.dat"
-    label "脱毛MAXグループ"
+    label "MAX"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/990251213236064256/xbvCcO94_normal.jpg"
     type "friends"
     statuses 35628
@@ -22129,7 +22129,7 @@ graph [
     id 897
     userid "568521829"
     file "unverified.dat"
-    label "Donna Martin-Netherton©"
+    label "Donna Martin-Netherton"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/688125590965112832/TgQsfi3f_normal.png"
     type "friends"
     statuses 118911
@@ -22324,7 +22324,7 @@ graph [
     id 764
     userid "587865810"
     file "unverified.dat"
-    label "★ Celebrity News UK★"
+    label " Celebrity News UK"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/2244567651/face_normal.gif"
     type "friends"
     statuses 245289
@@ -22639,7 +22639,7 @@ graph [
     id 1852
     userid "937230789925679104"
     file "unverified.dat"
-    label "Cowboy #WalkAwayIsForAll USA⭐️⭐️⭐️"
+    label "Cowboy #WalkAwayIsForAll USA"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/946688860309790720/eXgi_F9w_normal.jpg"
     type "friends"
     statuses 20987
@@ -22684,7 +22684,7 @@ graph [
     id 2812
     userid "27276155"
     file "unverified.dat"
-    label "★ Claudia @ ./lsd"
+    label " Claudia @ ./lsd"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/970347286969704449/xNe344R-_normal.jpg"
     type "friends"
     statuses 527121
@@ -22699,7 +22699,7 @@ graph [
     id 1736
     userid "1528101612"
     file "unverified.dat"
-    label "Puesto de Periódicos"
+    label "Puesto de Peridicos"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/566312725429489664/Fpc6xJ0k_normal.jpeg"
     type "friends"
     statuses 782640
@@ -22804,7 +22804,7 @@ graph [
     id 881
     userid "797171637204422656"
     file "unverified.dat"
-    label "💥Pam💥 🌺💦🌊🗽"
+    label "Pam "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1045755305785794560/tYIxK6Ca_normal.jpg"
     type "friends"
     statuses 61745
@@ -23074,7 +23074,7 @@ graph [
     id 2766
     userid "243212916"
     file "unverified.dat"
-    label "Kaarle Petäjäinen"
+    label "Kaarle Petjinen"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/505344539096121347/mh1E7-Oq_normal.jpeg"
     type "friends"
     statuses 78158
@@ -23254,7 +23254,7 @@ graph [
     id 1916
     userid "716707698"
     file "unverified.dat"
-    label "🇨🇦🇻🇪🇺🇸#WomanAgainstTrump #lockUpTrump"
+    label "#WomanAgainstTrump #lockUpTrump"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1180171119631962112/rORTfQNN_normal.jpg"
     type "friends"
     statuses 89011
@@ -23464,7 +23464,7 @@ graph [
     id 1596
     userid "811593661641330688"
     file "unverified.dat"
-    label "𝕊ℂ𝕆𝕆ℙ𝕐 𝔹𝔼ℕℤ 🗼"
+    label "  "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1085687104179458048/cjHETgF4_normal.jpg"
     type "friends"
     statuses 3947
@@ -23689,7 +23689,7 @@ graph [
     id 2844
     userid "38177107"
     file "unverified.dat"
-    label "Anna C. Fontana 🎀🌸⚡️"
+    label "Anna C. Fontana "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1131136971521298433/MEzP3OTI_normal.jpg"
     type "friends"
     statuses 164415
@@ -23779,7 +23779,7 @@ graph [
     id 2998
     userid "2858595360"
     file "unverified.dat"
-    label "⚡️CommonWhiteGirl⚡️"
+    label "CommonWhiteGirl"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/538973803796123649/QhIZ4f8r_normal.jpeg"
     type "friends"
     statuses 175348
@@ -23869,7 +23869,7 @@ graph [
     id 2458
     userid "2825165807"
     file "unverified.dat"
-    label "Ravionno Travel Deals🌴💦"
+    label "Ravionno Travel Deals"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/947373729755160576/-_kqYzGU_normal.jpg"
     type "friends"
     statuses 202804
@@ -24019,7 +24019,7 @@ graph [
     id 2932
     userid "705614582"
     file "unverified.dat"
-    label "TV & Film News ✇"
+    label "TV & Film News "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/892395159631089664/NJGcR9cW_normal.jpg"
     type "friends"
     statuses 87826
@@ -24244,7 +24244,7 @@ graph [
     id 3308
     userid "19490590"
     file "unverified.dat"
-    label "🌴PalmTreePatriot🌴"
+    label "PalmTreePatriot"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1167853073194213378/6Bnlbcem_normal.jpg"
     type "friends"
     statuses 176300
@@ -24259,7 +24259,7 @@ graph [
     id 637
     userid "148308359"
     file "unverified.dat"
-    label "Heisenberg ٭"
+    label "Heisenberg "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/2983327402/7c1438fb74c085cca85d791f2709b31f_normal.jpeg"
     type "friends"
     statuses 301912
@@ -24319,7 +24319,7 @@ graph [
     id 1598
     userid "173835301"
     file "unverified.dat"
-    label "BACFA™"
+    label "BACFA"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1147599849933758464/1w_-nKQg_normal.jpg"
     type "friends"
     statuses 231895
@@ -24484,7 +24484,7 @@ graph [
     id 1801
     userid "2866149777"
     file "unverified.dat"
-    label "Å Fusion"
+    label " Fusion"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/531505809549570048/K2gK1oFb_normal.jpeg"
     type "friends"
     statuses 142519
@@ -24679,7 +24679,7 @@ graph [
     id 2431
     userid "548466883"
     file "unverified.dat"
-    label "立川志獅丸"
+    label ""
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/2179901140/image_normal.jpg"
     type "friends"
     statuses 13841
@@ -24739,7 +24739,7 @@ graph [
     id 2071
     userid "1115488759"
     file "unverified.dat"
-    label "Follower Mob 🤖"
+    label "Follower Mob "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/3346866136/44bafe581019fa2603283cbc5e41f3ff_normal.png"
     type "friends"
     statuses 16254
@@ -24784,7 +24784,7 @@ graph [
     id 3286
     userid "284981454"
     file "unverified.dat"
-    label "I 🖤❤️ 9 & 26!!"
+    label "I  9 & 26!!"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1177323863434235905/hS1xUWDD_normal.jpg"
     type "friends"
     statuses 170995
@@ -25219,7 +25219,7 @@ graph [
     id 2648
     userid "204811200"
     file "unverified.dat"
-    label "海老沢竜"
+    label ""
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1092184813329514496/eg6cPd-O_normal.png"
     type "friends"
     statuses 25898
@@ -25234,7 +25234,7 @@ graph [
     id 950
     userid "29374100"
     file "unverified.dat"
-    label "Trainer Sophie 🇨🇦"
+    label "Trainer Sophie "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/829011734354546689/4pTzIJc__normal.jpg"
     type "friends"
     statuses 57938
@@ -25504,7 +25504,7 @@ graph [
     id 114
     userid "417395419"
     file "unverified.dat"
-    label "❤️Kasey❤️️"
+    label "Kasey"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/874076087893893121/J-hwqxIv_normal.jpg"
     type "friends"
     statuses 92307
@@ -26299,7 +26299,7 @@ graph [
     id 2572
     userid "203901265"
     file "unverified.dat"
-    label "Look Dating Group 💞"
+    label "Look Dating Group "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/431092475193610240/kmik5-NH_normal.png"
     type "friends"
     statuses 32308
@@ -26374,7 +26374,7 @@ graph [
     id 1388
     userid "3228986538"
     file "unverified.dat"
-    label "Flex 🔥"
+    label "Flex "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/804460865617543170/5AuywqPz_normal.jpg"
     type "friends"
     statuses 76570
@@ -26674,7 +26674,7 @@ graph [
     id 2714
     userid "2550950378"
     file "unverified.dat"
-    label "cazatormentas Panamá"
+    label "cazatormentas Panam"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/475022231626457088/o_tLMCdD_normal.png"
     type "friends"
     statuses 52696
@@ -26734,7 +26734,7 @@ graph [
     id 1458
     userid "606018621"
     file "unverified.dat"
-    label "Alex Katz 🥨"
+    label "Alex Katz "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1134858829877764096/QPmWb7ej_normal.png"
     type "friends"
     statuses 44611
@@ -26749,7 +26749,7 @@ graph [
     id 2916
     userid "753278309597847552"
     file "unverified.dat"
-    label "BEEHEMOTH ⏳"
+    label "BEEHEMOTH "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/839569408221712403/7_0uKF4R_normal.jpg"
     type "friends"
     statuses 116098
@@ -26809,7 +26809,7 @@ graph [
     id 2036
     userid "2829402252"
     file "unverified.dat"
-    label "Cañon City News"
+    label "Caon City News"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1177540442830848000/Vo3HThwq_normal.jpg"
     type "friends"
     statuses 603779
@@ -27004,7 +27004,7 @@ graph [
     id 808
     userid "16253962"
     file "unverified.dat"
-    label "Feel the Bern, B!TCHES ✊🔥❤️"
+    label "Feel the Bern, B!TCHES "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1156602740845338624/KxsCa3Bw_normal.jpg"
     type "friends"
     statuses 70501
@@ -27034,7 +27034,7 @@ graph [
     id 354
     userid "39975891"
     file "unverified.dat"
-    label "Saeed Valadbaygi🇨🇦"
+    label "Saeed Valadbaygi"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/754659468336570368/pfoj2viK_normal.jpg"
     type "friends"
     statuses 219946
@@ -27124,7 +27124,7 @@ graph [
     id 2494
     userid "25166794"
     file "unverified.dat"
-    label "Blair Waldorf 💖🖤"
+    label "Blair Waldorf "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1150494588446138373/CyxhFfFU_normal.jpg"
     type "friends"
     statuses 101685
@@ -27139,7 +27139,7 @@ graph [
     id 586
     userid "2477178937"
     file "unverified.dat"
-    label "Cray-Cray Cat Lady🌈🌊♀🗳🐾"
+    label "Cray-Cray Cat Lady"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/950258006922379264/tWQPzbRF_normal.jpg"
     type "friends"
     statuses 34816
@@ -27169,7 +27169,7 @@ graph [
     id 820
     userid "422692299"
     file "unverified.dat"
-    label "ROY BERROA ⚕️"
+    label "ROY BERROA "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1172396870095663105/4MRTaH0o_normal.jpg"
     type "friends"
     statuses 312528
@@ -27184,7 +27184,7 @@ graph [
     id 3387
     userid "71413471"
     file "unverified.dat"
-    label "南里晃広"
+    label ""
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1054503671092789250/8wvcxMmH_normal.jpg"
     type "friends"
     statuses 141012
@@ -27214,7 +27214,7 @@ graph [
     id 1261
     userid "329143270"
     file "unverified.dat"
-    label "Catty PaulaTicks 😺"
+    label "Catty PaulaTicks "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1016936320197939200/lt4552TF_normal.jpg"
     type "friends"
     statuses 336951
@@ -27439,7 +27439,7 @@ graph [
     id 2423
     userid "48476602"
     file "unverified.dat"
-    label "Ebi Tarkeshi  🎻"
+    label "Ebi Tarkeshi  "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/913202542942842880/rdFRxNcf_normal.jpg"
     type "friends"
     statuses 99198
@@ -27499,7 +27499,7 @@ graph [
     id 2910
     userid "2405189490"
     file "unverified.dat"
-    label "DCN News 🌐"
+    label "DCN News "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1065048156440715264/OQRzdl2b_normal.jpg"
     type "friends"
     statuses 69745
@@ -27529,7 +27529,7 @@ graph [
     id 1331
     userid "1004850880582115328"
     file "unverified.dat"
-    label "🔊𝙑𝙄𝘽𝙄𝙉 🆘🇺🇸 #CloseTheCamps"
+    label "  #CloseTheCamps"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1073747856169656320/5LOfydfQ_normal.jpg"
     type "friends"
     statuses 116921
@@ -27649,7 +27649,7 @@ graph [
     id 1291
     userid "2937948468"
     file "unverified.dat"
-    label "どこでもキャッチャー DC7【公式】🎁オンクレ"
+    label " DC7"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/591404421734539264/phzJqsHa_normal.png"
     type "friends"
     statuses 155496
@@ -27784,7 +27784,7 @@ graph [
     id 269
     userid "21586778"
     file "unverified.dat"
-    label "KELLY RYAN O’BRIEN"
+    label "KELLY RYAN OBRIEN"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/981317376884051968/liEy5Ynk_normal.jpg"
     type "friends"
     statuses 250878
@@ -27799,7 +27799,7 @@ graph [
     id 791
     userid "15542125"
     file "unverified.dat"
-    label "The Divine Prince™"
+    label "The Divine Prince"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1150211075163467776/q7vNR3US_normal.png"
     type "friends"
     statuses 91705
@@ -27919,7 +27919,7 @@ graph [
     id 3120
     userid "781007522668941314"
     file "unverified.dat"
-    label "Dayo Bamidele 💧"
+    label "Dayo Bamidele "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1163173371586195460/YiUqm1xX_normal.jpg"
     type "friends"
     statuses 21207
@@ -28564,7 +28564,7 @@ graph [
     id 3130
     userid "65129573"
     file "unverified.dat"
-    label "Pamela Reinskou ✌🏼"
+    label "Pamela Reinskou "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1175101513636597760/QC9gyWm8_normal.jpg"
     type "friends"
     statuses 86221
@@ -28624,7 +28624,7 @@ graph [
     id 692
     userid "838399572"
     file "unverified.dat"
-    label "Jeanette ❌"
+    label "Jeanette "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1043224496751042560/_IZi4KMg_normal.png"
     type "friends"
     statuses 550473
@@ -28894,7 +28894,7 @@ graph [
     id 1058
     userid "1864059590"
     file "unverified.dat"
-    label "حلول الطالب المنتسب"
+    label "  "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1165974874009014272/xlxE_gan_normal.jpg"
     type "friends"
     statuses 14367
@@ -29059,7 +29059,7 @@ graph [
     id 1584
     userid "63703572"
     file "unverified.dat"
-    label "S̾u̾r̾e̾R̾e̾a̾l̾i̾t̾y̾"
+    label "SureReality"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1165021546261487616/hg6aThA3_normal.jpg"
     type "friends"
     statuses 83086
@@ -29299,7 +29299,7 @@ graph [
     id 1877
     userid "625974882"
     file "unverified.dat"
-    label "I AM RAP NATION 👉 #IarGang ® 🇬🇭 🇳🇬 #1DDRIVE"
+    label "I AM RAP NATION  #IarGang    #1DDRIVE"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1005739149641601024/M76mjSvR_normal.jpg"
     type "friends"
     statuses 327092
@@ -29344,7 +29344,7 @@ graph [
     id 336
     userid "2520892212"
     file "unverified.dat"
-    label "🇺🇸 Actors Red Carpet 🇺🇸"
+    label " Actors Red Carpet "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1160642830861242368/WKO0QksS_normal.jpg"
     type "friends"
     statuses 197616
@@ -29524,7 +29524,7 @@ graph [
     id 2762
     userid "1931425682"
     file "unverified.dat"
-    label "Nina ☺️💙"
+    label "Nina "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1164737721887338496/_2AHXT3i_normal.jpg"
     type "friends"
     statuses 77688
@@ -29554,7 +29554,7 @@ graph [
     id 621
     userid "51378153"
     file "unverified.dat"
-    label "💧DUKE Clyde (Of HANSARD OF THE KEYBOARD) CFW 9💧"
+    label "DUKE Clyde (Of HANSARD OF THE KEYBOARD) CFW 9"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1120917850493861888/H_5JtbrW_normal.jpg"
     type "friends"
     statuses 868917
@@ -29629,7 +29629,7 @@ graph [
     id 1551
     userid "2660218092"
     file "unverified.dat"
-    label "CITIZENS for CHANGE™ 🌊"
+    label "CITIZENS for CHANGE "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/886988067080359936/eKNrVJBr_normal.jpg"
     type "friends"
     statuses 287501
@@ -29764,7 +29764,7 @@ graph [
     id 2110
     userid "3157684316"
     file "unverified.dat"
-    label "加藤 尚美"
+    label " "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/588352647171719168/EE3Frpdp_normal.jpg"
     type "friends"
     statuses 92213
@@ -30094,7 +30094,7 @@ graph [
     id 1378
     userid "2987658749"
     file "unverified.dat"
-    label "My name is Nathaniel apparently I'm a 🤖🤖"
+    label "My name is Nathaniel apparently I'm a "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1154420060020269062/a6_4X5_W_normal.jpg"
     type "friends"
     statuses 67900
@@ -30334,7 +30334,7 @@ graph [
     id 941
     userid "861867565"
     file "unverified.dat"
-    label "Cristóbal Delatorre"
+    label "Cristbal Delatorre"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1167319875502477312/w_ATpMEL_normal.jpg"
     type "friends"
     statuses 307063
@@ -30379,7 +30379,7 @@ graph [
     id 34
     userid "138168339"
     file "unverified.dat"
-    label "Victoria Brownworth🎃👻💀"
+    label "Victoria Brownworth"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/979460211973947392/Z7jiTVfc_normal.jpg"
     type "friends"
     statuses 359223
@@ -30439,7 +30439,7 @@ graph [
     id 2954
     userid "416201893"
     file "unverified.dat"
-    label "Mae_Westside ✍️"
+    label "Mae_Westside "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1646586409/2011_playwright-at-work_t_normal.jpg"
     type "friends"
     statuses 28532
@@ -30529,7 +30529,7 @@ graph [
     id 2509
     userid "998196962787766274"
     file "unverified.dat"
-    label "Beach Blonde - Baldie  🐳"
+    label "Beach Blonde - Baldie  "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1049775550447927297/8pD309Wj_normal.jpg"
     type "friends"
     statuses 13700
@@ -30679,7 +30679,7 @@ graph [
     id 943
     userid "3239776277"
     file "unverified.dat"
-    label "🇺🇸 Bernie 2020 #NotMeUs 🏳️‍🌈"
+    label " Bernie 2020 #NotMeUs "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1062718890139099136/zGZrHvW3_normal.jpg"
     type "friends"
     statuses 97665
@@ -30739,7 +30739,7 @@ graph [
     id 1411
     userid "26362666"
     file "unverified.dat"
-    label "Kevin D. Grüssing (Pronounced Grew-Sing)"
+    label "Kevin D. Grssing (Pronounced Grew-Sing)"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1165533349731082246/MI463WWk_normal.jpg"
     type "friends"
     statuses 374999
@@ -30844,7 +30844,7 @@ graph [
     id 2277
     userid "165298304"
     file "unverified.dat"
-    label "Servelan, reclaimin' my time🇺🇸"
+    label "Servelan, reclaimin' my time"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/824742699945304066/TCC64scy_normal.jpg"
     type "friends"
     statuses 110159
@@ -30979,7 +30979,7 @@ graph [
     id 1090
     userid "1630048896"
     file "unverified.dat"
-    label "🌊HipHopKarma🌊"
+    label "HipHopKarma"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1153365174998294529/TmIurMMU_normal.jpg"
     type "friends"
     statuses 95320
@@ -31399,7 +31399,7 @@ graph [
     id 627
     userid "18967346"
     file "unverified.dat"
-    label "Social✽Fly"
+    label "SocialFly"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1038389507941388290/lVuY8Rn__normal.jpg"
     type "friends"
     statuses 123510
@@ -31429,7 +31429,7 @@ graph [
     id 1071
     userid "541902518"
     file "unverified.dat"
-    label "SENSE🔥OF🔥OUTRAGE 🇮🇪#𝙔𝙚𝙢𝙚𝙣𝘾𝙖𝙣𝙩𝙒𝙖𝙞𝙩"
+    label "SENSEOFOUTRAGE #"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1153021131680600067/q0te6bCS_normal.jpg"
     type "friends"
     statuses 529931
@@ -31624,7 +31624,7 @@ graph [
     id 2055
     userid "42226593"
     file "unverified.dat"
-    label "🇮🇱 🇺🇸✝️Colleen Hunt✝️🇺🇸🇮🇱"
+    label " Colleen Hunt"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/937074127160082433/fG3QazXt_normal.jpg"
     type "friends"
     statuses 420142
@@ -31684,7 +31684,7 @@ graph [
     id 2445
     userid "2903969204"
     file "unverified.dat"
-    label "Ira Goldman 🦆🦆🦆"
+    label "Ira Goldman "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/982279766890958849/ytCJQqZQ_normal.jpg"
     type "friends"
     statuses 113850
@@ -31729,7 +31729,7 @@ graph [
     id 2380
     userid "1409852467"
     file "unverified.dat"
-    label "I💛my Shakha"
+    label "Imy Shakha"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/905014922035302408/uBnynb0Z_normal.jpg"
     type "friends"
     statuses 259098
@@ -31759,7 +31759,7 @@ graph [
     id 2030
     userid "17931424"
     file "unverified.dat"
-    label "🇳🇮🇺🇸🇮🇱🏳️‍🌈SOSNICARAGUA🇳🇮🇺🇸🇮🇱🏳️‍🌈"
+    label "SOSNICARAGUA"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1139335385287258112/WZi68uDa_normal.jpg"
     type "friends"
     statuses 403973
@@ -31789,7 +31789,7 @@ graph [
     id 372
     userid "167889401"
     file "unverified.dat"
-    label "🏳️‍🌈 TLeonard"
+    label " TLeonard"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/459167172346933248/hm7f08Jj_normal.jpeg"
     type "friends"
     statuses 57781
@@ -31984,7 +31984,7 @@ graph [
     id 3077
     userid "1288539991"
     file "unverified.dat"
-    label "社交ダンスサークルTeam-Try"
+    label "Team-Try"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/950205236420927489/WIHfdY7x_normal.jpg"
     type "friends"
     statuses 62104
@@ -32074,7 +32074,7 @@ graph [
     id 2530
     userid "16553230"
     file "unverified.dat"
-    label "• Jhay •"
+    label " Jhay "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/955457616242663424/-wz0_g2U_normal.jpg"
     type "friends"
     statuses 775151
@@ -32329,7 +32329,7 @@ graph [
     id 1844
     userid "6204542"
     file "unverified.dat"
-    label "Jörg"
+    label "Jrg"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/543378949/kreuz_normal.jpg"
     type "friends"
     statuses 238449
@@ -32344,7 +32344,7 @@ graph [
     id 635
     userid "1593224094"
     file "unverified.dat"
-    label "FoggyBottomGal ™️"
+    label "FoggyBottomGal "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/748811300034129920/jz_cVOcP_normal.jpg"
     type "friends"
     statuses 676301
@@ -32449,7 +32449,7 @@ graph [
     id 2804
     userid "74968796"
     file "unverified.dat"
-    label "Pandey Ishtkam 🇮🇳"
+    label "Pandey Ishtkam "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1102164107287883776/zVTgOMy0_normal.jpg"
     type "friends"
     statuses 228685
@@ -32464,7 +32464,7 @@ graph [
     id 2474
     userid "58098679"
     file "unverified.dat"
-    label "ĐØƝƝƔΞ ßØɄΞƔ"
+    label " "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1010257556621496320/-P4HkRiP_normal.jpg"
     type "friends"
     statuses 225437
@@ -32689,7 +32689,7 @@ graph [
     id 2251
     userid "2257883660"
     file "unverified.dat"
-    label "ありがとうPLUM LIVE STAGE"
+    label "PLUM LIVE STAGE"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/848195652517416960/Anirc_I9_normal.jpg"
     type "friends"
     statuses 17212
@@ -32869,7 +32869,7 @@ graph [
     id 681
     userid "27109121"
     file "unverified.dat"
-    label "Henrietta✌"
+    label "Henrietta"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1180104852019580928/0gW1ebFL_normal.jpg"
     type "friends"
     statuses 209030
@@ -32929,7 +32929,7 @@ graph [
     id 3446
     userid "724551449204559872"
     file "unverified.dat"
-    label "Giancarlo Croce 🏳️‍🌈✡️"
+    label "Giancarlo Croce "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/823398097254432768/OAP9YccG_normal.jpg"
     type "friends"
     statuses 47267
@@ -33019,7 +33019,7 @@ graph [
     id 693
     userid "763068697099534336"
     file "unverified.dat"
-    label "ASCENSION GUIDE Ж 1:3:6:9 ॐ"
+    label "ASCENSION GUIDE  1:3:6:9 "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1172290249692782592/lzUh70r9_normal.jpg"
     type "friends"
     statuses 274428
@@ -33064,7 +33064,7 @@ graph [
     id 1047
     userid "34093672"
     file "unverified.dat"
-    label "🌊 🌊  Anna  🌊 🌊"
+    label "   Anna   "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1061280118193057792/WkvdQxu3_normal.jpg"
     type "friends"
     statuses 407529
@@ -33109,7 +33109,7 @@ graph [
     id 1181
     userid "14709135"
     file "unverified.dat"
-    label "❤️ Lover of Life ❤️ ~ 🎸Singer of Songs 🎸"
+    label " Lover of Life  ~ Singer of Songs "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1164252880611622913/oymCtDc3_normal.jpg"
     type "friends"
     statuses 33308
@@ -33184,7 +33184,7 @@ graph [
     id 1229
     userid "562517214"
     file "unverified.dat"
-    label "LF Ent. Radio 🌐"
+    label "LF Ent. Radio "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/875495973606305794/mRl6OFkY_normal.jpg"
     type "friends"
     statuses 50022
@@ -33214,7 +33214,7 @@ graph [
     id 2044
     userid "254844691"
     file "unverified.dat"
-    label "Carrie M🗽🇺🇸 🦅 🐶🐈 ✨"
+    label "Carrie M   "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1107472146698133504/0SW4uUoo_normal.jpg"
     type "friends"
     statuses 33204
@@ -33259,7 +33259,7 @@ graph [
     id 520
     userid "2792672981"
     file "unverified.dat"
-    label "Lily Votes 🆘 Blue in 2020 🇺🇸☮️ 🌊💙"
+    label "Lily Votes  Blue in 2020  "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1159470834471309312/Jm7gp_1W_normal.jpg"
     type "friends"
     statuses 221710
@@ -33394,7 +33394,7 @@ graph [
     id 1692
     userid "20086466"
     file "unverified.dat"
-    label "M!KES 🐱"
+    label "M!KES "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/873666698586533888/4W-VgJ5u_normal.jpg"
     type "friends"
     statuses 91651
@@ -33409,7 +33409,7 @@ graph [
     id 526
     userid "89742506"
     file "unverified.dat"
-    label "🇺🇸👠👊 Global Citizen Speaking my mind"
+    label " Global Citizen Speaking my mind"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1139763598962675712/pQbB4c3O_normal.jpg"
     type "friends"
     statuses 142486
@@ -33469,7 +33469,7 @@ graph [
     id 2933
     userid "141447622"
     file "unverified.dat"
-    label "Bella👑"
+    label "Bella"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1179116937630113794/fAIl0qkD_normal.jpg"
     type "friends"
     statuses 147968
@@ -33544,7 +33544,7 @@ graph [
     id 2026
     userid "14962957"
     file "unverified.dat"
-    label "#QAnon! #DeepStateGone - psycotria/gab.ai 🐸"
+    label "#QAnon! #DeepStateGone - psycotria/gab.ai "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1149212252429586432/UHgEfRwI_normal.jpg"
     type "friends"
     statuses 231185
@@ -33619,7 +33619,7 @@ graph [
     id 2525
     userid "4725536352"
     file "unverified.dat"
-    label "いとうさん＠コツコツ積み上げ型投資家"
+    label ""
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1035306753427009536/FT_XVmbj_normal.jpg"
     type "friends"
     statuses 16675
@@ -33769,7 +33769,7 @@ graph [
     id 3057
     userid "3387528592"
     file "unverified.dat"
-    label "🎧 #MusicHeals 🎧"
+    label " #MusicHeals "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1139513996179116034/BVQMfvTp_normal.jpg"
     type "friends"
     statuses 105324
@@ -33829,7 +33829,7 @@ graph [
     id 3096
     userid "57480677"
     file "unverified.dat"
-    label "⭐💙baby7879🦄😇🎤🍻🐿"
+    label "baby7879"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1178288924998930438/8T5qWROF_normal.jpg"
     type "friends"
     statuses 90423
@@ -33979,7 +33979,7 @@ graph [
     id 1805
     userid "381276559"
     file "unverified.dat"
-    label "General Kanye_Trump. (Space Force)💎"
+    label "General Kanye_Trump. (Space Force)"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/815590747185430528/oLYiBAs1_normal.jpg"
     type "friends"
     statuses 220504
@@ -33994,7 +33994,7 @@ graph [
     id 1553
     userid "217504935"
     file "unverified.dat"
-    label "Tamani 🇹🇬🇳🇬"
+    label "Tamani "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1141085878057603073/wZ7I-tH2_normal.jpg"
     type "friends"
     statuses 309335
@@ -34054,7 +34054,7 @@ graph [
     id 814
     userid "869659089323819014"
     file "unverified.dat"
-    label "🇺🇸Sean😎🇺🇸"
+    label "Sean"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1001155032757096448/sErwdrp3_normal.jpg"
     type "friends"
     statuses 9178
@@ -34159,7 +34159,7 @@ graph [
     id 1691
     userid "3107597132"
     file "unverified.dat"
-    label "The Time Is Now [PPC] 🇨🇦🇺🇸"
+    label "The Time Is Now [PPC] "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/844956444852191233/rlTl9VV5_normal.jpg"
     type "friends"
     statuses 162900
@@ -34174,7 +34174,7 @@ graph [
     id 1906
     userid "51073715"
     file "unverified.dat"
-    label "Fazeen (DEAN)🎈"
+    label "Fazeen (DEAN)"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/823182659983736832/XAaQ7I1U_normal.jpg"
     type "friends"
     statuses 459556
@@ -34399,7 +34399,7 @@ graph [
     id 3249
     userid "21464841"
     file "unverified.dat"
-    label "Jacqueline Thomas △"
+    label "Jacqueline Thomas "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1649944974/25740_105444226150453_100000546282332_142046_38783_n_normal.jpg"
     type "friends"
     statuses 20996
@@ -34474,7 +34474,7 @@ graph [
     id 2136
     userid "14058842"
     file "unverified.dat"
-    label "☕️ 𝓔𝓻𝓲𝓬𝓪🏳️‍🌈"
+    label " "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1174778177236996096/PIJC9ww-_normal.jpg"
     type "friends"
     statuses 419519
@@ -34534,7 +34534,7 @@ graph [
     id 2783
     userid "2410883652"
     file "unverified.dat"
-    label "🌱ⓈⓗⓞⓑⓞⓃⓨⓐⓝ🐈❂大都会Ridill村"
+    label "Ridill"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1171766334549442560/JrAv-Rtt_normal.jpg"
     type "friends"
     statuses 19103
@@ -34759,7 +34759,7 @@ graph [
     id 605
     userid "1179710990"
     file "unverified.dat"
-    label "OccuWorld 🏴"
+    label "OccuWorld "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/563724232287211520/sEoE-N6j_normal.jpeg"
     type "friends"
     statuses 3366305
@@ -34999,7 +34999,7 @@ graph [
     id 50
     userid "2164876369"
     file "unverified.dat"
-    label "Rep. Steven Smith 🇺🇸"
+    label "Rep. Steven Smith "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1165245394177146880/9Fg6pl_f_normal.jpg"
     type "friends"
     statuses 224758
@@ -35569,7 +35569,7 @@ graph [
     id 2267
     userid "18738555"
     file "unverified.dat"
-    label "JusticeToAll ⚖️🌊 🚀"
+    label "JusticeToAll  "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1136058893640052736/xf4UWoPB_normal.png"
     type "friends"
     statuses 47247
@@ -35614,7 +35614,7 @@ graph [
     id 2646
     userid "16946467"
     file "unverified.dat"
-    label "⚡Ofra Ziv⚡"
+    label "Ofra Ziv"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/808687677948252160/DAhwKlhU_normal.jpg"
     type "friends"
     statuses 537642
@@ -35659,7 +35659,7 @@ graph [
     id 1639
     userid "21312221"
     file "unverified.dat"
-    label "Beulah Marie 💙"
+    label "Beulah Marie "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1177605980827328515/0pHpEvvt_normal.jpg"
     type "friends"
     statuses 172163
@@ -35674,7 +35674,7 @@ graph [
     id 3137
     userid "972749871655550976"
     file "unverified.dat"
-    label "𝕲𝖑𝖆𝖉𝖑𝖞~ 𝕭𝖑𝖔𝖌𝖌𝖊𝖗 📢"
+    label "~  "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/986256439835377665/aLjykig9_normal.jpg"
     type "friends"
     statuses 8817
@@ -35689,7 +35689,7 @@ graph [
     id 244
     userid "35929206"
     file "unverified.dat"
-    label "PatriotTxMOM-SuzyQ #FreeFLYNN⭐️⭐️⭐️"
+    label "PatriotTxMOM-SuzyQ #FreeFLYNN"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1099156575623790592/s4Mvxrjb_normal.jpg"
     type "friends"
     statuses 302905
@@ -35719,7 +35719,7 @@ graph [
     id 1385
     userid "516982165"
     file "unverified.dat"
-    label "Diegão"
+    label "Diego"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1014592008894275584/gkjBb3_5_normal.jpg"
     type "friends"
     statuses 1902891
@@ -35764,7 +35764,7 @@ graph [
     id 3035
     userid "824328062"
     file "unverified.dat"
-    label "Cathy ⭐️⭐️⭐️"
+    label "Cathy "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1139360172219019268/0bUGUhoP_normal.jpg"
     type "friends"
     statuses 264021
@@ -35839,7 +35839,7 @@ graph [
     id 3134
     userid "13972332"
     file "unverified.dat"
-    label "Hélder Falcão"
+    label "Hlder Falco"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/2215250717/logo_twitter_normal.jpg"
     type "friends"
     statuses 16575
@@ -35869,7 +35869,7 @@ graph [
     id 45
     userid "750281750"
     file "unverified.dat"
-    label "みれあ👑新刊委託中"
+    label ""
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1150671665942056960/tMqY9Scp_normal.png"
     type "friends"
     statuses 82579
@@ -35944,7 +35944,7 @@ graph [
     id 3524
     userid "965851316"
     file "unverified.dat"
-    label "KANI I'M UR GF ❤"
+    label "KANI I'M UR GF "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1040869786987782144/arcV2Bih_normal.jpg"
     type "friends"
     statuses 155274
@@ -36124,7 +36124,7 @@ graph [
     id 1867
     userid "16379909"
     file "unverified.dat"
-    label "🤨🏳️‍🌈 ♀️Candy Corn = Yummy! BhánJawn 🖖🏼"
+    label " Candy Corn = Yummy! BhnJawn "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1156377751156404225/Lf98dpkm_normal.jpg"
     type "friends"
     statuses 90222
@@ -36289,7 +36289,7 @@ graph [
     id 2352
     userid "372951272"
     file "unverified.dat"
-    label "🇨🇦🇳🇬🇨🇦Toronto's First son🇨🇦🇳🇬 🇨🇦"
+    label "Toronto's First son "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1177404249963225089/MdFWYXAD_normal.jpg"
     type "friends"
     statuses 57899
@@ -36379,7 +36379,7 @@ graph [
     id 868
     userid "1828867867"
     file "unverified.dat"
-    label "𝙎𝙮𝙚𝙙 𝙎𝙖𝙢𝙞 🇧🇩"
+    label "  "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1141199430181199872/cYNBLO2q_normal.jpg"
     type "friends"
     statuses 100847
@@ -36514,7 +36514,7 @@ graph [
     id 2879
     userid "75193022"
     file "unverified.dat"
-    label "DJ  Aarón León"
+    label "DJ  Aarn Len"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/614398464013811712/Z2rMMjji_normal.jpg"
     type "friends"
     statuses 176268
@@ -36589,7 +36589,7 @@ graph [
     id 877
     userid "15571020"
     file "unverified.dat"
-    label "WWG1WGA718 Q💥QFD BANNED 💥"
+    label "WWG1WGA718 QQFD BANNED "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1022600029712904198/IBBD79dy_normal.jpg"
     type "friends"
     statuses 16698
@@ -36724,7 +36724,7 @@ graph [
     id 233
     userid "26340080"
     file "unverified.dat"
-    label "NewsRadio WFLA 🇺🇸"
+    label "NewsRadio WFLA "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1084772502524461056/udx_2Up3_normal.jpg"
     type "friends"
     statuses 173363
@@ -36829,7 +36829,7 @@ graph [
     id 3149
     userid "67208397"
     file "unverified.dat"
-    label "Dr. RGST 🇺🇳"
+    label "Dr. RGST "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1181368235012300800/HxhsZdid_normal.jpg"
     type "friends"
     statuses 128646
@@ -36934,7 +36934,7 @@ graph [
     id 1094
     userid "18165865"
     file "unverified.dat"
-    label "Shaun Dakin #ClimateAction 🆘"
+    label "Shaun Dakin #ClimateAction "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/651828947240357888/iSNzTkZp_normal.png"
     type "friends"
     statuses 243406
@@ -36994,7 +36994,7 @@ graph [
     id 457
     userid "36046325"
     file "unverified.dat"
-    label "Jim Polk 🇺🇸"
+    label "Jim Polk "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/752751131412037632/1NzznK0V_normal.jpg"
     type "friends"
     statuses 498974
@@ -37114,7 +37114,7 @@ graph [
     id 1694
     userid "756215452255133697"
     file "unverified.dat"
-    label "Royally_Petite 🌺"
+    label "Royally_Petite "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/756226169935044608/5KCEuyl-_normal.jpg"
     type "friends"
     statuses 88797
@@ -37204,7 +37204,7 @@ graph [
     id 1361
     userid "816351202560671745"
     file "unverified.dat"
-    label "Bob Abbott ❌ QFD!"
+    label "Bob Abbott  QFD!"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/816355405605392384/VuU-oArG_normal.jpg"
     type "friends"
     statuses 41039
@@ -37384,7 +37384,7 @@ graph [
     id 448
     userid "1065843410"
     file "unverified.dat"
-    label "🌸🍃"
+    label ""
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1157308309533265920/rv39H7aI_normal.jpg"
     type "friends"
     statuses 400945
@@ -37579,7 +37579,7 @@ graph [
     id 1347
     userid "118768356"
     file "unverified.dat"
-    label "ALAlwayz 👑📷💚"
+    label "ALAlwayz "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1155096864179363840/-Y_wZ-pf_normal.jpg"
     type "friends"
     statuses 257670
@@ -37699,7 +37699,7 @@ graph [
     id 2285
     userid "706156588407529473"
     file "unverified.dat"
-    label "The Deplorable Han Fastolfe 🙃🙃🙃"
+    label "The Deplorable Han Fastolfe "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/754046293727584256/ArN8nh4v_normal.jpg"
     type "friends"
     statuses 115471
@@ -38164,7 +38164,7 @@ graph [
     id 870
     userid "33267001"
     file "unverified.dat"
-    label "𝚂𝚑𝚊𝚒𝚗 𝙴. 𝚃𝚑𝚘𝚖𝚊𝚜, 𝙼.𝚂𝚌."
+    label " . , .."
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1107332855854784514/b2-ddtip_normal.png"
     type "friends"
     statuses 164329
@@ -38179,7 +38179,7 @@ graph [
     id 3491
     userid "105811585"
     file "unverified.dat"
-    label "Gino Ramirez⚡"
+    label "Gino Ramirez"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1045749055429783552/r_cQzBV4_normal.jpg"
     type "friends"
     statuses 85674
@@ -38614,7 +38614,7 @@ graph [
     id 458
     userid "1400514948"
     file "unverified.dat"
-    label "vikingsparrow⏳"
+    label "vikingsparrow"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/795727951094513664/M6nb-HjR_normal.jpg"
     type "friends"
     statuses 462574
@@ -38644,7 +38644,7 @@ graph [
     id 438
     userid "20682242"
     file "unverified.dat"
-    label "Justice #Resist🇺🇲"
+    label "Justice #Resist"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1094268650620624896/-yBKBAIp_normal.jpg"
     type "friends"
     statuses 85131
@@ -38779,7 +38779,7 @@ graph [
     id 2679
     userid "253730743"
     file "unverified.dat"
-    label "KISS 95.9 🌺"
+    label "KISS 95.9 "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1104087121571254274/IF9wz4Cc_normal.png"
     type "friends"
     statuses 16686
@@ -39094,7 +39094,7 @@ graph [
     id 2369
     userid "500921290"
     file "unverified.dat"
-    label "いどばた！"
+    label ""
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/875575786312314881/q9FpmQvz_normal.jpg"
     type "friends"
     statuses 124393
@@ -39124,7 +39124,7 @@ graph [
     id 2517
     userid "80873474"
     file "unverified.dat"
-    label "skeily"
+    label "skeily"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1130257553424883712/5QuDvhWb_normal.jpg"
     type "friends"
     statuses 192357
@@ -39169,7 +39169,7 @@ graph [
     id 2422
     userid "837622833224114176"
     file "unverified.dat"
-    label "ズレージョリー™"
+    label ""
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1184039912279986183/bHMQ1lYw_normal.jpg"
     type "friends"
     statuses 33585
@@ -39304,7 +39304,7 @@ graph [
     id 1121
     userid "113840081"
     file "unverified.dat"
-    label "Penny Lane 🗽🌎"
+    label "Penny Lane "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1151867882478952448/pt8-LzDV_normal.jpg"
     type "friends"
     statuses 27084
@@ -39394,7 +39394,7 @@ graph [
     id 514
     userid "104192967"
     file "unverified.dat"
-    label "Rachel Dufie Tawiah 🇬🇭🇬🇭"
+    label "Rachel Dufie Tawiah "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/3184878802/1e0c10bd8d760feaec76a4944b50c896_normal.jpeg"
     type "friends"
     statuses 44226
@@ -39409,7 +39409,7 @@ graph [
     id 2880
     userid "3166103690"
     file "unverified.dat"
-    label "まったりねこ動画bot"
+    label "bot"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/590334215624871938/-m5InLno_normal.jpg"
     type "friends"
     statuses 19209
@@ -39439,7 +39439,7 @@ graph [
     id 720
     userid "18495916"
     file "unverified.dat"
-    label "ᴡɪʟʟ ꜱᴍɪʀᴋ ꜰᴏʀ ꜰᴏᴏᴅ"
+    label "   "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1146889937469526027/451fNBhJ_normal.png"
     type "friends"
     statuses 295843
@@ -39589,7 +39589,7 @@ graph [
     id 584
     userid "244407769"
     file "unverified.dat"
-    label "Stoned Clown 🤡"
+    label "Stoned Clown "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1099753301766258688/ENVCF6Sz_normal.jpg"
     type "friends"
     statuses 210296
@@ -39604,7 +39604,7 @@ graph [
     id 1601
     userid "51210644"
     file "unverified.dat"
-    label "God Bless 🇺🇸"
+    label "God Bless "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/828725626299260928/S7p01bJ7_normal.jpg"
     type "friends"
     statuses 167263
@@ -39634,7 +39634,7 @@ graph [
     id 771
     userid "15574237"
     file "unverified.dat"
-    label "🦄Stephanie🙋🏽"
+    label "Stephanie"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1155119092174450690/BEA81NKr_normal.png"
     type "friends"
     statuses 1000299
@@ -39649,7 +39649,7 @@ graph [
     id 1944
     userid "4860241143"
     file "unverified.dat"
-    label "💡DENKYUU MEDIA💡"
+    label "DENKYUU MEDIA"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1129686275890601984/-Ia5mduf_normal.jpg"
     type "friends"
     statuses 81661
@@ -39709,7 +39709,7 @@ graph [
     id 755
     userid "2982643991"
     file "unverified.dat"
-    label "✨ A P R I L ✨"
+    label " A P R I L "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/559371049339715584/fec1fyQr_normal.jpeg"
     type "friends"
     statuses 35888
@@ -39754,7 +39754,7 @@ graph [
     id 2343
     userid "23162382"
     file "unverified.dat"
-    label "🌸Star Chaser🌸"
+    label "Star Chaser"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1159666540956061696/Q70Qgp8h_normal.jpg"
     type "friends"
     statuses 59414
@@ -40294,7 +40294,7 @@ graph [
     id 2435
     userid "2157684504"
     file "unverified.dat"
-    label "✝ Count Your Blessings ✝ (🇺🇸)"
+    label " Count Your Blessings  ()"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1175577139598356481/ZUhRE2P7_normal.jpg"
     type "friends"
     statuses 94997
@@ -40309,7 +40309,7 @@ graph [
     id 575
     userid "902814223"
     file "unverified.dat"
-    label "LOST TIME ΩΛ"
+    label "LOST TIME "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1180555602478546944/hObMGxWR_normal.jpg"
     type "friends"
     statuses 175555
@@ -40399,7 +40399,7 @@ graph [
     id 709
     userid "373033271"
     file "unverified.dat"
-    label "† Crusader"
+    label " Crusader"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/562634870367584256/D_ZKN4Y5_normal.jpeg"
     type "friends"
     statuses 210122
@@ -40609,7 +40609,7 @@ graph [
     id 3515
     userid "16708127"
     file "unverified.dat"
-    label "𝙔𝙐𝙇 𝙍. 𝙀𝙎𝙋𝙄𝙉𝙊𝙎𝘼"
+    label " . "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1152408373154869249/peArqBfn_normal.jpg"
     type "friends"
     statuses 157568
@@ -40939,7 +40939,7 @@ graph [
     id 3095
     userid "35087152"
     file "unverified.dat"
-    label "RealWonderman™️ GoGo Daddy™️"
+    label "RealWonderman GoGo Daddy"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1164040243928018944/BpDK18Ei_normal.jpg"
     type "friends"
     statuses 41722
@@ -41074,7 +41074,7 @@ graph [
     id 645
     userid "867779838924341249"
     file "unverified.dat"
-    label "𝕃𝕖𝕩𝕋𝕣𝕖𝕤𝔸𝕓𝕠𝕘𝕒𝕕𝕠𝕤"
+    label ""
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1098517189802500101/fTCB5XhU_normal.png"
     type "friends"
     statuses 1028722
@@ -41344,7 +41344,7 @@ graph [
     id 3156
     userid "50266742"
     file "unverified.dat"
-    label "Michael Miller—5229 Cornell Ave, El Paso, TX 79924"
+    label "Michael Miller5229 Cornell Ave, El Paso, TX 79924"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1102383360511524864/9QiYxCDw_normal.png"
     type "friends"
     statuses 68225
@@ -41359,7 +41359,7 @@ graph [
     id 1217
     userid "133545603"
     file "unverified.dat"
-    label "Cigman Freud ❌ Certifies Trump"
+    label "Cigman Freud  Certifies Trump"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1065549963080302592/EVmIoh5m_normal.jpg"
     type "friends"
     statuses 263193
@@ -41509,7 +41509,7 @@ graph [
     id 3209
     userid "612797013"
     file "unverified.dat"
-    label "Ibrahim Muhammad 🍓"
+    label "Ibrahim Muhammad "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1124279827928879104/Pv8skYoi_normal.jpg"
     type "friends"
     statuses 814488
@@ -41554,7 +41554,7 @@ graph [
     id 2592
     userid "722561814106648577"
     file "unverified.dat"
-    label "John Smith 🇺🇲🇺🇸"
+    label "John Smith "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1112495979473698816/IXzpPmeP_normal.jpg"
     type "friends"
     statuses 95024
@@ -41644,7 +41644,7 @@ graph [
     id 583
     userid "127036157"
     file "unverified.dat"
-    label "Margo Howard✍️"
+    label "Margo Howard"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/946409518874759168/gNn0oya6_normal.jpg"
     type "friends"
     statuses 131388
@@ -41659,7 +41659,7 @@ graph [
     id 616
     userid "388466131"
     file "unverified.dat"
-    label "Dave Royal 🎧"
+    label "Dave Royal "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1169271197932105734/eVR_GEso_normal.jpg"
     type "friends"
     statuses 211246
@@ -41809,7 +41809,7 @@ graph [
     id 2865
     userid "1059265848"
     file "unverified.dat"
-    label "Phoenix Rayne 💅🏾💋"
+    label "Phoenix Rayne "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1065641589077364741/25bXdWWU_normal.jpg"
     type "friends"
     statuses 24832
@@ -41854,7 +41854,7 @@ graph [
     id 617
     userid "72546927"
     file "unverified.dat"
-    label "🇺🇸 Animalover-#WeAreQ⭐️⭐️⭐️"
+    label " Animalover-#WeAreQ"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1095738229293228042/TSG_OeVS_normal.jpg"
     type "friends"
     statuses 254042
@@ -41884,7 +41884,7 @@ graph [
     id 156
     userid "15349653"
     file "unverified.dat"
-    label "BlackInformant 🔥👑🔥"
+    label "BlackInformant "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1104317110/Z_fist.black_normal.jpg"
     type "friends"
     statuses 180993
@@ -42304,7 +42304,7 @@ graph [
     id 3192
     userid "367994152"
     file "unverified.dat"
-    label "▽φυηζ☆яƹ✗♚△™"
+    label ""
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1087626523153174529/BbNe8A4r_normal.jpg"
     type "friends"
     statuses 7461
@@ -42529,7 +42529,7 @@ graph [
     id 3312
     userid "2820479232"
     file "unverified.dat"
-    label "Percy ƒịɭʈɧ™️"
+    label "Percy "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/552438194692567040/MIwu_RMB_normal.jpeg"
     type "friends"
     statuses 78505
@@ -42859,7 +42859,7 @@ graph [
     id 2393
     userid "91269258"
     file "unverified.dat"
-    label "Cheleuitte 🏳️‍🌈"
+    label "Cheleuitte "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/378800000241994221/00f1975835141e61cfed5c5431aec93e_normal.jpeg"
     type "friends"
     statuses 72954
@@ -42904,7 +42904,7 @@ graph [
     id 561
     userid "828270256762257408"
     file "unverified.dat"
-    label "Jesus=TRUTH🙏🇺🇸🚂🇺🇸"
+    label "Jesus=TRUTH"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/913828422492708865/f4UHp75q_normal.jpg"
     type "friends"
     statuses 51982
@@ -43009,7 +43009,7 @@ graph [
     id 1618
     userid "883293422462922753"
     file "unverified.dat"
-    label "Weather Internal ❌"
+    label "Weather Internal "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1009491456380186624/2xJ9v96B_normal.jpg"
     type "friends"
     statuses 70391
@@ -43084,7 +43084,7 @@ graph [
     id 2573
     userid "150002753"
     file "unverified.dat"
-    label "olusoji®™"
+    label "olusoji"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/378800000629097267/d6460439db10c0aa7c719241cdc52430_normal.jpeg"
     type "friends"
     statuses 387141
@@ -43144,7 +43144,7 @@ graph [
     id 1404
     userid "723470298"
     file "unverified.dat"
-    label "Tweeting Roo ™"
+    label "Tweeting Roo "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/2615955364/bypzvzqptw4tvxxg7ico_normal.jpeg"
     type "friends"
     statuses 288467
@@ -43189,7 +43189,7 @@ graph [
     id 225
     userid "17744351"
     file "unverified.dat"
-    label "🇺🇸Terry McMurray🇺🇸 🏝️"
+    label "Terry McMurray "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1097615817330561025/eSFxGf_T_normal.png"
     type "friends"
     statuses 214168
@@ -43219,7 +43219,7 @@ graph [
     id 2287
     userid "335488693"
     file "unverified.dat"
-    label "Adenle R. Adeshina🇳🇬"
+    label "Adenle R. Adeshina"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/980509624993570816/btN1WyMQ_normal.jpg"
     type "friends"
     statuses 108752
@@ -43489,7 +43489,7 @@ graph [
     id 2166
     userid "3244367767"
     file "unverified.dat"
-    label "エンタメ芸能フラッシュ"
+    label ""
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/609748955774095360/ffmZIQE0_normal.jpg"
     type "friends"
     statuses 770205
@@ -43849,7 +43849,7 @@ graph [
     id 1720
     userid "4607024296"
     file "unverified.dat"
-    label "💧Jade & David for a Better Australia"
+    label "Jade & David for a Better Australia"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1099501966156132352/cpeInFvs_normal.png"
     type "friends"
     statuses 66238
@@ -43939,7 +43939,7 @@ graph [
     id 1562
     userid "1427665687"
     file "unverified.dat"
-    label "ｄメニューニュース"
+    label ""
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/725544486349115392/s1V1IU1__normal.jpg"
     type "friends"
     statuses 244972
@@ -43984,7 +43984,7 @@ graph [
     id 2890
     userid "936409734"
     file "unverified.dat"
-    label "Enfermades Extrañas"
+    label "Enfermades Extraas"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/2826236014/c51298c081334e839afc919c8715253b_normal.jpeg"
     type "friends"
     statuses 154293
@@ -43999,7 +43999,7 @@ graph [
     id 954
     userid "262896645"
     file "unverified.dat"
-    label "CoCo Meshelle 🇺🇸"
+    label "CoCo Meshelle "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1155249280321540097/kkT1d-iK_normal.jpg"
     type "friends"
     statuses 61994
@@ -44119,7 +44119,7 @@ graph [
     id 510
     userid "331804396"
     file "unverified.dat"
-    label "Samantha Young #FBPE🔶"
+    label "Samantha Young #FBPE"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/955102760759906306/v3mfm1L__normal.jpg"
     type "friends"
     statuses 50068
@@ -44779,7 +44779,7 @@ graph [
     id 2515
     userid "9532792"
     file "unverified.dat"
-    label "Soulfully Sowing Seeds 🌻"
+    label "Soulfully Sowing Seeds "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1124838190840459264/3mAUZYWL_normal.jpg"
     type "friends"
     statuses 120963
@@ -44794,7 +44794,7 @@ graph [
     id 356
     userid "108074347"
     file "unverified.dat"
-    label "Nadeem Ansari FCIM FIDM 🇬🇧"
+    label "Nadeem Ansari FCIM FIDM "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1063482462393835520/1ab4Azyy_normal.jpg"
     type "friends"
     statuses 306353
@@ -44989,7 +44989,7 @@ graph [
     id 1163
     userid "402824931"
     file "unverified.dat"
-    label "Pietro “Pie” 🐯 I love America #SaveTigers #Peace"
+    label "Pietro Pie  I love America #SaveTigers #Peace"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1181295915421720576/T2N_alTP_normal.jpg"
     type "friends"
     statuses 62989
@@ -45034,7 +45034,7 @@ graph [
     id 1925
     userid "179922417"
     file "unverified.dat"
-    label "Victor 😎"
+    label "Victor "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1128006522968080384/eYz43Isl_normal.jpg"
     type "friends"
     statuses 422001
@@ -45169,7 +45169,7 @@ graph [
     id 2039
     userid "251422263"
     file "unverified.dat"
-    label "石川優菜(山手ちゃん)"
+    label "()"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1178223510713356290/1-wP8D_f_normal.jpg"
     type "friends"
     statuses 155160
@@ -45214,7 +45214,7 @@ graph [
     id 2854
     userid "860775049917116416"
     file "unverified.dat"
-    label "クイック羽生バイク部🏍"
+    label ""
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1174615675714695168/A4yeHr9o_normal.jpg"
     type "friends"
     statuses 6545
@@ -45304,7 +45304,7 @@ graph [
     id 2024
     userid "762753709172482052"
     file "unverified.dat"
-    label "🤔"
+    label ""
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/875939013714219008/TnERlyR5_normal.jpg"
     type "friends"
     statuses 48733
@@ -45319,7 +45319,7 @@ graph [
     id 524
     userid "1431540186"
     file "unverified.dat"
-    label "Bernard Selloutsky ❌ 🇺🇸 #FVCKTHENBA"
+    label "Bernard Selloutsky   #FVCKTHENBA"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1168667860031459328/ohMicEZO_normal.jpg"
     type "friends"
     statuses 79040
@@ -45424,7 +45424,7 @@ graph [
     id 241
     userid "525181320"
     file "unverified.dat"
-    label "Your Preferred... 🇳🇬"
+    label "Your Preferred... "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1103778069091942407/eGqYn0nC_normal.jpg"
     type "friends"
     statuses 493167
@@ -45454,7 +45454,7 @@ graph [
     id 2943
     userid "149894417"
     file "unverified.dat"
-    label "Антон"
+    label ""
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/943853532/______normal.jpg"
     type "friends"
     statuses 243134
@@ -45724,7 +45724,7 @@ graph [
     id 805
     userid "237572596"
     file "unverified.dat"
-    label "𝔾𝕦𝕤"
+    label ""
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1074459136610291712/S04c4PWM_normal.jpg"
     type "friends"
     statuses 613041
@@ -45844,7 +45844,7 @@ graph [
     id 850
     userid "3848466194"
     file "unverified.dat"
-    label "🇺🇸 Jay Jones 🇺🇸"
+    label " Jay Jones "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/923508831480553472/g5fI824h_normal.jpg"
     type "friends"
     statuses 129565
@@ -45979,7 +45979,7 @@ graph [
     id 686
     userid "17719592"
     file "unverified.dat"
-    label "BernieBro🌱Kavn:#Bernie2020🐦will #FreeAngryBerner"
+    label "BernieBroKavn:#Bernie2020will #FreeAngryBerner"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/979275079715454977/wfUYeTxE_normal.jpg"
     type "friends"
     statuses 348933
@@ -46054,7 +46054,7 @@ graph [
     id 188
     userid "230859523"
     file "unverified.dat"
-    label "Harriet Baldwin 🇺🇸"
+    label "Harriet Baldwin "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1152612873820147712/wO1-zQ_0_normal.jpg"
     type "friends"
     statuses 458808
@@ -46459,7 +46459,7 @@ graph [
     id 95
     userid "900437108363591682"
     file "unverified.dat"
-    label "Celebs 🌟"
+    label "Celebs "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1006673407268868099/BSPn3V0V_normal.jpg"
     type "friends"
     statuses 304901
@@ -46474,7 +46474,7 @@ graph [
     id 504
     userid "3799846158"
     file "unverified.dat"
-    label "OregonMom 🌹"
+    label "OregonMom "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1175161234070466560/JIVNHrh8_normal.png"
     type "friends"
     statuses 120076
@@ -46714,7 +46714,7 @@ graph [
     id 1246
     userid "30795769"
     file "unverified.dat"
-    label "☮Lonnie"
+    label "Lonnie"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1179223302046453761/TwcZ8e9Y_normal.jpg"
     type "friends"
     statuses 23530
@@ -47539,7 +47539,7 @@ graph [
     id 563
     userid "2981249340"
     file "unverified.dat"
-    label "BelieveInYourself😎"
+    label "BelieveInYourself"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/956821867670642688/izYhFHA9_normal.jpg"
     type "friends"
     statuses 277256
@@ -47884,7 +47884,7 @@ graph [
     id 2662
     userid "10409622"
     file "unverified.dat"
-    label "𝗗𝗔𝗩𝗜𝗗"
+    label ""
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1174337234453106689/TUCADuzp_normal.jpg"
     type "friends"
     statuses 517363
@@ -47959,7 +47959,7 @@ graph [
     id 3135
     userid "362768080"
     file "unverified.dat"
-    label "Prescieŋt Info"
+    label "Presciet Info"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/790753685978488833/KwDZwMgg_normal.jpg"
     type "friends"
     statuses 176186
@@ -48124,7 +48124,7 @@ graph [
     id 1922
     userid "861892852909039617"
     file "unverified.dat"
-    label "Rosalind Greene 2020 President Candidate🇺🇸"
+    label "Rosalind Greene 2020 President Candidate"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1088796152710004736/MODTwOBl_normal.jpg"
     type "friends"
     statuses 6014
@@ -48169,7 +48169,7 @@ graph [
     id 1196
     userid "209734424"
     file "unverified.dat"
-    label "Tech L0G 🇺🇸 📝"
+    label "Tech L0G  "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/887057777985699840/8mqdYuqD_normal.jpg"
     type "friends"
     statuses 788596
@@ -48214,7 +48214,7 @@ graph [
     id 2923
     userid "374642577"
     file "unverified.dat"
-    label "K C E E 👑"
+    label "K C E E "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1080873362375745537/ItNRhZcy_normal.jpg"
     type "friends"
     statuses 210047
@@ -48559,7 +48559,7 @@ graph [
     id 427
     userid "714386061833728001"
     file "unverified.dat"
-    label "Richard Krauss 🇮🇱 / citizen of 🇪🇺"
+    label "Richard Krauss  / citizen of "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1168504175342362624/TcVtcvXA_normal.jpg"
     type "friends"
     statuses 464482
@@ -48799,7 +48799,7 @@ graph [
     id 3246
     userid "1903166616"
     file "unverified.dat"
-    label "Babe For the guys 😘"
+    label "Babe For the guys "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/840761038169600001/c6Jxe8TG_normal.jpg"
     type "friends"
     statuses 25216
@@ -49024,7 +49024,7 @@ graph [
     id 979
     userid "1193335634"
     file "unverified.dat"
-    label "真白ゆう🌱@10/14山村茜さんBD20膨張番長さん企画ライブ26シフォン撮影会"
+    label "@10/14BD2026"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1153825051717713924/ujeVn4sU_normal.jpg"
     type "friends"
     statuses 76598
@@ -49219,7 +49219,7 @@ graph [
     id 894
     userid "3283298114"
     file "unverified.dat"
-    label "stylecore相互フォロー100%"
+    label "stylecore100%"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1053037693779640320/VFbz0byK_normal.jpg"
     type "friends"
     statuses 16340
@@ -49264,7 +49264,7 @@ graph [
     id 3323
     userid "708571130"
     file "unverified.dat"
-    label "Shawn 💛🌿🌻"
+    label "Shawn "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1101768748518670336/teK773i4_normal.jpg"
     type "friends"
     statuses 68210
@@ -49489,7 +49489,7 @@ graph [
     id 3258
     userid "564283668"
     file "unverified.dat"
-    label "🌴Cyndi 🌴"
+    label "Cyndi "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1173182583854837760/HXvgyBpl_normal.jpg"
     type "friends"
     statuses 24408
@@ -49579,7 +49579,7 @@ graph [
     id 3354
     userid "18338324"
     file "unverified.dat"
-    label "“Nicky""
+    label "Nicky""
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1134121146155261952/nYW7NK0P_normal.jpg"
     type "friends"
     statuses 298228
@@ -49654,7 +49654,7 @@ graph [
     id 260
     userid "60841112"
     file "unverified.dat"
-    label "🇺🇸🇭🇹 Only4RM 🇭🇹🇺🇸"
+    label " Only4RM "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1176729167418843137/d7p1gwXc_normal.jpg"
     type "friends"
     statuses 546474
@@ -49684,7 +49684,7 @@ graph [
     id 2747
     userid "442649192"
     file "unverified.dat"
-    label "極真カラテ北越谷道場・加圧トレ越谷支部"
+    label ""
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1053679847304650753/sWIBUfIf_normal.jpg"
     type "friends"
     statuses 10838
@@ -49759,7 +49759,7 @@ graph [
     id 2641
     userid "17080018"
     file "unverified.dat"
-    label "🚬 🍷 I Am Not Sorry 🍷 🚬"
+    label "  I Am Not Sorry  "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/2604535826/pg1bqhni3rp9zgkntkkr_normal.gif"
     type "friends"
     statuses 1868688
@@ -49894,7 +49894,7 @@ graph [
     id 3545
     userid "4230260112"
     file "unverified.dat"
-    label "Simply Mindy💫"
+    label "Simply Mindy"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1150792898750734336/c6LKQZto_normal.jpg"
     type "friends"
     statuses 49277
@@ -49909,7 +49909,7 @@ graph [
     id 2003
     userid "875923301549387778"
     file "unverified.dat"
-    label "#BBNaija Latest Nigeria News Updates🗣️⚪"
+    label "#BBNaija Latest Nigeria News Updates"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/986388195481931776/dZDD7azv_normal.jpg"
     type "friends"
     statuses 33439
@@ -49969,7 +49969,7 @@ graph [
     id 3471
     userid "896202187"
     file "unverified.dat"
-    label "Beverley Forte 🐾"
+    label "Beverley Forte "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/750103634910687232/ozV5roFC_normal.jpg"
     type "friends"
     statuses 146581
@@ -50044,7 +50044,7 @@ graph [
     id 3398
     userid "216655995"
     file "unverified.dat"
-    label "Steve ∞"
+    label "Steve "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/3549617499/ad5326775b423775ae8eb04e1141a22c_normal.jpeg"
     type "friends"
     statuses 392986
@@ -50194,7 +50194,7 @@ graph [
     id 3181
     userid "446140418"
     file "unverified.dat"
-    label "Œbœţh Ţïmœţhÿ Ëðwærð"
+    label "bh mh wr"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1179600948328632323/0OPdrxn6_normal.jpg"
     type "friends"
     statuses 940527
@@ -50269,7 +50269,7 @@ graph [
     id 294
     userid "1117862796"
     file "unverified.dat"
-    label "ㅤؘ"
+    label ""
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1161641268465864704/8iiZ0Vdd_normal.jpg"
     type "friends"
     statuses 193685
@@ -50329,7 +50329,7 @@ graph [
     id 2891
     userid "2591675300"
     file "unverified.dat"
-    label "Charles Davis 🇺🇸"
+    label "Charles Davis "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1174927316721356802/8kx-iPyz_normal.jpg"
     type "friends"
     statuses 112625
@@ -50404,7 +50404,7 @@ graph [
     id 3420
     userid "3786741192"
     file "unverified.dat"
-    label "GUPPY@notアイドル(オタクではある)"
+    label "GUPPY@not()"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1180669665019740161/8HpLkmml_normal.jpg"
     type "friends"
     statuses 78151
@@ -50419,7 +50419,7 @@ graph [
     id 751
     userid "18796945"
     file "unverified.dat"
-    label "Wαყɳҽ N Dαʋιʂ"
+    label "W N D"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/982362932049690624/5wqSg15r_normal.jpg"
     type "friends"
     statuses 88036
@@ -50449,7 +50449,7 @@ graph [
     id 607
     userid "3519570797"
     file "unverified.dat"
-    label "AmericaFirst 🇺🇸👊🇺🇸 ❌"
+    label "AmericaFirst  "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1090044452729704449/j6t9ge70_normal.jpg"
     type "friends"
     statuses 107608
@@ -50569,7 +50569,7 @@ graph [
     id 174
     userid "276688330"
     file "unverified.dat"
-    label "Matthew Cortland, esq 🍁🍂"
+    label "Matthew Cortland, esq "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/948057037665058816/SSYj1CiO_normal.jpg"
     type "friends"
     statuses 60790
@@ -50614,7 +50614,7 @@ graph [
     id 985
     userid "2953469579"
     file "unverified.dat"
-    label "G♡"
+    label "G"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1092480193241976832/SKgSKE_2_normal.jpg"
     type "friends"
     statuses 101263
@@ -50644,7 +50644,7 @@ graph [
     id 1297
     userid "110071965"
     file "unverified.dat"
-    label "Blaise Pascal 🖖 ⭐️⭐️⭐️"
+    label "Blaise Pascal  "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/901320781669343232/tI2ufrgk_normal.jpg"
     type "friends"
     statuses 249556
@@ -50659,7 +50659,7 @@ graph [
     id 3326
     userid "35133554"
     file "unverified.dat"
-    label "Tony Brice 🏳️‍🌈 ✡ 🇨🇦 🇺🇸 🗽"
+    label "Tony Brice     "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1182851530841624576/xkR8h3uD_normal.jpg"
     type "friends"
     statuses 233697
@@ -50854,7 +50854,7 @@ graph [
     id 446
     userid "245548750"
     file "unverified.dat"
-    label "ᴊᴏɴ ᴍᴏʀᴛᴇʀ мυѕι¢"
+    label "  "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/960585575085563906/xmVj-eoH_normal.jpg"
     type "friends"
     statuses 35273
@@ -50869,7 +50869,7 @@ graph [
     id 674
     userid "708168355488731136"
     file "unverified.dat"
-    label "❌nuuzfeed"
+    label "nuuzfeed"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/878923565868785665/A5Fd5QJE_normal.jpg"
     type "friends"
     statuses 162900
@@ -51049,7 +51049,7 @@ graph [
     id 496
     userid "71666879"
     file "unverified.dat"
-    label "Belén López Vargas"
+    label "Beln Lpez Vargas"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/942850948489187328/E_X6OKEf_normal.jpg"
     type "friends"
     statuses 64568
@@ -51289,7 +51289,7 @@ graph [
     id 3285
     userid "784873477362900992"
     file "unverified.dat"
-    label "Lenufbs🌊🌊 We need bipartisanship again. 45 Lies."
+    label "Lenufbs We need bipartisanship again. 45 Lies."
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1029295754073055232/4qcZ-Azi_normal.jpg"
     type "friends"
     statuses 26256
@@ -51349,7 +51349,7 @@ graph [
     id 3549
     userid "930906155324502016"
     file "unverified.dat"
-    label "🗽 🇺🇸 Democrats of Michigan 🇺🇸"
+    label "  Democrats of Michigan "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1030974804990550016/bkxDNXwE_normal.jpg"
     type "friends"
     statuses 46978
@@ -51409,7 +51409,7 @@ graph [
     id 945
     userid "91453718"
     file "unverified.dat"
-    label "KMac 🇺🇸🥑🇺🇸"
+    label "KMac "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/589678508474912768/Nk0gqd3p_normal.png"
     type "friends"
     statuses 152891
@@ -51514,7 +51514,7 @@ graph [
     id 1380
     userid "219269468"
     file "unverified.dat"
-    label "WOW😝😂"
+    label "WOW"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1118897089638014976/-2AzBnOT_normal.jpg"
     type "friends"
     statuses 115970
@@ -51544,7 +51544,7 @@ graph [
     id 67
     userid "176432659"
     file "unverified.dat"
-    label "サラキ@虚無"
+    label "@"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1178946897114853376/jds77IQi_normal.jpg"
     type "friends"
     statuses 26757
@@ -51559,7 +51559,7 @@ graph [
     id 1628
     userid "25870447"
     file "unverified.dat"
-    label "🎃 MIX MASTA B ™"
+    label " MIX MASTA B "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1182206979789524993/kkICznpC_normal.jpg"
     type "friends"
     statuses 123734
@@ -51634,7 +51634,7 @@ graph [
     id 2520
     userid "20622239"
     file "unverified.dat"
-    label "Rykas ©"
+    label "Rykas "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1182799474084761600/9k4NizW__normal.jpg"
     type "friends"
     statuses 52710
@@ -51649,7 +51649,7 @@ graph [
     id 3254
     userid "3166405148"
     file "unverified.dat"
-    label "ほっこり犬動画bot"
+    label "bot"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/590425191831875584/etAz-s73_normal.jpg"
     type "friends"
     statuses 16510
@@ -51679,7 +51679,7 @@ graph [
     id 3369
     userid "204727299"
     file "unverified.dat"
-    label "☀Omo☀"
+    label "Omo"
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1152840936935841793/Z0F5SWli_normal.jpg"
     type "friends"
     statuses 62843
@@ -51784,7 +51784,7 @@ graph [
     id 2567
     userid "32969033"
     file "unverified.dat"
-    label "FASHun EASTa™️ 💫🧚🏻‍♀️🐹🐞🦇"
+    label "FASHun EASTa "
     image "/home/aveek/FakeNewsNet/code/TwitterFakeNet/twecoll/https:/pbs.twimg.com/profile_images/1058493341224984576/HC_xuFp7_normal.jpg"
     type "friends"
     statuses 76397
