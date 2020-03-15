@@ -95,6 +95,17 @@ The most important feature of FakeNewsNet is that it also downloads tweets and r
 | max    | 4494592.00 | 108831215.00 | 3177668.00 | 50437226.00 |
 
 
+**Sample size of unverified users:** 559329
+ 
+
+|        | Friends    | Followers    | Listed     | Statuses    |
+|--------|------------|--------------|------------|-------------|
+| mean   | 1634.92    | 2667.76      | 41.95      | 30861.99    |
+| median | 488.00     | 416.00       | 6.00       | 9852.00     |
+| min    | 0.0        | -73.00       | 0.0        | 0.0         |
+| max    | 998039.00  | 6037107.00   | 21171.00   | 4047961.00  |
+
+
 ## Creating Labels
 
 To create the labels, the ratio of fake news shared to total number of articles shared is considered. The FakeNewsNet dataset contains real and fake news for both Politifact and GossipCop. So first the total number of fake/real news articles a user has shared is calculated by checking how many times their display name or id matches the id or display name of the user sharing a tweet. From this we can get the total number of fake and real news articles a user has shared from both sources(Politifact and GossipCop) and then find the ratio of fake to total news shared.
