@@ -22,11 +22,11 @@ Purpose of each notebook-
 	* extract_features
 	* user_analysis(optional)
 5. For analysing Verified users -
-	a. Rename `datasets/verified_3k.dat` to `verified.dat` and replace the file in the `twecoll` folder
+	* Rename `datasets/verified_3k.dat` to `verified.dat` and replace the file in the `twecoll` folder
 	* Run the twecoll fetch command
 	* Run the edgelist command and put the resulting `verified.gml` file in the `datasets` folder
 6. For analysing unverified users - 
-	a. Copy `unverified.dat` to the `twecoll` folder
+	* Copy `unverified.dat` to the `twecoll` folder
 	* Run the twecoll fetch command
 	* Run the edgelist command and put the resulting `unverified.gml` file in the `datasets` folder
 8. Run the classification files in any order
