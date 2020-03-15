@@ -1,5 +1,5 @@
 # Twitter Fake News Network
-An exploration of Twitter's Verified users and the news articles they tweet. Specifically looking into how likely is it that an article shared by the user is fake.
+An exploration of Twitter's Verified users and the news articles they tweet. Specifically looking into how likely is it that an article shared by the user is fake. The same trends are also studied in unverified users as a comparison.
 
 ## How to run
 
@@ -7,8 +7,9 @@ This repository is meant to be cloned inside `FakeNewsNet/code`.
 
 Purpose of each notebook-
 * **user_data -** Collect all the user tweets, retweets, descriptions collected from FakeNewsNet and count the number of fake and real news articles
-* **extract_features -** Create the features for all 300k+ verified users 
-* **user_analysis -** Some basic analysis on the verified accounts
+* **unverified_user_data -** Collect all the user information for unverified users.
+* **extract_features -** Create the features for verified and unverified users 
+* **user_analysis -** Some basic analysis on verified and unverified accounts
 * **GNN -** Use different Graph Neural Networks to classify fake and real users
 * **node2vec -** Use node2vec combined with different ML models to classify fake and real users
 
@@ -17,11 +18,17 @@ Purpose of each notebook-
 3. For a new list of verified users run the `twecoll` tool, copy the `verified.dat` file to the datasets folder
 4. Run the Jupyter Notebooks in the following order
 	* user_data
+	* unverified_user_data
 	* extract_features
 	* user_analysis(optional)
-5. Rename `datasets/verified_3k.dat` to `verified.dat` and replace the file in the `twecoll` folder
-6. Run the twecoll fetch command
-7. Run the edgelist command and put the resulting `verified.gml` file in the `datasets` folder
+5. For analysing Verified users -
+	a. Rename `datasets/verified_3k.dat` to `verified.dat` and replace the file in the `twecoll` folder
+	* Run the twecoll fetch command
+	* Run the edgelist command and put the resulting `verified.gml` file in the `datasets` folder
+6. For analysing unverified users - 
+	a. Copy `unverified.dat` to the `twecoll` folder
+	* Run the twecoll fetch command
+	* Run the edgelist command and put the resulting `unverified.gml` file in the `datasets` folder
 8. Run the classification files in any order
 	* GNN
 	* node2vec
