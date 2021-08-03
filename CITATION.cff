@@ -6,6 +6,5 @@ authors:
   orcid: "https://orcid.org/0000-0002-6112-3843"
 title: "TwitterFakeNet"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
-date-released: 2020-03-15
+date-released: 2020
 url: "https://github.com/Aveek-Saha/TwitterFakeNet"

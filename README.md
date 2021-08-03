@@ -247,13 +247,16 @@ The classifiers are trained on the embeddings learnt by the GraphSAGE and GCN mo
 From the table above, it is evident that for classifying users as fake news sources, the structure of the network helps increase the accuracy of classification
 
 
+## Citing
 
-
-
-
-
-
-
-
+If you use this repository in your research please cite
+```
+@misc{Saha_TwitterFakeNet_2020,
+	author = {Saha, Aveek},
+	title = {{TwitterFakeNet}},
+	url = {https://github.com/Aveek-Saha/TwitterFakeNet},
+	year = {2020}
+}
+```
 
 
