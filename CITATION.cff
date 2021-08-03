@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Saha"
+  given-names: "Aveek"
+  orcid: "https://orcid.org/0000-0002-6112-3843"
+title: "TwitterFakeNet"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2020-03-15
+url: "https://github.com/Aveek-Saha/TwitterFakeNet"
