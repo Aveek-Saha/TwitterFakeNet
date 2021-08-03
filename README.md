@@ -15,7 +15,7 @@ Purpose of each notebook-
 
 1. Get FakeNewsNet
 2. Clone this repository in the `FakeNewsNet/code` folder
-3. For a new list of verified users run the `twecoll` tool, copy the `verified.dat` file to the datasets folder
+3. For a new list of verified users run the [`nucoll`](https://github.com/jdevoo/nucoll) tool, copy the `verified.dat` file to the datasets folder
 4. Run the Jupyter Notebooks in the following order
 	* user_data
 	* unverified_user_data
