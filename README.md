@@ -253,6 +253,7 @@ If you use this repository in your research please cite
 ```
 @misc{Saha_TwitterFakeNet_2020,
 	author = {Saha, Aveek},
+	month = {3},
 	title = {{TwitterFakeNet}},
 	url = {https://github.com/Aveek-Saha/TwitterFakeNet},
 	year = {2020}
