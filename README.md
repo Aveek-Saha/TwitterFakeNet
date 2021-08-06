@@ -5,6 +5,35 @@ An exploration of Twitter's Verified users and the news articles they tweet. Spe
 
 This repository is meant to be cloned inside `FakeNewsNet/code`.
 
+### 1. Get FakeNewsNet
+
+Clone the [FakeNewsNet](https://github.com/KaiDMML/FakeNewsNet) repo:
+```
+git clone git@github.com:KaiDMML/FakeNewsNet.git
+```
+
+Change directory to `FakeNewsNet/code` and clone `TwitterFakeNet`:
+```
+cd FakeNewsNet/code
+git clone git@github.com:Aveek-Saha/TwitterFakeNet.git
+```
+
+### 2. Collect verified user data
+
+Use [`nucoll`](https://github.com/jdevoo/nucoll) to generate a list of verified users. You will have to follow the instructions for your respective OS.
+```
+cd TwitterFakeNet\datasets
+nucoll init verified
+```
+Once `nucoll` is done, you should have a `verified.dat` file in the datasets folder. This process may take a while because of Twitter's API limits.
+
+### 4. Notebooks
+Run the Jupyter Notebooks in the following order
+* user_data
+* unverified_user_data
+* extract_features
+* user_analysis(optional)
+
 Purpose of each notebook-
 * **user_data -** Collect all the user tweets, retweets, descriptions collected from FakeNewsNet and count the number of fake and real news articles
 * **unverified_user_data -** Collect all the user information for unverified users.
@@ -13,25 +42,20 @@ Purpose of each notebook-
 * **GNN -** Use different Graph Neural Networks to classify fake and real users
 * **node2vec -** Use node2vec combined with different ML models to classify fake and real users
 
-1. Get FakeNewsNet
-2. Clone this repository in the `FakeNewsNet/code` folder
-3. For a new list of verified users run the [`nucoll`](https://github.com/jdevoo/nucoll) tool, copy the `verified.dat` file to the datasets folder
-4. Run the Jupyter Notebooks in the following order
-	* user_data
-	* unverified_user_data
-	* extract_features
-	* user_analysis(optional)
-5. For analysing Verified users -
-	* Rename `datasets/verified_3k.dat` to `verified.dat` and replace the file in the `twecoll` folder
-	* Run the twecoll fetch command
-	* Run the edgelist command and put the resulting `verified.gml` file in the `datasets` folder
-6. For analysing unverified users - 
-	* Copy `unverified.dat` to the `twecoll` folder
-	* Run the twecoll fetch command
-	* Run the edgelist command and put the resulting `unverified.gml` file in the `datasets` folder
-8. Run the classification files in any order
-	* GNN
-	* node2vec
+### 5. Analysing Verified users
+* Rename `datasets/verified_3k.dat` to `verified.dat`
+* Run the nucoll fetch command
+* Run the edgelist command and put the resulting `verified.gml` file in the `datasets` folder
+
+### 6. Analysing unverified users - 
+* Use `unverified.dat`
+* Run the nucoll fetch command
+* Run the edgelist command and put the resulting `unverified.gml` file in the `datasets` folder
+
+### 7. Classification
+Run the classification notebooks in any order
+* GNN
+* node2vec
 
 
 ## Background
@@ -60,10 +84,10 @@ I picked up this method and some ideas for analysis from an article by [Luca Ham
 ## Dataset
 To build a classification model that would find patterns in ego networks to detect verified users that share predominantly fake news, a dataset containing edges between users and a database of tweets and retweets that have been manually classified as real or fake is required. Such a dataset does not exist already, but it can be generated.
 
-### 1. Twecoll
-[Twecoll](https://github.com/jdevoo/twecoll) is a command line tool used to retrieve data from Twitter. Using twecoll, we can generate a list of all users that a user follows, and then generate a follower graph from this data.
+### 1. nucoll
+[nucoll](https://github.com/jdevoo/nucoll) is a command line tool used to retrieve data from Twitter. Using nucoll, we can generate a list of all users that a user follows, and then generate a follower graph from this data.
 
-Once `twecoll` is done getting the list of users that @verified follows, it generates a `<username>.dat` file containing information about every user in that list. The important information downloaded is-
+Once `nucoll` is done getting the list of users that @verified follows, it generates a `<username>.dat` file containing information about every user in that list. The important information downloaded is-
 - User ID- a unique identifier for the user
 - Name- the display name of the user
 - Friends, Followers, Listed, Statuses count- number of: friends, followers a user has, lists a user is included in, statuses(tweets) a user has made
@@ -127,9 +151,9 @@ So instead features generated from the text from both user bio descriptions and 
 	 The empath tool analyzes text and counts words that fall into around 200 predefined categories like envy, family, crime, masculine, health, dispute and many more.
 	 
 ## Edgelist
-Using twecoll it is possible to generate a GML file of a users first and second degree relationships on Twitter. In order to generate the graph, twecoll retrieves the handle's friends (or followers) and all friends-of-friends (2nd degree relationships). It then looks for friend relationships among the friends/followers of the handle.
+Using nucoll it is possible to generate a GML file of a users first and second degree relationships on Twitter. In order to generate the graph, nucoll retrieves the handle's friends (or followers) and all friends-of-friends (2nd degree relationships). It then looks for friend relationships among the friends/followers of the handle.
 
-In this case the handle we supply to twecoll is @verified, and a file with all the 1st and 2nd degree relationships of users that are friends of @verified is generated.
+In this case the handle we supply to nucoll is @verified, and a file with all the 1st and 2nd degree relationships of users that are friends of @verified is generated.
 
 Because of Twitter's very restrictive API rate limits, generating the edge list of all 330k+ verified users is not feasible, so the users are filtered. The following restrictions were applied-
 
