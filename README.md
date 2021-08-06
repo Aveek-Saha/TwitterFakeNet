@@ -84,8 +84,8 @@ I picked up this method and some ideas for analysis from an article by [Luca Ham
 ## Dataset
 To build a classification model that would find patterns in ego networks to detect verified users that share predominantly fake news, a dataset containing edges between users and a database of tweets and retweets that have been manually classified as real or fake is required. Such a dataset does not exist already, but it can be generated.
 
-### 1. nucoll
-[nucoll](https://github.com/jdevoo/nucoll) is a command line tool used to retrieve data from Twitter. Using nucoll, we can generate a list of all users that a user follows, and then generate a follower graph from this data.
+### 1. Nucoll
+[Nucoll](https://github.com/jdevoo/nucoll) is a command line tool used to retrieve data from Twitter. Using nucoll, we can generate a list of all users that a user follows, and then generate a follower graph from this data.
 
 Once `nucoll` is done getting the list of users that @verified follows, it generates a `<username>.dat` file containing information about every user in that list. The important information downloaded is-
 - User ID- a unique identifier for the user
