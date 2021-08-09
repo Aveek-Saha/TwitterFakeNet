@@ -39,8 +39,6 @@ Purpose of each notebook-
 * **unverified_user_data -** Collect all the user information for unverified users.
 * **extract_features -** Create the features for verified and unverified users 
 * **user_analysis -** Some basic analysis on verified and unverified accounts
-* **GNN -** Use different Graph Neural Networks to classify fake and real users
-* **node2vec -** Use node2vec combined with different ML models to classify fake and real users
 
 ### 5. Analysing Verified users
 * Rename `datasets/verified_3k.dat` to `verified.dat`
@@ -56,6 +54,10 @@ Purpose of each notebook-
 Run the classification notebooks in any order
 * GNN
 * node2vec
+
+Purpose of each notebook-
+* **GNN -** Use different Graph Neural Networks to classify fake and real users
+* **node2vec -** Use node2vec combined with different ML models to classify fake and real users
 
 
 ## Background
