@@ -42,12 +42,12 @@ Purpose of each notebook-
 
 ### 5. Analysing Verified users
 * Rename `datasets/verified_3k.dat` to `verified.dat`
-* Run the nucoll fetch command
+* Run `nucoll fetch -c 10000 verified`
 * Run the edgelist command and put the resulting `verified.gml` file in the `datasets` folder
 
 ### 6. Analysing unverified users - 
 * Use `unverified.dat`
-* Run the nucoll fetch command
+* Run `nucoll fetch -c 10000 unverified`
 * Run the edgelist command and put the resulting `unverified.gml` file in the `datasets` folder
 
 ### 7. Classification
