@@ -27,6 +27,46 @@ nucoll init verified
 ```
 Once `nucoll` is done, you should have a `verified.dat` file in the datasets folder. This process may take a while because of Twitter's API limits.
 
+### 3. Collect the FakeNewsNet dataset
+
+Use FakeNewsNet to collect the dataset. Fair warning, even with several Twitter API keys and a good internet connection this process could take several days. The gosspicop_real dataset is especially large, and in my experience it's not worth downloading all the tweets in that section. Make sure there are a comparable number of fake and real tweets and then terminate the process.
+
+Follow the instructions on this repo to run: [FakeNewsNet](https://github.com/KaiDMML/FakeNewsNet)
+
+The config file should look like this:
+```json
+{
+  "dump_location": "fakenewsnet_dataset",
+  "dataset_dir": "../dataset",
+  "tweet_keys_file": "resources/tweet_keys_file.json",
+  "num_process": 8,
+  "num_twitter_keys": 4,
+  "data_collection_choice": [
+    {
+      "news_source": "politifact",
+      "label": "fake"
+    },
+    {
+      "news_source": "politifact",
+      "label": "real"
+    },
+    {
+      "news_source": "gossipcop",
+      "label": "fake"
+    },
+    {
+      "news_source": "gossipcop",
+      "label": "real"
+    }
+  ],
+
+  "data_features_to_collect" : ["tweets", "retweets", "user_profile"]
+}
+```
+`num_process` and `num_twitter_keys` will depend on your system and number of API keys you have.
+
+The FakeNewsNet dataset will be stored in a directory called `code/fakenewsnet_dataset`
+
 ### 4. Notebooks
 Run the Jupyter Notebooks in the following order
 * user_data
