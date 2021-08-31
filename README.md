@@ -68,6 +68,7 @@ The config file should look like this:
 The FakeNewsNet dataset will be stored in a directory called `code/fakenewsnet_dataset`
 
 ### 4. Notebooks
+
 Run the Jupyter Notebooks in the following order
 * user_data
 * unverified_user_data
@@ -81,16 +82,31 @@ Purpose of each notebook-
 * **user_analysis -** Some basic analysis on verified and unverified accounts
 
 ### 5. Analysing Verified users
-* Rename `datasets/verified_3k.dat` to `verified.dat`
-* Run `nucoll fetch -c 10000 verified`
-* Run the edgelist command and put the resulting `verified.gml` file in the `datasets` folder
 
-### 6. Analysing unverified users - 
+* Rename `datasets/verified_3k.dat` to `verified.dat`
+* Fetch follower network
+```
+nucoll fetch -c 10000 verified
+```
+* Run the edgelist command and put the resulting `verified.gml` file in the `datasets` folder
+```
+nucoll edgelist verified
+```
+
+### 6. Analysing unverified users
+
 * Use `unverified.dat`
-* Run `nucoll fetch -c 10000 unverified`
+* Fetch follower network
+```
+nucoll fetch -c 10000 unverified
+```
 * Run the edgelist command and put the resulting `unverified.gml` file in the `datasets` folder
+```
+nucoll edgelist unverified
+```
 
 ### 7. Classification
+
 Run the classification notebooks in any order
 * GNN
 * node2vec
