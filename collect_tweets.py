@@ -55,11 +55,16 @@ def load_news_file(data_choice):
             # news_list.append(news, data_choice["label"], data_choice["news_source"])
             try:
                 tweets =  [int(tweet_id) for tweet_id in news["tweet_ids"].split("\t")]
-                for tweet in tweets:
+                for tweet in tqdm(tweets):
                     dump_dir = "{}/{}/{}/{}".format(dump_location, data_choice["news_source"], data_choice["label"], news["id"])
                     tweet_dir = "{}/tweets".format(dump_dir)
                     create_dir(dump_dir)
                     create_dir(tweet_dir)
+
+                    tweet_file = "{}/{}.json".format(tweet_dir, tweet)
+
+                    if os.path.exists(tweet_file):
+                        continue
 
                     os.system("snscrape --jsonl twitter-tweet {} > {}/{}.json".format(tweet, tweet_dir, tweet))
 
