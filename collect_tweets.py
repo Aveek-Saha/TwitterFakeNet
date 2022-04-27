@@ -149,6 +149,7 @@ for data_choice in data_collection_choice:
     with open('{}/{}_{}.csv'.format(dataset_path, data_choice["news_source"],
                                     data_choice["label"]), encoding="UTF-8") as csvfile:
         reader = csv.DictReader(csvfile)
+        dump_dir = "{}/tweets".format(dump_location)
 
         print("Collecting {} {}".format(data_choice["news_source"], data_choice["label"]))
         for news in reader:
