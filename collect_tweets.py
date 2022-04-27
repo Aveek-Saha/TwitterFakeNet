@@ -152,7 +152,7 @@ for data_choice in data_collection_choice:
 
         print("Collecting {} {}".format(data_choice["news_source"], data_choice["label"]))
         for news in reader:
-            tweets =  [int(tweet_id) for tweet_id in news["tweet_ids"].split("\t") if tweet_id.isdigit()]
+            tweets =  [int(tweet_id) for tweet_id in news["tweet_ids"].split("\t") if tweet_id.isdigit() if not os.path.exists("{}/{}.json".format(dump_dir, tweet["id_str"]))]
             total_tweets += tweets
 
 print(len(total_tweets))
@@ -175,7 +175,10 @@ for key in keys:
     apis.append({"connection": api, "available": 1, "time": None})
 
 for group in tqdm(groups):
-    tweets = get_tweets(apis, ",".join(map(str, group)))
-    for tweet in tweets:
-        json.dump(tweet, open(
-            "{}/{}.json".format(dump_dir, tweet["id_str"]), "w"))
+    try:
+        tweets = get_tweets(apis, ",".join(map(str, group)))
+        for tweet in tweets:
+            json.dump(tweet, open(
+                "{}/{}.json".format(dump_dir, tweet["id_str"]), "w"))
+    except Exception as e:
+        print("Error: ", e)
