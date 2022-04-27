@@ -153,7 +153,7 @@ for data_choice in data_collection_choice:
 
         print("Collecting {} {}".format(data_choice["news_source"], data_choice["label"]))
         for news in reader:
-            tweets =  [int(tweet_id) for tweet_id in news["tweet_ids"].split("\t") if tweet_id.isdigit() if not os.path.exists("{}/{}.json".format(dump_dir, tweet["id_str"]))]
+            tweets =  [int(tweet_id) for tweet_id in news["tweet_ids"].split("\t") if tweet_id.isdigit() if not os.path.exists("{}/{}.json".format(dump_dir, tweet_id))]
             total_tweets += tweets
 
 print(len(total_tweets))
