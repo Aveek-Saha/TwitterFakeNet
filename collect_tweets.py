@@ -1,3 +1,4 @@
+import math
 import sys
 import csv
 import os
@@ -10,7 +11,7 @@ from tqdm import tqdm
 from TwitterAPI import TwitterAPI
 
 dataset_path = "../FakeNewsNet/dataset"
-dump_location = "fakenewsnet_dataset"
+dump_location = "../fakenewsnet_dataset"
 
 data_collection_choice = [
     {
@@ -90,6 +91,14 @@ def create_api(config):
                      )
     return api
 
+def create_api_app_auth(config):
+    # Create a Twitter API object
+    api = TwitterAPI(config['app_key'],
+                     config['app_secret'],
+                     auth_type='oAuth2'
+                     )
+    return api
+
 def pick_api(apis):
     # Pick an API object that hasn't timed out
     available = [api["available"] for api in apis]
@@ -145,41 +154,71 @@ while True:
     except OverflowError:
         maxInt = int(maxInt / 10)
 
-for data_choice in data_collection_choice:
-    with open('{}/{}_{}.csv'.format(dataset_path, data_choice["news_source"],
-                                    data_choice["label"]), encoding="UTF-8") as csvfile:
-        reader = csv.DictReader(csvfile)
-        dump_dir = "{}/tweets".format(dump_location)
+# for data_choice in data_collection_choice:
+#     with open('{}/{}_{}.csv'.format(dataset_path, data_choice["news_source"],
+#                                     data_choice["label"]), encoding="UTF-8") as csvfile:
+#         lines = len(csvfile.readlines())
 
-        print("Collecting {} {}".format(data_choice["news_source"], data_choice["label"]))
-        for news in reader:
-            tweets =  [int(tweet_id) for tweet_id in news["tweet_ids"].split("\t") if tweet_id.isdigit() if not os.path.exists("{}/{}.json".format(dump_dir, tweet_id))]
-            total_tweets += tweets
+#     with open('{}/{}_{}.csv'.format(dataset_path, data_choice["news_source"],
+#                                     data_choice["label"]), encoding="UTF-8") as csvfile:
+#         reader = csv.DictReader(csvfile)
+#         dump_dir = "{}/tweets".format(dump_location)
 
-print(len(total_tweets))
-print(len(list(set(total_tweets))))
+#         print("Collecting {} {}".format(data_choice["news_source"], data_choice["label"]))
+#         for news in tqdm(reader, total=lines):
+#             tweets =  [int(tweet_id) for tweet_id in news["tweet_ids"].split("\t") if tweet_id.isdigit() if os.path.exists("{}/{}.json".format(dump_dir, tweet_id))]
+#             # tweets =  [int(tweet_id) for tweet_id in news["tweet_ids"].split("\t") if tweet_id.isdigit() if not os.path.exists("{}/{}.json".format(dump_dir, tweet_id))]
+#             total_tweets += tweets
 
-unique_tweet_ids = list(set(total_tweets))
+# print(len(total_tweets))
+# print(len(list(set(total_tweets))))
+
+# unique_tweet_ids = list(set(total_tweets))
 
 dump_dir = "{}/tweets".format(dump_location)
 create_dir(dump_dir)
 
-n = 100
-groups = [unique_tweet_ids[i:i+n] for i in range(0, len(unique_tweet_ids), n)]
+dump_dir_rt = "{}/retweets".format(dump_location)
+create_dir(dump_dir_rt)
 
 keys_file = "keys.json"
 keys = json.load(open(keys_file, 'r'))
 
 apis = []
 for key in keys:
-    api = create_api(key)
+    # api = create_api(key)
+    api = create_api_app_auth(key)
     apis.append({"connection": api, "available": 1, "time": None})
 
-for group in tqdm(groups):
-    try:
-        tweets = get_tweets(apis, ",".join(map(str, group)))
-        for tweet in tweets:
-            json.dump(tweet, open(
-                "{}/{}.json".format(dump_dir, tweet["id_str"]), "w"))
-    except Exception as e:
-        print("Error: ", e)
+# n = 100
+# groups = [unique_tweet_ids[i:i+n] for i in range(0, len(unique_tweet_ids), n)]
+
+# for group in tqdm(groups):
+#     try:
+#         tweets = get_tweets(apis, ",".join(map(str, group)))
+#         for tweet in tweets:
+#             json.dump(tweet, open(
+#                 "{}/{}.json".format(dump_dir, tweet["id_str"]), "w"))
+#     except Exception as e:
+#         print("Error: ", e)
+
+# retweet_counts = []
+# retweet_counts_non_zero = []
+
+# retweet_map = {}
+
+# for tweet_id in tqdm(unique_tweet_ids):
+#     tweet = json.load(open("{}/{}.json".format(dump_dir, tweet_id), 'r'))
+#     retweet_count = tweet["retweet_count"]
+#     retweet_map[str(tweet_id)] = tweet["retweet_count"]
+#     retweet_counts.append(retweet_count)
+#     if retweet_count > 0:
+#         retweet_counts_non_zero.append(retweet_count)
+
+# json.dump(retweet_map, open(
+#                 "{}/retweet_map.json".format(dump_location), "w"))
+
+retweet_map = json.load(open("{}/retweet_map.json".format(dump_location), 'r'))
+
+for tweet_id in retweet_map:
+    if (retweet_map[tweet_id] > 0):
