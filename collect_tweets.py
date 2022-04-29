@@ -233,7 +233,9 @@ for key in keys:
 
 retweet_map = json.load(open("{}/retweet_map.json".format(dump_location), 'r'))
 
-for tweet_id in tqdm(retweet_map):
+retweet_map_filtered = dict(filter(lambda e:e[1]>0, retweet_map.items() ) )
+
+for tweet_id in tqdm(retweet_map_filtered):
     if (retweet_map[tweet_id] > 0):
         try:
             retweets = get_retweets(apis, tweet_id)
