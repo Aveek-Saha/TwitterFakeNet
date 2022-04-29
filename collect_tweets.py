@@ -238,9 +238,10 @@ retweet_map_filtered = dict(filter(lambda e:e[1]>0, retweet_map.items() ) )
 for tweet_id in tqdm(retweet_map_filtered):
     if (retweet_map[tweet_id] > 0):
         try:
-            retweets = get_retweets(apis, tweet_id)
-            json.dump(retweets, open(
-                    "{}/{}.json".format(dump_dir_rt, tweet_id), "w"))
+            if(not os.path.exists("{}/{}.json".format(dump_dir_rt, tweet_id))):
+                retweets = get_retweets(apis, tweet_id)
+                json.dump(retweets, open(
+                        "{}/{}.json".format(dump_dir_rt, tweet_id), "w"))
         except Exception as e:
             print("Error: ", e)
 
