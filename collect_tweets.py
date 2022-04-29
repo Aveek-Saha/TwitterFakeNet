@@ -142,6 +142,19 @@ def get_tweets(apis, tweet_id):
 
     return(tweets)
 
+def get_retweets(apis, tweet_id):
+
+    r = api_request(apis,
+                    'statuses/retweets/:%s' % tweet_id, {"trim_user": "true"})
+
+    tweets = r.json()
+
+    if 'errors' in r.json():
+        if r.json()['errors'][0]['code'] == 34:
+            return(tweets)
+
+    return(tweets)
+
 total_tweets = []
 
 maxInt = sys.maxsize
@@ -220,5 +233,12 @@ for key in keys:
 
 retweet_map = json.load(open("{}/retweet_map.json".format(dump_location), 'r'))
 
-for tweet_id in retweet_map:
+for tweet_id in tqdm(retweet_map):
     if (retweet_map[tweet_id] > 0):
+        try:
+            retweets = get_retweets(apis, tweet_id)
+            json.dump(retweets, open(
+                    "{}/{}.json".format(dump_dir_rt, tweet_id), "w"))
+        except Exception as e:
+            print("Error: ", e)
+
