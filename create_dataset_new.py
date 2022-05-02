@@ -67,50 +67,67 @@ while True:
 # json.dump(user_dict_present, open(
 #                 "{}/user_map.json".format(dump_location), "w"), indent=4)
 
-user_dict_present = json.load(open("{}/user_map.json".format(dump_location), 'r'))
-# print(len({ user: user_dict_present[user] for user in user_dict_present if user_dict_present[user]["total_count"] > 3}))
+# user_dict_present = json.load(open("{}/user_map.json".format(dump_location), 'r'))
+# # print(len({ user: user_dict_present[user] for user in user_dict_present if user_dict_present[user]["total_count"] > 3}))
 
-for user in user_dict_present:
-    user_dict_present[user]["politifact_fake_rt"] = []
-    user_dict_present[user]["politifact_real_rt"] = []
-    user_dict_present[user]["gossipcop_fake_rt"] = []
-    user_dict_present[user]["gossipcop_real_rt"] = []
+# for user in user_dict_present:
+#     user_dict_present[user]["politifact_fake_rt"] = []
+#     user_dict_present[user]["politifact_real_rt"] = []
+#     user_dict_present[user]["gossipcop_fake_rt"] = []
+#     user_dict_present[user]["gossipcop_real_rt"] = []
 
-retweet_map = json.load(open("{}/retweet_map.json".format(dump_location), 'r'))
-retweet_map_filtered = dict(filter(lambda e:e[1]>0, retweet_map.items()))
+# retweet_map = json.load(open("{}/retweet_map.json".format(dump_location), 'r'))
+# retweet_map_filtered = dict(filter(lambda e:e[1]>0, retweet_map.items()))
 
-for data_choice in data_collection_choice:
-    with open('{}/{}_{}.csv'.format(dataset_path, data_choice["news_source"],
-                                    data_choice["label"]), encoding="UTF-8") as csvfile:
-        lines = len(csvfile.readlines())
+# for data_choice in data_collection_choice:
+#     with open('{}/{}_{}.csv'.format(dataset_path, data_choice["news_source"],
+#                                     data_choice["label"]), encoding="UTF-8") as csvfile:
+#         lines = len(csvfile.readlines())
 
-    with open('{}/{}_{}.csv'.format(dataset_path, data_choice["news_source"],
-                                    data_choice["label"]), encoding="UTF-8") as csvfile:
-        reader = csv.DictReader(csvfile)
-        dump_dir = "{}/tweets".format(dump_location)
-        dump_dir_rt = "{}/retweets".format(dump_location)
+#     with open('{}/{}_{}.csv'.format(dataset_path, data_choice["news_source"],
+#                                     data_choice["label"]), encoding="UTF-8") as csvfile:
+#         reader = csv.DictReader(csvfile)
+#         dump_dir = "{}/tweets".format(dump_location)
+#         dump_dir_rt = "{}/retweets".format(dump_location)
 
-        print("Collecting {} {}".format(
-            data_choice["news_source"], data_choice["label"]))
-        for news in tqdm(reader, total=lines):
-            for tweet_id in news["tweet_ids"].split("\t"):
-                if (tweet_id.isdigit() and os.path.exists("{}/{}.json".format(dump_dir_rt, tweet_id))):
-                    retweets = json.load(open("{}/{}.json".format(dump_dir_rt, tweet_id), "r"))
-                    for retweet in retweets:
-                        try:
-                            user_id = retweet["user"]["id_str"]
-                            if user_id in user_dict_present:
-                                data_category = "{}_{}_rt".format(data_choice["news_source"], data_choice["label"])
-                                user_dict_present[user_id][data_category].append(tweet_id)
-                        except Exception as e:
-                            print(retweet)
+#         print("Collecting {} {}".format(
+#             data_choice["news_source"], data_choice["label"]))
+#         for news in tqdm(reader, total=lines):
+#             for tweet_id in news["tweet_ids"].split("\t"):
+#                 if (tweet_id.isdigit() and os.path.exists("{}/{}.json".format(dump_dir_rt, tweet_id))):
+#                     retweets = json.load(open("{}/{}.json".format(dump_dir_rt, tweet_id), "r"))
+#                     for retweet in retweets:
+#                         try:
+#                             user_id = retweet["user"]["id_str"]
+#                             if user_id in user_dict_present:
+#                                 data_category = "{}_{}_rt".format(data_choice["news_source"], data_choice["label"])
+#                                 user_dict_present[user_id][data_category].append(tweet_id)
+#                         except Exception as e:
+#                             print(retweet)
 
 
-for userid in user_dict_present:
-    for data_choice in data_collection_choice:
-        data_category = "{}_{}_rt".format(data_choice["news_source"], data_choice["label"])
-        user_dict_present[userid][data_category + "_count"] = len(user_dict_present[userid][data_category])
-        user_dict_present[userid]["total_count"] += len(user_dict_present[userid][data_category])
+# for userid in user_dict_present:
+#     for data_choice in data_collection_choice:
+#         data_category = "{}_{}_rt".format(data_choice["news_source"], data_choice["label"])
+#         user_dict_present[userid][data_category + "_count"] = len(user_dict_present[userid][data_category])
+#         user_dict_present[userid]["total_count"] += len(user_dict_present[userid][data_category])
 
-json.dump(user_dict_present, open(
-                "{}/user_map_rt.json".format(dump_location), "w"), indent=4)
+# json.dump(user_dict_present, open(
+#                 "{}/user_map_rt.json".format(dump_location), "w"), indent=4)
+
+user_dict_present = json.load(open("{}/user_map_rt.json".format(dump_location), 'r'))
+user_dict_filtered = { user: user_dict_present[user] for user in user_dict_present if user_dict_present[user]["total_count"] > 3}
+
+total_real = 0
+total_fake = 0
+for user in user_dict_filtered:
+    fake = user_dict_filtered[user]["politifact_fake_count"] + user_dict_filtered[user]["gossipcop_fake_count"]
+    real = user_dict_filtered[user]["politifact_real_count"] + user_dict_filtered[user]["gossipcop_real_count"]
+    ratio = fake/(fake + real)
+    if ratio >= 0.5:
+        total_fake += 1
+    else:
+        total_real += 1
+
+print("Real:", total_real)
+print("Fake:", total_fake)
