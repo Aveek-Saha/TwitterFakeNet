@@ -116,18 +116,26 @@ while True:
 #                 "{}/user_map_rt.json".format(dump_location), "w"), indent=4)
 
 user_dict_present = json.load(open("{}/user_map_rt.json".format(dump_location), 'r'))
-user_dict_filtered = { user: user_dict_present[user] for user in user_dict_present if user_dict_present[user]["total_count"] > 3}
+user_dict_filtered = { user: user_dict_present[user] for user in user_dict_present if user_dict_present[user]["total_count"] > 2}
 
 total_real = 0
 total_fake = 0
 for user in user_dict_filtered:
-    fake = user_dict_filtered[user]["politifact_fake_count"] + user_dict_filtered[user]["gossipcop_fake_count"]
-    real = user_dict_filtered[user]["politifact_real_count"] + user_dict_filtered[user]["gossipcop_real_count"]
+    fake = user_dict_filtered[user]["politifact_fake_count"] + user_dict_filtered[user]["gossipcop_fake_count"] + user_dict_filtered[user]["politifact_fake_rt_count"] + user_dict_filtered[user]["gossipcop_fake_rt_count"]
+    real = user_dict_filtered[user]["politifact_real_count"] + user_dict_filtered[user]["gossipcop_real_count"] + user_dict_filtered[user]["politifact_real_rt_count"] + user_dict_filtered[user]["gossipcop_real_rt_count"]
+
+    pol = user_dict_filtered[user]["politifact_fake_count"] + user_dict_filtered[user]["politifact_fake_rt_count"] + user_dict_filtered[user]["politifact_real_count"] + user_dict_filtered[user]["politifact_real_rt_count"]
+    gos = user_dict_filtered[user]["gossipcop_fake_count"] + user_dict_filtered[user]["gossipcop_fake_rt_count"] + user_dict_filtered[user]["gossipcop_real_count"] + user_dict_filtered[user]["gossipcop_real_rt_count"]
+
     ratio = fake/(fake + real)
-    if ratio >= 0.5:
+    if ratio >= 0.3:
         total_fake += 1
     else:
         total_real += 1
 
 print("Real:", total_real)
 print("Fake:", total_fake)
+print("total:", total_real + total_fake)
+
+with open('{}/verified.txt'.format(dump_location), 'w', encoding='utf-8') as f:
+    f.write(str.join('\n', (str(x) for x in user_dict_filtered.keys())))
