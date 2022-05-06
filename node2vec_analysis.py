@@ -86,14 +86,17 @@ alpha = 0.7
 # plt.show()
 
 X = node_embeddings
-# y holds the corresponding target values
 y = np.array(node_targets)
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3)
 
+scaler = StandardScaler()
+scaled_X_train = scaler.fit_transform(X_train)
+scaled_X_test = scaler.transform(X_test)
+
 clf = LogisticRegressionCV(Cs=10, cv=10, max_iter=300)
-clf.fit(X_train, y_train)
-y_pred = clf.predict(X_test)
+clf.fit(scaled_X_train, y_train)
+y_pred = clf.predict(scaled_X_test)
 
 # y_pred_class = ((y_pred[:, 1]>=0.3)*1).flatten()
 
