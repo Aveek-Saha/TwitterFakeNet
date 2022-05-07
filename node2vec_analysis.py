@@ -14,16 +14,16 @@ from sklearn.manifold import TSNE
 
 from sklearn.metrics import accuracy_score, f1_score, classification_report, mean_squared_error
 from sklearn.metrics import precision_score, recall_score, confusion_matrix
-# from sklearn.model_selection import GridSearchCV
-# from sklearn.naive_bayes import GaussianNB
-# from sklearn.neighbors import KNeighborsClassifier
-# from sklearn.pipeline import Pipeline
-# from sklearn.decomposition import TruncatedSVD
-# from sklearn import svm
+from sklearn.model_selection import GridSearchCV
+from sklearn.naive_bayes import GaussianNB
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.pipeline import Pipeline
+from sklearn.decomposition import TruncatedSVD
+from sklearn import svm
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegressionCV
 import warnings
-# import xgboost as xgb
+import xgboost as xgb
 warnings.filterwarnings('ignore')
 from sklearn.cluster import KMeans
 
@@ -38,7 +38,7 @@ screen_name = "verified"
 
 graph = nx.read_gml("{}/{}_features.gml".format(dump_location, screen_name))
 
-node2vec = Node2Vec(graph, dimensions=256, walk_length=40, num_walks=300, workers=1, p=.5, q=3)
+node2vec = Node2Vec(graph, dimensions=128, walk_length=40, num_walks=300, workers=1, p=.5, q=3)
 
 vmodel = node2vec.fit()
 
@@ -94,11 +94,49 @@ scaler = StandardScaler()
 scaled_X_train = scaler.fit_transform(X_train)
 scaled_X_test = scaler.transform(X_test)
 
+
+print("\n Logistic Regession: ")
 clf = LogisticRegressionCV(Cs=10, cv=10, max_iter=300)
 clf.fit(scaled_X_train, y_train)
 y_pred = clf.predict(scaled_X_test)
 
-# y_pred_class = ((y_pred[:, 1]>=0.3)*1).flatten()
+print(classification_report(y_test, y_pred))
+print("Accuracy:", accuracy_score(y_test, y_pred))
+
+
+print("\n Naive Bayes: ")
+gnb = GaussianNB()
+gnb.fit(scaled_X_train, y_train)
+
+y_pred = gnb.predict(scaled_X_test)
 
 print(classification_report(y_test, y_pred))
-print(accuracy_score(y_test, y_pred))
+print("Accuracy:", accuracy_score(y_test, y_pred))
+
+
+print("\n K Nearest Neighbors: ")
+knn = KNeighborsClassifier(n_neighbors=10)
+knn.fit(scaled_X_train, y_train)
+
+y_pred = knn.predict(scaled_X_test)
+
+print(classification_report(y_test, y_pred))
+print("Accuracy:", accuracy_score(y_test, y_pred))
+
+
+print("\n Random Forest: ")
+forest = RandomForestClassifier()
+forest.fit(scaled_X_train, y_train)
+y_pred = forest.predict(scaled_X_test)
+
+print(classification_report(y_test, y_pred))
+print("Accuracy:", accuracy_score(y_test, y_pred))
+
+
+print("\n XGBoost: ")
+xgb_clf = xgb.XGBClassifier()
+xgb_clf.fit(scaled_X_train, y_train)
+y_pred = xgb_clf.predict(scaled_X_test)
+
+print(classification_report(y_test, y_pred))
+print("Accuracy:", accuracy_score(y_test, y_pred))
