@@ -9,11 +9,9 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import StandardScaler
 from sklearn import preprocessing, feature_extraction
 from sklearn.model_selection import train_test_split
-# from sklearn import metrics
 from sklearn.manifold import TSNE
 
 from sklearn.metrics import accuracy_score, f1_score, classification_report, mean_squared_error
-from sklearn.metrics import precision_score, recall_score, confusion_matrix
 from sklearn.model_selection import GridSearchCV
 from sklearn.naive_bayes import GaussianNB
 from sklearn.neighbors import KNeighborsClassifier
@@ -26,11 +24,6 @@ import warnings
 import xgboost as xgb
 warnings.filterwarnings('ignore')
 from sklearn.cluster import KMeans
-
-# from stellargraph.data import BiasedRandomWalk
-# from stellargraph import StellarGraph
-
-# from gensim.models import Word2Vec
 
 from utils import *
 
@@ -70,10 +63,8 @@ node_embeddings = (
 # tsne = TSNE(n_components=2)
 # node_embeddings_2d = tsne.fit_transform(node_embeddings)
 
-alpha = 0.7
-
+# alpha = 0.7
 # node_colours = ['red' if l == 1 else 'green' for l in node_targets]
-
 # plt.figure(figsize=(10, 8))
 # plt.scatter(
 #     node_embeddings_2d[:, 0],
