@@ -19,7 +19,7 @@ from sklearn.metrics import classification_report
 from keras.callbacks import EarlyStopping
 
 from utils import *
-screen_name = "verified"
+screen_name = "all_10k"
 
 graph = nx.read_gml("{}/{}_features.gml".format(dump_location, screen_name))
 graph_nodes = list(graph.nodes(data=True))
@@ -30,7 +30,7 @@ node_targets = []
 for node in graph_nodes:
     result = node
     fake = result[1]["fake"]
-    feats = [result[1]["followers_count"], result[1]["friends_count"], result[1]["listed_count"], result[1]["statuses_count"], result[1]["political"]]
+    feats = [result[1]["followers_count"], result[1]["friends_count"], result[1]["listed_count"], result[1]["statuses_count"], result[1]["verified"], result[1]["political"]]
     X_feat.append(feats)
     if fake >= 0.3:
         node_targets.append(1)
@@ -64,7 +64,7 @@ model_type = 'graphsage'    # Can be either gcn, gat, or graphsage
 
 if model_type == "graphsage":
     # For GraphSAGE model
-    batch_size = 50; 
+    batch_size = 100; 
     in_samples = [20, 4]
     out_samples = [10, 2]
     epochs = 300

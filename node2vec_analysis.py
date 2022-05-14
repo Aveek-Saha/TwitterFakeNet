@@ -27,7 +27,7 @@ from sklearn.cluster import KMeans
 
 from utils import *
 
-screen_name = "verified"
+screen_name = "all_10k"
 
 graph = nx.read_gml("{}/{}_features.gml".format(dump_location, screen_name))
 
@@ -48,7 +48,7 @@ for index, id in enumerate(node_ids):
     result = next((v for v in graph_nodes if v[0] == id), None)
     fake = result[1]["fake"]
     vector = list(vectors[index])
-    feats = [result[1]["followers_count"], result[1]["friends_count"], result[1]["listed_count"], result[1]["statuses_count"], result[1]["political"]]
+    feats = [result[1]["followers_count"], result[1]["friends_count"], result[1]["listed_count"], result[1]["statuses_count"], result[1]["verified"], result[1]["political"]]
     X_feat.append(vector + feats)
     if fake >= 0.3:
         node_targets.append(1)

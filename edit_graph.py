@@ -4,22 +4,22 @@ import networkx as nx
 from tqdm import tqdm
 from utils import *
 
-screen_name = "verified"
+screen_name = "all_10k"
 
 G = nx.read_gml("{}/{}.gml".format(dump_location, screen_name))
 
-G.remove_node(screen_name)
+# G.remove_node(screen_name)
 # print(len(list(nx.isolates(G))))
 
 G.remove_node("suggestonline")
-G.remove_node("PolitiFact")
+# G.remove_node("PolitiFact")
 G.remove_node("PolitiFactTexas")
 G.remove_nodes_from(list(nx.isolates(G)))
 
 
 nodes = list(G.nodes(data=True))
 
-user_dict_present = json.load(open("{}/user_map_rt.json".format(dump_location), 'r'))
+user_dict_present = json.load(open("{}/user_map_all.json".format(dump_location), 'r'))
 user_dict_filtered = { user: user_dict_present[user] for user in user_dict_present if user_dict_present[user]["total_count"] > 2}
 
 details = {}

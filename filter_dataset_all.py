@@ -24,7 +24,7 @@ for friend in tqdm(friends):
     if user_dict[friend]["total_count"] > 2:
         if os.path.exists("{}/{}.json".format(users_location, str(friend))):
             user = json.load(open("{}/{}.json".format(users_location, str(friend)), "r"))
-            if user["followers_count"] >= 5000 and user["friends_count"] <= 10000:
+            if user["followers_count"] >= 5000 and user["friends_count"] <= 5000:
                 filtered_friends[friend] = {}
                 filtered_friends[friend]["followers_count"] = user["followers_count"]
                 filtered_friends[friend]["total_count"] = user_dict[friend]["total_count"]
