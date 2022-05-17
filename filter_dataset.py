@@ -31,7 +31,7 @@ for friend in tqdm(friends):
 
 print(len(filtered_friends.keys()))
 
-with open('{}/all_filtered.txt'.format(dump_location), 'w', encoding='utf-8') as f:
+with open('{}/all_10k.txt'.format(dump_location), 'w', encoding='utf-8') as f:
     f.write(str.join('\n', (str(x) for x in filtered_friends.keys())))
 
 json.dump(filtered_friends, open(
