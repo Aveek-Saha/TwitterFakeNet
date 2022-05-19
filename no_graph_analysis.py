@@ -31,25 +31,15 @@ screen_name = "all_10k"
 threshhold = 0.5
 
 graph = nx.read_gml("{}/{}_features.gml".format(dump_location, screen_name))
-
-node2vec = Node2Vec(graph, dimensions=128, walk_length=40, num_walks=300, workers=1, p=.5, q=3)
-
-vmodel = node2vec.fit()
-
-node_ids = vmodel.wv.index_to_key  # list of node IDs
-vectors = vmodel.wv.vectors
-
 graph_nodes = list(graph.nodes(data=True))
 
 X_feat = []
 
 node_targets = []
-for index, id in enumerate(node_ids):
-    result = next((v for v in graph_nodes if v[0] == id), None)
+for index, result in enumerate(graph_nodes):
     fake = result[1]["fake"]
-    vector = list(vectors[index])
     feats = [result[1]["followers_count"], result[1]["friends_count"], result[1]["listed_count"], result[1]["statuses_count"], result[1]["verified"], result[1]["political"]]
-    X_feat.append(vector + feats)
+    X_feat.append(feats)
     if fake >= threshhold:
         node_targets.append(1)
     else:
@@ -59,22 +49,6 @@ node_embeddings = (
     X_feat
 )
 
-
-# tsne = TSNE(n_components=2)
-# node_embeddings_2d = tsne.fit_transform(node_embeddings)
-
-# alpha = 0.7
-# node_colours = ['red' if l == 1 else 'green' for l in node_targets]
-# plt.figure(figsize=(10, 8))
-# plt.scatter(
-#     node_embeddings_2d[:, 0],
-#     node_embeddings_2d[:, 1],
-#     c=node_colours,
-#     cmap="jet",
-#     alpha=alpha,
-# )
-
-# plt.show()
 
 X = node_embeddings
 y = np.array(node_targets)
