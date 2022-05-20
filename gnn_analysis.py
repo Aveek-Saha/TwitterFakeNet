@@ -47,6 +47,8 @@ user_features = df.drop(columns=['fake', 'userid', 'total_count'])
 X_train, X_test, y_train, y_test = train_test_split(user_features, y, test_size=0.3)
 
 scaler = StandardScaler()
+# scaler = preprocessing.PowerTransformer(method='yeo-johnson', 
+#                                     standardize=True)
 scaled_X_train = scaler.fit_transform(X_train)
 scaled_X_test = scaler.transform(X_test)
 
@@ -67,7 +69,7 @@ if model_type == "graphsage":
     batch_size = 100; 
     in_samples = [20, 4]
     out_samples = [10, 2]
-    epochs = 300
+    epochs = 100
     
     generator = DirectedGraphSAGENodeGenerator(stg, batch_size, in_samples, out_samples)
     train_gen = generator.flow(X_train.index, 
