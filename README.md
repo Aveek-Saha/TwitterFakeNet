@@ -156,12 +156,12 @@ For a baseline, the performance of classifiers on just the sentiment and empath 
 
 |               | Accuracy | Precision | Recall | f1 Score |
 | :-----------: | :------: | :-------: | :----: | :------: |
-|  Naive Bayes  |  0.659   |   0.660   | 0.660  |  0.660   |
-|      KNN      |  0.628   |   0.680   | 0.630  |  0.600   |
-| Logistic Reg  |  0.686   |   0.690   | 0.690  |  0.680   |
+|  Naive Bayes  |  0.771   |   0.660   | 0.660  |  0.660   |
+|      KNN      |  0.747   |   0.680   | 0.630  |  0.600   |
+| Logistic Reg  |  0.775   |   0.690   | 0.690  |  0.680   |
 |      SVM      |  0.716   |   0.720   | 0.720  |  0.720   |
-|    XGBoost    |  0.710   |   0.710   | 0.710  |  0.710   |
-| Random Forest |  0.662   |   0.660   | 0.660  |  0.660   |
+|    XGBoost    |  0.761   |   0.710   | 0.710  |  0.710   |
+| Random Forest |  0.767   |   0.660   | 0.660  |  0.660   |
 
 ### GNNs
 
@@ -175,12 +175,12 @@ For a baseline, the performance of classifiers on just the sentiment and empath 
 
 |               | Accuracy | Precision | Recall | f1 Score |
 | :-----------: | :------: | :-------: | :----: | :------: |
-|  Naive Bayes  |  0.610   |   0.630   | 0.620  |  0.610   |
-|      KNN      |  0.671   |   0.670   | 0.670  |  0.670   |
-| Logistic Reg  |  0.678   |   0.680   | 0.680  |  0.670   |
+|  Naive Bayes  |  0.732   |   0.630   | 0.620  |  0.610   |
+|      KNN      |  0.727   |   0.670   | 0.670  |  0.670   |
+| Logistic Reg  |  0.787   |   0.680   | 0.680  |  0.670   |
 |      SVM      |  0.728   |   0.730   | 0.730  |  0.720   |
-|    XGBoost    |  0.728   |   0.730   | 0.730  |  0.720   |
-| Random Forest |  0.659   |   0.670   | 0.660  |  0.660   |
+|    XGBoost    |  0.793   |   0.730   | 0.730  |  0.720   |
+| Random Forest |  0.785   |   0.670   | 0.660  |  0.660   |
 
 ### Learnt embeddings
 
