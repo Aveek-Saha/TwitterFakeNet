@@ -78,6 +78,15 @@ y_pred = gnb.predict(scaled_X_test)
 print(classification_report(y_test, y_pred))
 print("Accuracy:", accuracy_score(y_test, y_pred))
 
+print("\n SVM: ")
+clf = svm.SVC(kernel='rbf', gamma='scale')
+clf.fit(scaled_X_train, y_train)
+
+y_pred = clf.predict(scaled_X_test)
+
+print(classification_report(y_test, y_pred))
+print("Accuracy:", accuracy_score(y_test, y_pred))
+
 
 print("\n K Nearest Neighbors: ")
 knn = KNeighborsClassifier(n_neighbors=10)
