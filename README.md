@@ -24,6 +24,9 @@ python create_dataset.py
 ### 3. Collect user information
 
 Use tweego to collect information about the users from their ids
+```
+tweego -d "fakenewsnet_dataset" -k "keys.json" -n "all" -u
+```
 
 ### 4. Filter dataset
 
@@ -46,6 +49,10 @@ The reason behind these constraints is:
 ### 5. Create user network
 
 Use the tweego tool to construct the user network and store it as a .gml file
+
+```
+tweego -d "fakenewsnet_dataset" -k "keys.json" -n "all_10k" -so -g
+```
 
 ### 6. Add features to graph
 
@@ -75,13 +82,15 @@ To build a classification model that would find patterns in ego networks to dete
 
 ### 1. Tweego
 
+[Tweego](https://github.com/Aveek-Saha/tweego) is a tool to generate second order ego networks for users from Twitter. This means it'll collect all the friends of friends for a given set of users and generate a graph.
+
 ### 2. FakeNewsNet
 
 [FakeNewsNet](https://github.com/KaiDMML/FakeNewsNet) is a fake news data repository, which contains two comprehensive datasets that includes news content, social context, and dynamic information. The full paper can be found [here](https://arxiv.org/pdf/1809.01286.pdf). The news is obtained from _two_ fact-checking websites to obtain news with ground truth labels for fake news and true news, these websites are-
 
--   #### PolitiFact
+-   **PolitiFact:** 
     In PolitiFact, journalists and domain experts review the political news and provide fact-checking evaluation results to claim news articles as fake or real.
--   #### GossipCop
+-   **GossipCop:** 
     GossipCop is a website for fact-checking entertainment stories aggregated from various media outlets. GossipCop provides rating scores on the scale of 0 to 10 to classify a news story as the degree from fake to real.
 
 The most important feature of FakeNewsNet is that it also downloads tweets and retweets sharing the news articles from Twitter. This means that we can get the profile of users that shared the tweets from Twitter, and then combine it with our list of verified users to see how many fake/real news articles every verified user shared.
